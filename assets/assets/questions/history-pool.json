@@ -1,0 +1,4898 @@
+[
+  {
+    "question_text": "Who was the first President of the United States?",
+    "choices": [
+      "Thomas Jefferson",
+      "George Washington",
+      "John Adams",
+      "Benjamin Franklin"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "George Washington, commander of the Continental Army, took office as the first U.S. president in 1789.",
+    "difficulty": "easy",
+    "content_hash": "b8bd73f1eb48fd133d4d1ec43c1c8e1667b9f30555176711bb5d178d81bcec05",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which ancient civilization built the pyramids at Giza?",
+    "choices": [
+      "The Sumerians",
+      "The Egyptians",
+      "The Phoenicians",
+      "The Minoans"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The Giza pyramids were built as royal tombs by ancient Egyptians during the Old Kingdom, around 2600–2500 BC.",
+    "difficulty": "easy",
+    "content_hash": "cbf81b37bb2a1aa0b1465438098267f880d67b7992e671c4e48e2e74abc7947f",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "In which year did World War II end?",
+    "choices": [
+      "1943",
+      "1944",
+      "1945",
+      "1946"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Germany surrendered in May 1945 and Japan in September 1945, ending the war.",
+    "difficulty": "easy",
+    "content_hash": "23fdcef1bdf4c40a4990e2cbb04209c3b7d61c2d3bce786f9ec9e0052c527cd6",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "In which year did the Berlin Wall fall?",
+    "choices": [
+      "1985",
+      "1989",
+      "1991",
+      "1993"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "On 9 November 1989 East Germany opened its borders and crowds began dismantling the Wall.",
+    "difficulty": "easy",
+    "content_hash": "4d09697316b72ba4c6d452a1507d5fee61ecc07de680f46938c32bdb6f192242",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Whose expedition completed the first circumnavigation of the globe (1519–1522)?",
+    "choices": [
+      "Vasco da Gama",
+      "Ferdinand Magellan",
+      "Christopher Columbus",
+      "Francis Drake"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Magellan launched the voyage but died in the Philippines; Juan Sebastián Elcano brought the surviving ship home.",
+    "difficulty": "easy",
+    "content_hash": "2479f22080b5d620ebc4e5ceca65b6acfc4226f901ef9c800a3fe5810b6ed52e",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Who became the first person to walk on the Moon, in 1969?",
+    "choices": [
+      "Yuri Gagarin",
+      "Buzz Aldrin",
+      "Neil Armstrong",
+      "John Glenn"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Neil Armstrong stepped onto the lunar surface on 20 July 1969 during Apollo 11.",
+    "difficulty": "easy",
+    "content_hash": "65dc74671d3b5c077d4c1d9909d5b09fb41175f39860426f71058700fb828f66",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Who led India's nonviolent movement for independence from British rule?",
+    "choices": [
+      "Mohandas Gandhi",
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "B. R. Ambedkar"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Gandhi's campaigns of nonviolent civil disobedience made him the central figure of India's independence struggle.",
+    "difficulty": "easy",
+    "content_hash": "52aff70b1cbcb04824a108da8c3ccd5c64b8c77fb72ee761c12b4fe9d44d019b",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "What was the name of the ship that carried the Pilgrims to America in 1620?",
+    "choices": [
+      "Santa María",
+      "Mayflower",
+      "Endeavour",
+      "Golden Hind"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The Mayflower carried about 102 passengers from England to what became Plymouth Colony.",
+    "difficulty": "easy",
+    "content_hash": "be9f8d6a0f04985932b8e41581038c8fc7165d0b22812aa1be1ef9236e9a2425",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The Treaty of Versailles formally ended which conflict?",
+    "choices": [
+      "The Napoleonic Wars",
+      "World War I",
+      "World War II",
+      "The Crimean War"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Signed in 1919, the Treaty of Versailles ended World War I and imposed harsh terms on Germany.",
+    "difficulty": "easy",
+    "content_hash": "2653863146347f22d8048368ce055c8a41ac32cb990f8de4f91f5786c1392222",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Who was Britain's Prime Minister for most of World War II?",
+    "choices": [
+      "Neville Chamberlain",
+      "Clement Attlee",
+      "Winston Churchill",
+      "David Lloyd George"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Churchill became Prime Minister in May 1940 and led Britain through the rest of the war in Europe.",
+    "difficulty": "easy",
+    "content_hash": "a962d9b6108911a4ba2e974a4f41c07a0da993865ee5c8ddad9043251d16ad3e",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which civilization built the mountain citadel of Machu Picchu?",
+    "choices": [
+      "The Maya",
+      "The Aztecs",
+      "The Inca",
+      "The Olmec"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Machu Picchu was built in the 15th century in Peru by the Inca, likely under the emperor Pachacuti.",
+    "difficulty": "easy",
+    "content_hash": "9dbc68e252601cbc051268d036ac8359a1ac3081354bff252da18d7df4af7c09",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "In which year did Christopher Columbus first reach the Americas?",
+    "choices": [
+      "1453",
+      "1492",
+      "1519",
+      "1607"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Columbus made landfall in the Caribbean in October 1492 while sailing for the Spanish crown.",
+    "difficulty": "easy",
+    "content_hash": "54184c7876513aed998912c8e6566c2f64e745b2b34b09c2d228d06a620f3dfb",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Who was the first female Prime Minister of the United Kingdom?",
+    "choices": [
+      "Theresa May",
+      "Margaret Thatcher",
+      "Indira Gandhi",
+      "Golda Meir"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Margaret Thatcher served as Prime Minister from 1979 to 1990.",
+    "difficulty": "easy",
+    "content_hash": "7b969491231047ec25b7270fdb54b0fbb0b9443104ba6c23f56b4edbf795e683",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which Roman city was buried by the eruption of Mount Vesuvius in AD 79?",
+    "choices": [
+      "Carthage",
+      "Pompeii",
+      "Ostia",
+      "Syracuse"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Pompeii (along with Herculaneum) was buried in ash, preserving the city for later excavation.",
+    "difficulty": "easy",
+    "content_hash": "3e04937d1b673ab4bdf481b245985dea37a252ec84793c4b7f98045ec46fec34",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which French general crowned himself Emperor of the French in 1804?",
+    "choices": [
+      "Louis XVI",
+      "Maximilien Robespierre",
+      "Napoleon Bonaparte",
+      "Charles de Gaulle"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Napoleon Bonaparte, who seized power in 1799, was crowned emperor at Notre-Dame in December 1804.",
+    "difficulty": "easy",
+    "content_hash": "7f8b92e31b0b476833f3ddab897fb491c8eb5299c342c499512253c0301e806b",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Who became South Africa's first Black president in 1994?",
+    "choices": [
+      "Desmond Tutu",
+      "Nelson Mandela",
+      "Thabo Mbeki",
+      "Steve Biko"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Mandela, released from prison in 1990, won South Africa's first fully democratic election in 1994.",
+    "difficulty": "easy",
+    "content_hash": "b1cab030736648fca6372963ae5a7f108f3d2549b0d107a6bee90636b83fe3b8",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "In which year was the Battle of Hastings fought?",
+    "choices": [
+      "1016",
+      "1066",
+      "1099",
+      "1215"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "William of Normandy defeated King Harold II at Hastings in 1066, beginning the Norman conquest of England.",
+    "difficulty": "medium",
+    "content_hash": "97fa8cbd054f47c4384f0b2cf05ca84cc424e71265808712dd15a9835cc6d477",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which 1648 settlement ended the Thirty Years' War?",
+    "choices": [
+      "The Peace of Westphalia",
+      "The Treaty of Utrecht",
+      "The Edict of Nantes",
+      "The Peace of Augsburg"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The Peace of Westphalia ended the war and helped establish the modern system of sovereign states.",
+    "difficulty": "medium",
+    "content_hash": "989d17e70d226dc3fc79f8a76b5b487b5616a7e1b6452c6cd49badc9e097cc31",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Who was the first emperor of a unified China?",
+    "choices": [
+      "Kublai Khan",
+      "Qin Shi Huang",
+      "Emperor Wu of Han",
+      "Sun Yat-sen"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Qin Shi Huang unified the warring states in 221 BC and is associated with the Terracotta Army.",
+    "difficulty": "medium",
+    "content_hash": "7764f65fb591dbd792f92e0454ab80684ab7c4bc1a52a0987d9d6dc0c46dcc67",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Mansa Musa, famed as one of history's richest rulers, governed which West African empire?",
+    "choices": [
+      "Songhai",
+      "Benin",
+      "Mali",
+      "Great Zimbabwe"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Mansa Musa ruled the Mali Empire in the 14th century and made a legendary gold-laden pilgrimage to Mecca.",
+    "difficulty": "medium",
+    "content_hash": "a10cd8662a80f17cafabb92fac0d132cb6502ffbf04f1cb0eccb6daf0612fb02",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Whose assassination in Sarajevo in 1914 triggered World War I?",
+    "choices": [
+      "Archduke Franz Ferdinand",
+      "Kaiser Wilhelm II",
+      "Tsar Nicholas II",
+      "King Alexander I"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The Austro-Hungarian heir was shot by Gavrilo Princip, setting off the July Crisis and war.",
+    "difficulty": "medium",
+    "content_hash": "a046794fc2113a7af2cc07db72c4d5f113c12d80911e150530a6b183c515870a",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which Russian ruler founded the city of St. Petersburg in 1703?",
+    "choices": [
+      "Ivan the Terrible",
+      "Catherine the Great",
+      "Peter the Great",
+      "Alexander I"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Peter the Great built St. Petersburg as a 'window to the West' and made it Russia's capital.",
+    "difficulty": "medium",
+    "content_hash": "bd2bee4539246148d98cb2e21f220ed751219d93361d9ee5e68a51de0ebdc4f0",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The storming of the Bastille, which sparked the French Revolution, took place in which year?",
+    "choices": [
+      "1776",
+      "1789",
+      "1793",
+      "1799"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Parisians stormed the Bastille prison on 14 July 1789, now France's national holiday.",
+    "difficulty": "medium",
+    "content_hash": "92e67600c2e73573f56f03e28efd5395b63fc5c8349d9556ac9bd73a506da161",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Who founded the Mongol Empire in the early 13th century?",
+    "choices": [
+      "Tamerlane",
+      "Genghis Khan",
+      "Attila",
+      "Batu Khan"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Temüjin was proclaimed Genghis Khan in 1206 and forged the largest contiguous land empire in history.",
+    "difficulty": "medium",
+    "content_hash": "9f3a1a16d7b40066f1ff0a332759fa53427a9a2908ef118ca94e8987cf32cd45",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which empire captured Constantinople in 1453?",
+    "choices": [
+      "The Ottoman Empire",
+      "The Persian Empire",
+      "The Russian Empire",
+      "The Holy Roman Empire"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Sultan Mehmed II's Ottoman forces took the city, ending the Byzantine Empire.",
+    "difficulty": "medium",
+    "content_hash": "f9d7161c5d110786d1f1d1acf39a73dd28ea44157aec008058490cde5da55d37",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Karl Marx co-wrote 'The Communist Manifesto' with whom?",
+    "choices": [
+      "Vladimir Lenin",
+      "Friedrich Engels",
+      "Mikhail Bakunin",
+      "Pierre-Joseph Proudhon"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Marx and Engels published the Manifesto in 1848, a year of revolutions across Europe.",
+    "difficulty": "medium",
+    "content_hash": "74958263ebd219375a84010b78ddf293910fefb2df0319b09228ec4574f8dbcf",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The Meiji Restoration of 1868 restored political power to the emperor of which country?",
+    "choices": [
+      "China",
+      "Korea",
+      "Japan",
+      "Thailand"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "The restoration ended the Tokugawa shogunate and launched Japan's rapid modernization.",
+    "difficulty": "medium",
+    "content_hash": "41375a601a79b0393065493a10637917d9408a91efd3aae2569caa3414f2194a",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "At which 1815 battle was Napoleon finally defeated?",
+    "choices": [
+      "Austerlitz",
+      "Leipzig",
+      "Waterloo",
+      "Borodino"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Allied armies under Wellington and Blücher beat Napoleon at Waterloo, ending his Hundred Days.",
+    "difficulty": "medium",
+    "content_hash": "8a76265bd25ca13e1eabbf4b3626aa76d1e47da685b336573638905c0ed4f4e0",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which modern country was known internationally as Persia until 1935?",
+    "choices": [
+      "Iraq",
+      "Iran",
+      "Turkey",
+      "Afghanistan"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Reza Shah asked foreign governments to use 'Iran', the name long used domestically.",
+    "difficulty": "medium",
+    "content_hash": "5eadaf0773278f1bc62510c61a97ade8f9cafad6243e0f59d193478eeacd5bea",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Who was the last tsar of Russia?",
+    "choices": [
+      "Alexander III",
+      "Nicholas II",
+      "Paul I",
+      "Alexander II"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Nicholas II abdicated in March 1917 and was executed with his family in 1918.",
+    "difficulty": "medium",
+    "content_hash": "62ec763b36d6cf767589e587da91177d2614137fcbb563d4d2e12ac2bbdd4a69",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Most of the Great Wall of China as it stands today was built under which dynasty?",
+    "choices": [
+      "Han",
+      "Tang",
+      "Ming",
+      "Qing"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "The Ming dynasty (1368–1644) rebuilt the wall in brick and stone to guard against northern invasions.",
+    "difficulty": "medium",
+    "content_hash": "98d729b56c390b5018efa36295f70eb443b2adfc1f6ea92882fd466a681522df",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "In which year did King John of England seal the Magna Carta?",
+    "choices": [
+      "1189",
+      "1215",
+      "1265",
+      "1302"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Rebellious barons forced John to accept Magna Carta at Runnymede in June 1215.",
+    "difficulty": "medium",
+    "content_hash": "64272f4e5cf738c70439f649be5a9d4055ca7e2f5588a3d1dcc360aa6a5ac500",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "At the 1896 Battle of Adwa, which African nation defeated an invading Italian army?",
+    "choices": [
+      "Ethiopia",
+      "Sudan",
+      "Morocco",
+      "Liberia"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Emperor Menelik II's forces crushed the Italians at Adwa, preserving Ethiopian independence.",
+    "difficulty": "hard",
+    "content_hash": "1115525e0224e25afd5472b2959652120aa176101bca33d20b59ad1aa57c434b",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which 1494 treaty divided newly discovered lands between Spain and Portugal?",
+    "choices": [
+      "Treaty of Tordesillas",
+      "Treaty of Zaragoza",
+      "Treaty of Alcáçovas",
+      "Treaty of Madrid"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The Treaty of Tordesillas drew a line in the Atlantic, giving Portugal claim to what became Brazil.",
+    "difficulty": "hard",
+    "content_hash": "902b2977f694940bba9a8241d70a5696a7b57cec2503ac544ef884c97915c670",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which Byzantine emperor ordered the great codification of Roman law in the 6th century?",
+    "choices": [
+      "Constantine I",
+      "Justinian I",
+      "Heraclius",
+      "Basil II"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Justinian I's jurists compiled the Corpus Juris Civilis, the foundation of much later European law.",
+    "difficulty": "hard",
+    "content_hash": "5e775b738bedac69f64eb15590d2dce57e7d0540c9f8550fd72c9a816a759035",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The secret 1916 Sykes–Picot Agreement carved up Ottoman territory between which two powers?",
+    "choices": [
+      "Britain and France",
+      "Germany and Austria",
+      "Russia and Italy",
+      "France and Italy"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "British and French diplomats Mark Sykes and François Georges-Picot agreed on spheres of influence in the Middle East.",
+    "difficulty": "hard",
+    "content_hash": "e4a73110b012bb263d1e4e66e620cce2b07db7d41ed4f7eb5400851b98546a56",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "At which 1571 naval battle did a Christian coalition defeat the Ottoman fleet?",
+    "choices": [
+      "Battle of Actium",
+      "Battle of Lepanto",
+      "Battle of Salamis",
+      "Battle of Navarino"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The Holy League's galleys destroyed the Ottoman fleet at Lepanto off the coast of Greece.",
+    "difficulty": "hard",
+    "content_hash": "9fa478e49bc8ce388daf1f8683ff2c04112ef65890d220494afdf6473838f629",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which dynasty ruled Korea from 1392 until 1910?",
+    "choices": [
+      "Goryeo",
+      "Joseon",
+      "Silla",
+      "Baekje"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The Joseon dynasty, founded by Yi Seong-gye, ruled for over five centuries until Japanese annexation.",
+    "difficulty": "hard",
+    "content_hash": "ac89428d0b12b986a7b1b0949e87c27addd09f2754ee4cbde08ea986c09040e3",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Who proclaimed Haiti's independence in 1804 after the slave revolution?",
+    "choices": [
+      "Toussaint Louverture",
+      "Jean-Jacques Dessalines",
+      "Henri Christophe",
+      "Alexandre Pétion"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Dessalines declared independence on 1 January 1804 after Louverture's death in French captivity.",
+    "difficulty": "hard",
+    "content_hash": "f5d06cecb2b5dadfe9045c16a0773d7c055628c63d8feeefb31f9a59e33122e2",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The Defenestration of Prague, which helped ignite the Thirty Years' War, occurred in which year?",
+    "choices": [
+      "1555",
+      "1618",
+      "1632",
+      "1648"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "In 1618 Protestant nobles threw royal officials from a castle window in Prague, sparking the war.",
+    "difficulty": "hard",
+    "content_hash": "43c0ee4835a134266501b024c9168ee03d3fd83d1685da683fc883615c008734",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which ancient wonder stood in the harbor of Alexandria, Egypt?",
+    "choices": [
+      "The Colossus of Rhodes",
+      "The Lighthouse (Pharos) of Alexandria",
+      "The Temple of Artemis",
+      "The Mausoleum at Halicarnassus"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The Pharos of Alexandria, built in the 3rd century BC, guided ships into the harbor and was one of the Seven Wonders of the Ancient World.",
+    "difficulty": "easy",
+    "content_hash": "aa521a7c24c614131751a3e4c83a2b256c160fb5934afeee114a7ab54a17113b",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which document, adopted in 1776, declared the American colonies free from British rule?",
+    "choices": [
+      "The Bill of Rights",
+      "The Articles of Confederation",
+      "The Declaration of Independence",
+      "The US Constitution"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "The Declaration of Independence was adopted by the Continental Congress on July 4, 1776.",
+    "difficulty": "easy",
+    "content_hash": "ccabb78a4b396a27eef6a45b11cbb37a5e872792ed0cf146f6773c57496819eb",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Who was the female pharaoh who ruled Egypt in the 15th century BC and was known for her trading expedition to Punt?",
+    "choices": [
+      "Nefertiti",
+      "Cleopatra VII",
+      "Hatshepsut",
+      "Ankhesenamun"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Hatshepsut ruled as pharaoh around 1479–1458 BC and famously sent a trading expedition to the land of Punt.",
+    "difficulty": "medium",
+    "content_hash": "69be00ebfa07d44b6246d91f4adb44ea030cb5b031ef599068debc0efd89fafc",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The Bolshevik Revolution that brought Lenin to power occurred in which year?",
+    "choices": [
+      "1905",
+      "1917",
+      "1918",
+      "1921"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The Bolsheviks seized power in Petrograd in October/November 1917.",
+    "difficulty": "easy",
+    "content_hash": "711e6e1bbac24fcdb5e3795ef90c9dda4741a7e8f2975b667df0671227d6679b",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which wall was built across northern Britain on the orders of a Roman emperor in AD 122?",
+    "choices": [
+      "Hadrian's Wall",
+      "Offa's Dyke",
+      "The Antonine Wall",
+      "The Servian Wall"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Hadrian's Wall was begun in AD 122 under Emperor Hadrian to mark and defend the northern frontier of Roman Britain.",
+    "difficulty": "easy",
+    "content_hash": "4b37ad8029cc3e960b88a61bf0bdac35dfe98fbe866357fd8f41e02e7b78cf57",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The Black Death swept through Europe primarily during which decade?",
+    "choices": [
+      "The 1280s",
+      "The 1340s",
+      "The 1420s",
+      "The 1490s"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The plague reached Europe in 1347 and killed perhaps a third of the population over the following years.",
+    "difficulty": "medium",
+    "content_hash": "ec5001a54b1119aff9a44bd9f0aaaf56af026f11574c2999e3d4a5eca36db134",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which explorer led the first European sea voyage from Europe around Africa to India, arriving in 1498?",
+    "choices": [
+      "Bartolomeu Dias",
+      "Vasco da Gama",
+      "Pedro Álvares Cabral",
+      "Amerigo Vespucci"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Vasco da Gama rounded the Cape of Good Hope and reached Calicut, India, in May 1498.",
+    "difficulty": "easy",
+    "content_hash": "59883c7562e9172fe756c9137c74b0453a6c2911307e743347692e3065ddcde3",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Simón Bolívar is celebrated as a liberator of which region?",
+    "choices": [
+      "Southeast Asia",
+      "North Africa",
+      "South America",
+      "Central Europe"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Bolívar led independence campaigns that freed Venezuela, Colombia, Ecuador, Peru and Bolivia from Spanish rule.",
+    "difficulty": "easy",
+    "content_hash": "5affb257f47ea9c7e2dce6e4246a6bbda0c289155bc3e2af5bc92ae818902c45",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which empire was ruled from Tenochtitlán before the Spanish conquest?",
+    "choices": [
+      "The Maya",
+      "The Aztec",
+      "The Olmec",
+      "The Zapotec"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Tenochtitlán, on the site of modern Mexico City, was the Aztec (Mexica) capital until Cortés took it in 1521.",
+    "difficulty": "easy",
+    "content_hash": "fdb765b550fea811e481b8f65fc6049848d466a7a2e3a6883ad6c3ce77b024d5",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The Battle of Stalingrad ended in February 1943 with the surrender of which army?",
+    "choices": [
+      "The German Sixth Army",
+      "The Italian Eighth Army",
+      "The Soviet Second Shock Army",
+      "The Romanian Third Army"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Field Marshal Paulus surrendered the encircled German Sixth Army, a decisive turning point on the Eastern Front.",
+    "difficulty": "medium",
+    "content_hash": "5e394ef5ceee31b195180d17ad7fc51acbaafcc203b9ea088ca09c157d469887",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Who was the Carthaginian general who crossed the Alps with elephants to invade Italy?",
+    "choices": [
+      "Hasdrubal",
+      "Hamilcar Barca",
+      "Hannibal",
+      "Scipio"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Hannibal crossed the Alps in 218 BC during the Second Punic War and won stunning victories in Italy.",
+    "difficulty": "easy",
+    "content_hash": "e360628dec85e320edf05cfbb1946d06e81256093f5cc21c4537dfa47cbd3eae",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which conference in 1945 brought together Churchill, Roosevelt and Stalin to plan postwar Europe?",
+    "choices": [
+      "Potsdam",
+      "Yalta",
+      "Tehran",
+      "Casablanca"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The Yalta Conference of February 1945 was the last wartime meeting of the 'Big Three' with Roosevelt.",
+    "difficulty": "medium",
+    "content_hash": "1d753e09d6c9846a2d27089c760e8044527c23139bf10b9ef82edfbaacaf70ed",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The Rosetta Stone was key to deciphering which writing system?",
+    "choices": [
+      "Cuneiform",
+      "Egyptian hieroglyphs",
+      "Linear B",
+      "Mayan glyphs"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Its parallel Greek text allowed Jean-François Champollion to crack Egyptian hieroglyphs in 1822.",
+    "difficulty": "easy",
+    "content_hash": "cf419e421b61893575aeb4801f998a6ad89178095d9a66ed27a15586d7da8f6c",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which European country colonized Brazil?",
+    "choices": [
+      "Spain",
+      "Portugal",
+      "France",
+      "The Netherlands"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Portugal claimed Brazil in 1500 and ruled it until Brazilian independence in 1822.",
+    "difficulty": "easy",
+    "content_hash": "5eb9255c4ed3afd31c055f25dd51f41088b4bc170c8b10febe079af98628346d",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which 1804 legal code, still influential worldwide, was enacted under Napoleon?",
+    "choices": [
+      "The Napoleonic Code",
+      "The Code of Justinian",
+      "The Corpus Juris",
+      "The Salic Law"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The Civil Code of 1804, known as the Napoleonic Code, shaped legal systems across Europe and Latin America.",
+    "difficulty": "medium",
+    "content_hash": "182cf5d7cfd3b150183f99d14652fef0ca630406b7f8b47603fca333ba9fb3d8",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The Long March of 1934–35 was a retreat by the forces of which leader?",
+    "choices": [
+      "Chiang Kai-shek",
+      "Sun Yat-sen",
+      "Mao Zedong",
+      "Zhou Enlai"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Mao Zedong's Communist Red Army trekked thousands of miles to escape Nationalist encirclement, cementing his leadership.",
+    "difficulty": "medium",
+    "content_hash": "902f154959c5a2623cd7b8629053fd8fb632924a0e6e93b60ef4da69a63b7cc8",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which city was the capital of the Byzantine Empire?",
+    "choices": [
+      "Antioch",
+      "Thessaloniki",
+      "Constantinople",
+      "Nicaea"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Constantinople, founded by Constantine in AD 330, served as the Byzantine capital for over a thousand years.",
+    "difficulty": "easy",
+    "content_hash": "2cdfeabf271ab0a9d8491de4435f98ba28d3b58205b9144cad3755acffe429dc",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which pharaoh's largely intact tomb was discovered by Howard Carter in 1922?",
+    "choices": [
+      "Ramesses II",
+      "Tutankhamun",
+      "Akhenaten",
+      "Seti I"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Carter found Tutankhamun's tomb in the Valley of the Kings, packed with treasures, in November 1922.",
+    "difficulty": "easy",
+    "content_hash": "a17f7e6fcb330db27907b755fc000c389b7e6d710c6b5da17bd008fb735d873f",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The Hundred Years' War was fought mainly between England and which country?",
+    "choices": [
+      "Spain",
+      "France",
+      "Scotland",
+      "The Holy Roman Empire"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "England and France fought intermittently from 1337 to 1453 over claims to the French throne.",
+    "difficulty": "easy",
+    "content_hash": "f3219e81d9466de52872c9632752856d5adb595611dc9c85c6e5a044537528d1",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Who was the Zulu king who defeated a British force at Isandlwana in 1879?",
+    "choices": [
+      "Shaka",
+      "Cetshwayo",
+      "Dingane",
+      "Moshoeshoe"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "King Cetshwayo kaMpande led the Zulu kingdom when its army crushed the British at Isandlwana in January 1879.",
+    "difficulty": "hard",
+    "content_hash": "8a75bde9ea1153bdd93ac73c43449ceba743b5eaaf2a5016aa973bc893271fc2",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which empire did Suleiman the Magnificent rule in the 16th century?",
+    "choices": [
+      "The Safavid Empire",
+      "The Mughal Empire",
+      "The Ottoman Empire",
+      "The Habsburg Empire"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Suleiman I ruled the Ottoman Empire from 1520 to 1566, its era of greatest power.",
+    "difficulty": "medium",
+    "content_hash": "6680775ec694d44a732b6cc8a45b38e3cefcdd97664c6e2c5a796cbeddffa8b4",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The Taj Mahal was built by which Mughal emperor?",
+    "choices": [
+      "Akbar",
+      "Aurangzeb",
+      "Shah Jahan",
+      "Babur"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Shah Jahan built the Taj Mahal at Agra as a mausoleum for his wife Mumtaz Mahal, completed around 1653.",
+    "difficulty": "easy",
+    "content_hash": "73c930e97a32747257d344f84ee4f854b90caa5eeef2e1d0c3861b12a1c3f518",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which US president issued the Emancipation Proclamation in 1863?",
+    "choices": [
+      "Andrew Johnson",
+      "Ulysses S. Grant",
+      "Abraham Lincoln",
+      "James Buchanan"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Lincoln's proclamation of January 1, 1863 declared enslaved people in Confederate-held territory to be free.",
+    "difficulty": "easy",
+    "content_hash": "26d7fcafe17066e41a97fc41dfa1162bf1c379df56ade9ed8026d940a19c096e",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The Suez Canal, opened in 1869, connects the Mediterranean Sea with which body of water?",
+    "choices": [
+      "The Persian Gulf",
+      "The Black Sea",
+      "The Red Sea",
+      "The Caspian Sea"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "The canal links the Mediterranean to the Red Sea, drastically shortening the route to Asia.",
+    "difficulty": "easy",
+    "content_hash": "863c6eb3828ad783b5e9f17ddc0159064360a8db10994886ffc53e98f471756b",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which Greek city-state defeated Athens in the Peloponnesian War, ending in 404 BC?",
+    "choices": [
+      "Thebes",
+      "Corinth",
+      "Sparta",
+      "Argos"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Sparta, aided by Persian funding, forced Athens to surrender in 404 BC.",
+    "difficulty": "medium",
+    "content_hash": "ed401cba2a21f130b967232bb6a0df7739f2c0f639550f78acab2a25e04519c1",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The Rwandan genocide took place in which year?",
+    "choices": [
+      "1990",
+      "1994",
+      "1998",
+      "2004"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Roughly 800,000 Tutsi and moderate Hutu were killed over about 100 days in 1994.",
+    "difficulty": "medium",
+    "content_hash": "9eb2c03bdbe6a7e3a874d6252111f280cb974c36480a2cd9287cc6ff1ac9cb1f",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Who was the Byzantine-era Frankish ruler crowned 'Emperor of the Romans' by the Pope on Christmas Day, 800?",
+    "choices": [
+      "Clovis I",
+      "Charlemagne",
+      "Charles Martel",
+      "Otto I"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Pope Leo III crowned Charlemagne emperor in Rome on December 25, 800.",
+    "difficulty": "medium",
+    "content_hash": "7ab6018b4e5bde8bfd5871ae1dcdd08bf1d4dde3b7677cd9f96a100cb0a167d7",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which country was ruled by the apartheid system until the early 1990s?",
+    "choices": [
+      "Zimbabwe",
+      "Namibia",
+      "South Africa",
+      "Kenya"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Apartheid, South Africa's system of legalized racial segregation, was dismantled between 1990 and 1994.",
+    "difficulty": "easy",
+    "content_hash": "27b95037e93b4bb9dc2718ee53be2faeeec0d8b32f825de70c5c598e3f5f2679",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The Sepoy Rebellion of 1857 was an uprising against which organization's rule in India?",
+    "choices": [
+      "The British East India Company",
+      "The Dutch East India Company",
+      "The Mughal court",
+      "The Portuguese Estado da Índia"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The revolt led Britain to abolish East India Company rule and place India under direct Crown government in 1858.",
+    "difficulty": "medium",
+    "content_hash": "83794bda616bbdc7e1b7e5cb801f1f37f6a7d001fcf3dd1db8e8b23ef316d9c0",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which ancient Mesopotamian king is known for one of the earliest written law codes, c. 1750 BC?",
+    "choices": [
+      "Sargon of Akkad",
+      "Hammurabi",
+      "Nebuchadnezzar II",
+      "Gilgamesh"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Hammurabi of Babylon had his code of nearly 300 laws inscribed on a stone stele.",
+    "difficulty": "medium",
+    "content_hash": "7c01c235405b341c1cd2be3e40efb5c524aab8ca2accf72789c13c13fdb6a842",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which ship's sinking in 1912 killed more than 1,500 people on its maiden voyage?",
+    "choices": [
+      "The Lusitania",
+      "The Titanic",
+      "The Britannic",
+      "The Empress of Ireland"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "RMS Titanic struck an iceberg in the North Atlantic and sank on April 15, 1912.",
+    "difficulty": "easy",
+    "content_hash": "acc737913497e9731289b22ae450c836faf949397d70f5dc9378cf98bd367c11",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The Cuban Missile Crisis brought the US into confrontation with the USSR in which year?",
+    "choices": [
+      "1959",
+      "1962",
+      "1965",
+      "1968"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The 13-day standoff over Soviet missiles in Cuba occurred in October 1962.",
+    "difficulty": "medium",
+    "content_hash": "9562a34cabfc73a65f59cf0eefdd286decae8c41841fa60165a899759c9f97f2",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Who was the first woman to be elected prime minister of any country, taking office in Ceylon in 1960?",
+    "choices": [
+      "Indira Gandhi",
+      "Golda Meir",
+      "Sirimavo Bandaranaike",
+      "Benazir Bhutto"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Sirimavo Bandaranaike of Ceylon (Sri Lanka) became the world's first female prime minister in July 1960.",
+    "difficulty": "hard",
+    "content_hash": "ea32d7b5dfac6aadb96353a93d42c19d53765b460b199ff96ea3c80743d2fe94",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which trade network linked China with the Mediterranean world for centuries?",
+    "choices": [
+      "The Amber Road",
+      "The Silk Road",
+      "The Incense Route",
+      "The Hanseatic League"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The Silk Road was a web of overland routes carrying silk, spices, ideas and disease between East and West.",
+    "difficulty": "easy",
+    "content_hash": "bf491a2f66c462382e28436df76cc526b0d7ac3ea307f8918dbf598d753ae928",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The Kingdom of Kush, which conquered Egypt in the 8th century BC, was centered in which region?",
+    "choices": [
+      "Modern Sudan",
+      "Modern Libya",
+      "Modern Ethiopia",
+      "Modern Mali"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Kush, with capitals at Napata and later Meroë, lay along the Nile in what is now Sudan.",
+    "difficulty": "hard",
+    "content_hash": "4d778af6dc1f6cb18e6bbac7e44de78f19f9c553bc14d8ade015165a7fb7a53c",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which 1215-founded Christian military campaign is known as the Reconquista?",
+    "choices": [
+      "The recapture of Jerusalem",
+      "The Christian reconquest of Iberia from Muslim rule",
+      "The Northern Crusades in the Baltic",
+      "The Albigensian Crusade in France"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The Reconquista was the centuries-long Christian campaign to retake the Iberian Peninsula, completed with Granada's fall in 1492.",
+    "difficulty": "easy",
+    "content_hash": "d3e867b66dc178a326fc086722ace7bedd13557732dd2d172ee7b8583ee8ff73",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which Japanese shogunate ruled from 1603 until the mid-19th century?",
+    "choices": [
+      "Kamakura",
+      "Ashikaga",
+      "Tokugawa",
+      "Fujiwara"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "The Tokugawa shogunate, founded by Ieyasu in 1603, governed Japan from Edo until 1868.",
+    "difficulty": "medium",
+    "content_hash": "505b1a29d753c3b907188c62cfa40a504661a82ddcb69a46dcecea67449b4fdb",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The Treaty of Tordesillas rival, the 1529 Treaty of Zaragoza, divided which region between Spain and Portugal?",
+    "choices": [
+      "The Caribbean",
+      "The Pacific and East Indies",
+      "The Arctic",
+      "Sub-Saharan Africa"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The Treaty of Zaragoza drew an antimeridian in the Pacific, awarding the Moluccas to Portugal.",
+    "difficulty": "hard",
+    "content_hash": "6592dd9234995df515f2ad1c714e232c7fd8d3077883cba1fc213fa961b73f29",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which Roman leader was assassinated in the Senate on the Ides of March, 44 BC?",
+    "choices": [
+      "Julius Caesar",
+      "Augustus",
+      "Pompey",
+      "Marcus Aurelius"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Julius Caesar was stabbed to death by a group of senators on March 15, 44 BC.",
+    "difficulty": "easy",
+    "content_hash": "9c5bc53d123502e3fb54df5283f62c72e7a4af93316157724d53d4182e2f01d2",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The Congress of Vienna, which redrew Europe's map after Napoleon, was chiefly steered by which Austrian statesman?",
+    "choices": [
+      "Otto von Bismarck",
+      "Klemens von Metternich",
+      "Talleyrand",
+      "Viscount Castlereagh"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Prince Metternich chaired and dominated the Congress of Vienna in 1814–15.",
+    "difficulty": "hard",
+    "content_hash": "7b8b6783e69203c38b220e491bd43f1567511a08bcdfa25b741b3608fb6d1a07",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which civilization developed the earliest known writing system, cuneiform, in Mesopotamia?",
+    "choices": [
+      "The Hittites",
+      "The Sumerians",
+      "The Phoenicians",
+      "The Assyrians"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The Sumerians of southern Mesopotamia developed cuneiform script around 3200 BC.",
+    "difficulty": "medium",
+    "content_hash": "6ea2e6d4b9fcb468b38a1a824ce46b1345789058a9acd136f99d95c34f28405c",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The Berlin Wall, dividing East and West Berlin, fell in which year?",
+    "choices": [
+      "1985",
+      "1989",
+      "1991",
+      "1993"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "On 9 November 1989 East German authorities opened the border crossings, and crowds began dismantling the wall.",
+    "difficulty": "easy",
+    "content_hash": "7203a258f720bc78972db922136e1aca3b513b134b3ba0c84dc00309b1cbb815",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which ancient wonder stood at the harbour of Alexandria in Egypt?",
+    "choices": [
+      "The Colossus of Rhodes",
+      "The Lighthouse (Pharos)",
+      "The Hanging Gardens",
+      "The Temple of Artemis"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The Pharos of Alexandria, built in the 3rd century BC, guided ships into the harbour and was one of the Seven Wonders.",
+    "difficulty": "easy",
+    "content_hash": "00eefc915fc3530b34b73ca4164b9946f5e76fcf573ab8f3e8c7c94d045fbdd9",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Who led the Indian independence movement using a philosophy of nonviolent civil disobedience?",
+    "choices": [
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Mohandas Gandhi",
+      "B. R. Ambedkar"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Gandhi's satyagraha campaigns, including the 1930 Salt March, mobilised millions against British rule.",
+    "difficulty": "easy",
+    "content_hash": "404d419fe532eecf3bb23264e8dff7bb345f43a8437242de2d542572a7bd5ee2",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The First World War began in 1914 after the assassination of Archduke Franz Ferdinand in which city?",
+    "choices": [
+      "Vienna",
+      "Belgrade",
+      "Sarajevo",
+      "Zagreb"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Gavrilo Princip shot the Austro-Hungarian heir in Sarajevo on 28 June 1914, triggering the July Crisis.",
+    "difficulty": "easy",
+    "content_hash": "352a0271bdbe5234d78fa5b8f0503fa018f415f9e5d37d9ac9e114da02b76bff",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which Italian navigator, sailing for Spain, reached the Caribbean in 1492?",
+    "choices": [
+      "Amerigo Vespucci",
+      "Christopher Columbus",
+      "John Cabot",
+      "Ferdinand Magellan"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Columbus made landfall in the Bahamas in October 1492 while seeking a westward route to Asia.",
+    "difficulty": "easy",
+    "content_hash": "f58bf92125798876d40c0084460b99d0b29272b124c155497e4f7d40ed49b888",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The Great Wall of China was built and expanded mainly to defend against invasions from which direction?",
+    "choices": [
+      "The north",
+      "The south",
+      "The east",
+      "The west"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Successive dynasties fortified the northern frontier against steppe nomads such as the Xiongnu and Mongols.",
+    "difficulty": "easy",
+    "content_hash": "af0241b4b8bea3d8cbf5591db5f2a7ffba1a49231bcaa1876a4336161859e9f3",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The storming of the Bastille in 1789 marked the start of which revolution?",
+    "choices": [
+      "The French Revolution",
+      "The Haitian Revolution",
+      "The Glorious Revolution",
+      "The July Revolution"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The fall of the Bastille fortress-prison on 14 July 1789 became the symbolic beginning of the French Revolution.",
+    "difficulty": "easy",
+    "content_hash": "efc0281ad37b5a6a38fb10a505a890f3883f640014038516e8bd7a0aae83dbc5",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which two cities were destroyed by atomic bombs in August 1945?",
+    "choices": [
+      "Tokyo and Osaka",
+      "Hiroshima and Nagasaki",
+      "Kyoto and Kobe",
+      "Nagasaki and Yokohama"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The US dropped atomic bombs on Hiroshima on 6 August and Nagasaki on 9 August 1945, and Japan surrendered days later.",
+    "difficulty": "easy",
+    "content_hash": "6ca5f4fdbe692502654c833c3d3b9d2c04bcf42404d2ba8fcdcf966a06ec85a3",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which ancient civilization built Machu Picchu high in the Andes?",
+    "choices": [
+      "The Maya",
+      "The Inca",
+      "The Moche",
+      "The Olmec"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Machu Picchu was constructed in the 15th century, likely as an estate for the Inca ruler Pachacuti.",
+    "difficulty": "easy",
+    "content_hash": "2498c0599dd00340e9226efc4470b541c34ee301a3c5954d3d3ad97a3af884ea",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Who was the British prime minister for most of the Second World War?",
+    "choices": [
+      "Neville Chamberlain",
+      "Clement Attlee",
+      "Winston Churchill",
+      "Anthony Eden"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Churchill became prime minister in May 1940 and led Britain until the war in Europe ended in 1945.",
+    "difficulty": "easy",
+    "content_hash": "df1b17671d581479c0974b24bef0992322a355647703eada080b7371cb2b583a",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Mansa Musa, famed for his extraordinary wealth and 1324 pilgrimage to Mecca, ruled which African empire?",
+    "choices": [
+      "Songhai",
+      "Mali",
+      "Ghana",
+      "Ethiopia"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Mansa Musa ruled the Mali Empire, whose gold reportedly disrupted Egyptian markets during his hajj.",
+    "difficulty": "easy",
+    "content_hash": "a534bd132c2bddf5c2d1a22739a102a57242e40db9b18f6fb3e9bc83b6a03bee",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The Ming dynasty admiral Zheng He led vast treasure fleets in the early 15th century as far as which region?",
+    "choices": [
+      "East Africa",
+      "Australia",
+      "Northern Europe",
+      "The Americas"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Zheng He's voyages reached the Swahili coast of East Africa, bringing back tribute and exotic animals.",
+    "difficulty": "medium",
+    "content_hash": "f1813350a1435c97d1a748814c1341917c6857d0e99e741cf7b369971640df26",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which battle in 1066 led to Norman rule over England?",
+    "choices": [
+      "Battle of Bosworth",
+      "Battle of Hastings",
+      "Battle of Agincourt",
+      "Battle of Stamford Bridge"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "William of Normandy defeated King Harold II at Hastings on 14 October 1066 and was crowned that Christmas.",
+    "difficulty": "easy",
+    "content_hash": "bc62d782bde4c4cccb0d9a49feb4d37e76a9c6ef609378668e54c5440cbb39af",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which treaty formally ended the First World War with Germany in 1919?",
+    "choices": [
+      "Treaty of Trianon",
+      "Treaty of Versailles",
+      "Treaty of Brest-Litovsk",
+      "Treaty of Sèvres"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Signed on 28 June 1919, the Treaty of Versailles imposed reparations and territorial losses on Germany.",
+    "difficulty": "easy",
+    "content_hash": "7874e1fe62378a060a38cc006dee3c0f7f7c980856b8be55e73eedc62b010263",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The Meiji Restoration of 1868 in Japan resulted in what?",
+    "choices": [
+      "The isolation of Japan from foreign trade",
+      "The restoration of imperial rule and rapid modernization",
+      "The founding of the samurai class",
+      "A communist government"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The Meiji Restoration ended shogunal rule, returned power to the emperor and launched industrial and military modernization.",
+    "difficulty": "medium",
+    "content_hash": "a164a584f242aeba1cd439e6f32b9ec4e92614a8e21bf2c76d5a17ed22ca4289",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which empire did Genghis Khan found in the early 13th century?",
+    "choices": [
+      "The Mongol Empire",
+      "The Timurid Empire",
+      "The Khazar Khaganate",
+      "The Seljuk Empire"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Proclaimed Genghis Khan in 1206, Temüjin united the steppe tribes and created the largest contiguous land empire.",
+    "difficulty": "easy",
+    "content_hash": "86d5555719a08834db9d10c428366b2d05b96a08ff78db97d8cc9ed81a45f7cf",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Toussaint Louverture was a leading figure in the revolution of which colony?",
+    "choices": [
+      "Cuba",
+      "Jamaica",
+      "Saint-Domingue (Haiti)",
+      "Martinique"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Louverture led the slave uprising in French Saint-Domingue, which became independent Haiti in 1804.",
+    "difficulty": "medium",
+    "content_hash": "77ba74d4dfd4c5029617aa7b6074a1c733389dec6d0d2363c13d0564abcc29e4",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The Magna Carta was sealed in 1215 by which English king?",
+    "choices": [
+      "Henry II",
+      "Richard I",
+      "John",
+      "Edward I"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Rebel barons forced King John to seal Magna Carta at Runnymede, limiting royal authority.",
+    "difficulty": "medium",
+    "content_hash": "e581b394f82c20ef2565ba56f0958f3615f9d83832e7984d45ec2577c9ad1d41",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which wall-to-wall conflict from 1618 to 1648 devastated Central Europe and ended with the Peace of Westphalia?",
+    "choices": [
+      "The Seven Years' War",
+      "The Thirty Years' War",
+      "The War of the Spanish Succession",
+      "The Great Northern War"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The Thirty Years' War, driven by religious and dynastic rivalries, ended with the Peace of Westphalia in 1648.",
+    "difficulty": "medium",
+    "content_hash": "021bec95b146610207eca4f89ee5f88e59e9d300e62cfccbcac5bd7cf6520b87",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Who was the last tsar of Russia, executed with his family in 1918?",
+    "choices": [
+      "Alexander III",
+      "Nicholas II",
+      "Paul I",
+      "Peter III"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Nicholas II abdicated in March 1917 and was shot with his family by Bolsheviks at Yekaterinburg in July 1918.",
+    "difficulty": "easy",
+    "content_hash": "81d0a11b8a6a3d1ea18bff253234cb699bd04ae0697a450ae9717019c7b2f8e8",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The Battle of Waterloo in 1815 saw Napoleon defeated by the Duke of Wellington and which allied commander?",
+    "choices": [
+      "Marshal Blücher",
+      "Tsar Alexander I",
+      "Archduke Charles",
+      "General Kutuzov"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The timely arrival of Gebhard von Blücher's Prussian troops helped seal Napoleon's final defeat.",
+    "difficulty": "medium",
+    "content_hash": "ad6c1b319268d388bafdbf56c935524a9af647c9eeb90266224bd3e2c0ab7170",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which civilization is credited with developing a fully positional writing system in Mesoamerica and an accurate Long Count calendar?",
+    "choices": [
+      "The Aztec",
+      "The Maya",
+      "The Zapotec",
+      "The Toltec"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The Maya developed a sophisticated hieroglyphic script and the Long Count calendar used across Mesoamerica.",
+    "difficulty": "medium",
+    "content_hash": "115d4dbdabf5ad4e0bde06459ab2a03173e0b08e65e7c9fcc841ecccc9979930",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The Korean War began in 1950 when North Korea crossed which dividing line?",
+    "choices": [
+      "The 17th parallel",
+      "The 38th parallel",
+      "The Yalu River",
+      "The 49th parallel"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "North Korean forces crossed the 38th parallel on 25 June 1950, prompting UN intervention.",
+    "difficulty": "medium",
+    "content_hash": "db717d40b31893f45d9f6cfb02be629174494d5cc74e7ae9f2d0b6f6a3d10446",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which Egyptian queen allied with Julius Caesar and later Mark Antony?",
+    "choices": [
+      "Nefertiti",
+      "Cleopatra VII",
+      "Arsinoe II",
+      "Berenice IV"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Cleopatra VII, the last active Ptolemaic ruler, tied her fortunes to Caesar and then Antony before Egypt fell to Rome.",
+    "difficulty": "easy",
+    "content_hash": "385d43b9136ef922f0ac904e69b65b31d0c05469a2eb859cf5635754eefdd7a0",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which country's 1979 revolution replaced a monarchy with an Islamic republic led by Ayatollah Khomeini?",
+    "choices": [
+      "Iraq",
+      "Afghanistan",
+      "Iran",
+      "Pakistan"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "The Iranian Revolution overthrew Shah Mohammad Reza Pahlavi, and Khomeini returned from exile to lead the new republic.",
+    "difficulty": "easy",
+    "content_hash": "39118552548881a3ba82b5a72683514c3bd13d3761f9deef12d6de6549f2f517",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The Council of Nicaea, convened in AD 325, was called by which Roman emperor?",
+    "choices": [
+      "Diocletian",
+      "Theodosius I",
+      "Constantine I",
+      "Justinian I"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Constantine I summoned bishops to Nicaea to settle the Arian controversy, producing the Nicene Creed.",
+    "difficulty": "medium",
+    "content_hash": "f43c778d00b2e64b2656238a9cbaa02a7610ef916d2ad28a6e65f6136284207a",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which two nations fought the Opium Wars of the 19th century?",
+    "choices": [
+      "Britain and China",
+      "France and Japan",
+      "Russia and China",
+      "Britain and India"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Britain fought Qing China over trade and opium; the first war ended with the 1842 Treaty of Nanking ceding Hong Kong.",
+    "difficulty": "medium",
+    "content_hash": "982071884e06188f143f6e9f9e96a5696903275403234b9a5b67e24dbe20ee38",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Who was the Macedonian king whose conquests reached the Indus River by 326 BC?",
+    "choices": [
+      "Philip II",
+      "Alexander the Great",
+      "Seleucus I",
+      "Antigonus I"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Alexander III of Macedon conquered the Persian Empire and pushed into India before his troops turned back.",
+    "difficulty": "easy",
+    "content_hash": "a80ac579d1bf0e9e3a6c1b249988399894d363fb7e2ab614656968c1687614df",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The Boer Wars were fought in South Africa between the British and settlers of which descent?",
+    "choices": [
+      "Dutch",
+      "Portuguese",
+      "German",
+      "French"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The Boers were Afrikaners descended largely from Dutch settlers who founded the Transvaal and Orange Free State.",
+    "difficulty": "medium",
+    "content_hash": "c9d2a6812f368e163236dcd0c7315eeac53d73c0d106026fa4064d570325026c",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which 1954 battle ended French colonial rule in Indochina?",
+    "choices": [
+      "Battle of Hue",
+      "Battle of Dien Bien Phu",
+      "Battle of Ia Drang",
+      "Battle of Khe Sanh"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Viet Minh forces under Vo Nguyen Giap defeated the French garrison at Dien Bien Phu, leading to the Geneva Accords.",
+    "difficulty": "medium",
+    "content_hash": "4d42f593b66f7405ee79d77e9d4e82844d9705abdf8fb354c7e1cf200be481f7",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which document, issued in 1689, limited the powers of the English monarch after the Glorious Revolution?",
+    "choices": [
+      "The Petition of Right",
+      "The Bill of Rights",
+      "The Act of Settlement",
+      "The Instrument of Government"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The 1689 Bill of Rights set limits on royal power and confirmed parliamentary rights under William and Mary.",
+    "difficulty": "medium",
+    "content_hash": "4f42eaaa9e18431fe816aca16f30b57e5e1f1b4b4b88b566aa50e60ceb756a8a",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The Nok culture, known for its terracotta sculptures from around 500 BC, flourished in which modern country?",
+    "choices": [
+      "Nigeria",
+      "Kenya",
+      "Sudan",
+      "Mali"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The Nok culture of central Nigeria produced distinctive terracotta figures and worked iron early in West Africa.",
+    "difficulty": "hard",
+    "content_hash": "63a3222cb034eb361fc6a026f2a8e7f80166eee6c79963302476d758e6a7bc19",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which Habsburg ruler abdicated in 1556, splitting his realms between Spain and Austria?",
+    "choices": [
+      "Philip II",
+      "Charles V",
+      "Ferdinand II",
+      "Maximilian I"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Charles V gave Spain and the Netherlands to his son Philip II and the Austrian lands to his brother Ferdinand.",
+    "difficulty": "hard",
+    "content_hash": "0d855e69a69c3623ad12b78dccfd01766c15c836a76fe92842ca5d0efb317836",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The Battle of Lepanto in 1571 was a naval clash between the Ottoman fleet and which alliance?",
+    "choices": [
+      "The Hanseatic League",
+      "The Holy League",
+      "The Delian League",
+      "The Triple Alliance"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "A Holy League led by Spain, Venice and the Papacy destroyed the Ottoman fleet in the Gulf of Patras.",
+    "difficulty": "hard",
+    "content_hash": "c92a68a2bafbce9e369c0c20b91016561b9d5738d04c668b2dab728fc6de55b5",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which Byzantine emperor commissioned the Hagia Sophia completed in 537 and a major codification of Roman law?",
+    "choices": [
+      "Heraclius",
+      "Basil II",
+      "Justinian I",
+      "Constantine IX"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Justinian I built the Hagia Sophia and ordered the Corpus Juris Civilis, the foundation of later civil law.",
+    "difficulty": "medium",
+    "content_hash": "990564d5cf27e31b9e443cb2c5de7ef057bab5de2c8d9b2e9f5a3aa5f931079f",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "The Peace of Augsburg in 1555 established which principle in the Holy Roman Empire?",
+    "choices": [
+      "Rulers chose their realm's religion",
+      "Complete religious freedom for individuals",
+      "Papal supremacy over princes",
+      "Abolition of the imperial diet"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Cuius regio, eius religio let each prince choose Lutheranism or Catholicism for his territory.",
+    "difficulty": "hard",
+    "content_hash": "b931ae4e29522178ea51966d1ffa5faa05463d4f3e43969f8fed65151fd38132",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which empire was defeated at the Battle of Plassey in 1757, opening Bengal to British control?",
+    "choices": [
+      "The Maratha Confederacy",
+      "The Nawab of Bengal's forces",
+      "The Sikh Empire",
+      "The Kingdom of Mysore"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Robert Clive's East India Company force defeated Nawab Siraj-ud-Daulah at Plassey, a turning point in British India.",
+    "difficulty": "hard",
+    "content_hash": "3e826b851aeb50f5c06d69d7a2fd8d5ae201400ac3164f36a8f6469f2a970bb9",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Angkor Wat, the world's largest religious monument, was built in the 12th century by which empire?",
+    "choices": [
+      "The Khmer Empire",
+      "The Srivijaya Empire",
+      "The Majapahit Empire",
+      "The Champa Kingdom"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "King Suryavarman II of the Khmer Empire built Angkor Wat, originally a Hindu temple to Vishnu.",
+    "difficulty": "medium",
+    "content_hash": "605b6f02122572249ee969326e565e5f48754f8418a037969dffa1942e6200dd",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which 1804 event made Haiti notable in world history?",
+    "choices": [
+      "It abolished slavery peacefully by royal decree",
+      "It became the first independent state born of a successful slave revolt",
+      "It was the first African colony to gain independence",
+      "It was the first republic in the Americas"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Haiti declared independence in 1804 after the only slave revolt in history to produce a free state.",
+    "difficulty": "medium",
+    "content_hash": "9242a181bc268cf85b550014cfd9e80ef1a6e847fd38c0d0543f080cf4c8f9ec",
+    "topic_pack_id": "history"
+  },
+  {
+    "question_text": "Which palace and fortress complex in Granada was built by the Nasrid rulers of the last Muslim kingdom in Iberia?",
+    "choices": [
+      "The Alhambra",
+      "The Alcázar of Seville",
+      "El Escorial",
+      "The Aljafería"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The Alhambra was the royal palace-citadel of the Nasrid dynasty, which ruled Granada until 1492.",
+    "difficulty": "easy",
+    "content_hash": "7fe565624adaa8266f3b244616eb93a7c859c2e9fd210f6f20530674a3c0f157",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "In 1492 the Catholic Monarchs captured which city, ending the last Muslim-ruled kingdom in Iberia?",
+    "choices": [
+      "Toledo",
+      "Córdoba",
+      "Granada",
+      "Seville"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Granada surrendered in January 1492, completing the centuries-long Reconquista.",
+    "difficulty": "easy",
+    "content_hash": "0478860a2993332b1665b8b0270b00648a33234eec2aea1f74070bfd96c016a3",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which queen of Castile, wife of Ferdinand II of Aragon, sponsored Christopher Columbus's first voyage?",
+    "choices": [
+      "Joanna the Mad",
+      "Isabella I",
+      "Maria Christina",
+      "Berenguela"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Isabella I of Castile backed Columbus's 1492 expedition; she and Ferdinand were known as the Catholic Monarchs.",
+    "difficulty": "easy",
+    "content_hash": "2ab060f343419e40d45582e1f0120a871e500303697754459d244e179bd1c503",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Spanish Armada of 1588 was sent by Philip II to invade which country?",
+    "choices": [
+      "France",
+      "England",
+      "the Netherlands",
+      "Portugal"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Philip II's great fleet aimed to overthrow Elizabeth I of England but was scattered by battle and storms.",
+    "difficulty": "easy",
+    "content_hash": "8d6de44550e1aca45788f403d0094050fbd383a7a3a87df0c06e5ee8a7b8870b",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Spanish artist painted 'Guernica', depicting the 1937 bombing of a Basque town during the Civil War?",
+    "choices": [
+      "Salvador Dalí",
+      "Joan Miró",
+      "Francisco Goya",
+      "Pablo Picasso"
+    ],
+    "correct_choice_index": 3,
+    "explanation": "Picasso painted Guernica in 1937 as a protest against the bombing of the town by German and Italian aircraft.",
+    "difficulty": "easy",
+    "content_hash": "40f7ac1d7f319172e26baedd85c1d592c95b4113dba881302a6c3e3f6c6b25ed",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Who ruled Spain as authoritarian head of state from the end of the Civil War until his death in 1975?",
+    "choices": [
+      "Francisco Franco",
+      "Miguel Primo de Rivera",
+      "Manuel Azaña",
+      "Juan Negrín"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "General Francisco Franco governed Spain as 'Caudillo' from 1939 until 1975.",
+    "difficulty": "easy",
+    "content_hash": "b28b1f5f113c1584bfe9c64aac7138c546128095ba6053b249dd3469c6115f7d",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "'Don Quixote', published in 1605, was written by which Spanish author?",
+    "choices": [
+      "Lope de Vega",
+      "Miguel de Cervantes",
+      "Francisco de Quevedo",
+      "Calderón de la Barca"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Miguel de Cervantes published the first part of Don Quixote in 1605, a landmark of the Spanish Golden Age.",
+    "difficulty": "easy",
+    "content_hash": "8e1db2647dd1a092e3b8263b4127acb26f0413e830e4bf5ceb9bd79327a1020a",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Spanish conquistador led the expedition that toppled the Aztec Empire in 1521?",
+    "choices": [
+      "Vasco Núñez de Balboa",
+      "Hernando de Soto",
+      "Hernán Cortés",
+      "Pedro de Alvarado"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Hernán Cortés captured Tenochtitlan in 1521 with Spanish troops and indigenous allies.",
+    "difficulty": "easy",
+    "content_hash": "859f96da799be413883bdca976fb57633df81b1e3ab31c17f852a11e977c6f81",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Spanish conquistador captured the Inca ruler Atahualpa at Cajamarca in 1532?",
+    "choices": [
+      "Francisco Pizarro",
+      "Diego de Almagro",
+      "Francisco de Orellana",
+      "Juan Ponce de León"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Francisco Pizarro seized Atahualpa in 1532, beginning the Spanish conquest of Peru.",
+    "difficulty": "easy",
+    "content_hash": "45e47476ba490e7be942b3bae84c7489b0ed89f607118693efcbbbb425e7170c",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Spanish Civil War was fought during which years?",
+    "choices": [
+      "1931–1934",
+      "1936–1939",
+      "1939–1945",
+      "1914–1918"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The war began with a military uprising in July 1936 and ended with Nationalist victory in April 1939.",
+    "difficulty": "easy",
+    "content_hash": "81341d1531b3e09a72de3362e1e4eb0c78994c3159bab73bd6b8e7fd11b0d3a2",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Who became king of Spain in 1975 following the death of Francisco Franco?",
+    "choices": [
+      "Alfonso XIII",
+      "Felipe VI",
+      "Juan Carlos I",
+      "Amadeo I"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Juan Carlos I was proclaimed king in November 1975 and oversaw Spain's transition to democracy.",
+    "difficulty": "easy",
+    "content_hash": "233ae8a24242a308c75de25ee91281ab07e6430724e8878fad99797786b8e692",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Spain lost Cuba, Puerto Rico and the Philippines in 1898 after a war with which country?",
+    "choices": [
+      "Britain",
+      "France",
+      "The United States",
+      "Japan"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "The Spanish-American War of 1898 ended Spain's overseas empire in the Caribbean and Pacific.",
+    "difficulty": "easy",
+    "content_hash": "bbe29f1892687a6de23aca8c47b63b738e13286f00d63d5e9d64e7001310f2c8",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "What name is given to the parts of the Iberian Peninsula under Muslim rule after 711?",
+    "choices": [
+      "Al-Andalus",
+      "Hispania Ulterior",
+      "Septimania",
+      "Maghreb Minor"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Al-Andalus was the Arabic name for Muslim-ruled Iberia, which lasted in some form until 1492.",
+    "difficulty": "easy",
+    "content_hash": "071ca68fafe369b7ebbf4474c9b026362fb9545d0518222aa323081dc8dd6451",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Great Mosque known as the Mezquita stands in which Spanish city, capital of the Umayyad rulers of Iberia?",
+    "choices": [
+      "Zaragoza",
+      "Córdoba",
+      "Valencia",
+      "Málaga"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Córdoba was the capital of Muslim Iberia and its Great Mosque was begun in the 8th century.",
+    "difficulty": "easy",
+    "content_hash": "2f9901e92708b8076fbaa0a69b87cfc29002996b7da011d788b6bfd66c00f46c",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Spanish city hosted the 1992 Summer Olympic Games?",
+    "choices": [
+      "Madrid",
+      "Seville",
+      "Valencia",
+      "Barcelona"
+    ],
+    "correct_choice_index": 3,
+    "explanation": "Barcelona's 1992 Games are widely seen as a turning point in the city's modern development.",
+    "difficulty": "easy",
+    "content_hash": "616723530b772e8eb8f331399f2b279f9afbd50000a4a0bac7e3b4fac018027c",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "One of the best-preserved Roman aqueducts in the world, with towering double arches, stands in which Spanish city?",
+    "choices": [
+      "Segovia",
+      "Tarragona",
+      "Mérida",
+      "Lugo"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The aqueduct of Segovia, built around the 1st century AD, still dominates the city centre.",
+    "difficulty": "easy",
+    "content_hash": "59670eb903bfb6f5cd8b168f2cb615048b7838cc5d840cf5626b29e066c51cf4",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Muslim forces defeated the Visigothic king Roderic in 711 at which battle, opening Iberia to conquest?",
+    "choices": [
+      "Battle of Covadonga",
+      "Battle of Guadalete",
+      "Battle of Toro",
+      "Battle of Zallaqa"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Tariq ibn Ziyad's victory at the Guadalete river in 711 shattered Visigothic resistance.",
+    "difficulty": "medium",
+    "content_hash": "195f7a70f47bf6897efb3d796d3ca811913b6ceb6ca5de4f32fb2649b11adb71",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Christian victory at Las Navas de Tolosa in 1212 was won against which North African dynasty?",
+    "choices": [
+      "The Almohads",
+      "The Fatimids",
+      "The Ottomans",
+      "The Mamluks"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "A coalition led by Alfonso VIII of Castile crushed the Almohads, decisively shifting the Reconquista.",
+    "difficulty": "medium",
+    "content_hash": "d50960b143905e646103b5fc1b22e88b5f55e6306a35fcd98289929af40951c0",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Tradition holds that the Reconquista began around 722 with a victory at Covadonga led by which Asturian leader?",
+    "choices": [
+      "Ramiro I",
+      "Pelayo",
+      "Alfonso VI",
+      "Fruela"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Pelayo's victory at Covadonga is celebrated as the founding moment of the Kingdom of Asturias.",
+    "difficulty": "medium",
+    "content_hash": "1048bd0fc5cb2d89ce58442cb5adb7f1a4aff35f5506e6ff9fa3d3f34bc225b8",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "El Cid, the celebrated Castilian warrior who took Valencia in 1094, was born with which name?",
+    "choices": [
+      "Rodrigo Díaz de Vivar",
+      "Ruy López de Ávalos",
+      "Gonzalo Fernández de Córdoba",
+      "Diego Gelmírez"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Rodrigo Díaz de Vivar earned the Arabic-derived nickname 'El Cid' meaning lord or chief.",
+    "difficulty": "medium",
+    "content_hash": "958d36213ce157e408e5f8f95ffb03fd9229fb60a8de00478393da3fee2d6105",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The 1494 Treaty of Tordesillas divided newly explored lands between Spain and which other power?",
+    "choices": [
+      "France",
+      "England",
+      "Portugal",
+      "Genoa"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Spain and Portugal drew a meridian line through the Atlantic, giving Portugal a claim to Brazil.",
+    "difficulty": "medium",
+    "content_hash": "1081ba0ef90ca34f02af0e0c2bd4061acf2877a8e7caa4dec954ee92762a8158",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Basque navigator completed the first circumnavigation of the globe in 1522 after Magellan's death?",
+    "choices": [
+      "Juan Sebastián Elcano",
+      "Álvaro de Mendaña",
+      "Andrés de Urdaneta",
+      "Blas de Lezo"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Elcano brought the ship Victoria home to Sanlúcar de Barrameda in September 1522.",
+    "difficulty": "medium",
+    "content_hash": "d968888d95308062e58c5dc12f4db0f1151d41b8dda7ae961c27595cddba994d",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "By the 1713 Treaty of Utrecht ending the War of the Spanish Succession, Spain ceded which territory to Britain?",
+    "choices": [
+      "Ceuta",
+      "Gibraltar",
+      "The Canary Islands",
+      "Sardinia"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Utrecht confirmed British possession of Gibraltar, captured in 1704, along with Menorca.",
+    "difficulty": "medium",
+    "content_hash": "06786d360aaa54f5c637011e76f29346c341b57c9ffd64775273a904fbafbfec",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Dos de Mayo uprising of 1808 in Madrid was a revolt against occupation by which army?",
+    "choices": [
+      "British",
+      "Portuguese",
+      "Austrian",
+      "French"
+    ],
+    "correct_choice_index": 3,
+    "explanation": "Madrid's people rose against Napoleon's troops on 2 May 1808, sparking the Peninsular War.",
+    "difficulty": "medium",
+    "content_hash": "e59e655b8e7c104f39a3426581350eb6a3803ae7ea112f33b0c3707666d9b1d7",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "At the 1805 Battle of Trafalgar, off Spain's Atlantic coast, the combined Franco-Spanish fleet was defeated by whom?",
+    "choices": [
+      "Admiral Horatio Nelson",
+      "Admiral George Rodney",
+      "Admiral Edward Hawke",
+      "Admiral John Jervis"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Nelson's fleet destroyed the Franco-Spanish force off Cape Trafalgar, though Nelson died in the battle.",
+    "difficulty": "medium",
+    "content_hash": "7087d9b14f2310959c76e5f6fe4c534bc4a4567fef40d9ea7e741fc05d577236",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Spain's landmark liberal constitution of 1812, drafted while French troops occupied much of the country, was proclaimed in which city?",
+    "choices": [
+      "Cádiz",
+      "Valencia",
+      "Zaragoza",
+      "Seville"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The Cortes meeting in besieged Cádiz produced the 1812 constitution, nicknamed 'La Pepa'.",
+    "difficulty": "medium",
+    "content_hash": "099492907d8efa274050ecccc21ad8c6e09a819f10891c36c2e2202fd6599433",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Spanish king left the country in 1931 when the Second Republic was proclaimed?",
+    "choices": [
+      "Alfonso XII",
+      "Alfonso XIII",
+      "Amadeo I",
+      "Carlos VII"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "After republican success in municipal elections, Alfonso XIII went into exile in April 1931.",
+    "difficulty": "medium",
+    "content_hash": "84a4723822bd698da3b5d49063cceab725c514e278b0e823399b4cb66b06ba96",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "In which year did Spain officially join the European Communities (now the European Union)?",
+    "choices": [
+      "1975",
+      "1978",
+      "1986",
+      "1993"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Spain, alongside Portugal, entered the European Communities on 1 January 1986.",
+    "difficulty": "medium",
+    "content_hash": "5514530437dd07ba4043da0434009efd399aefc76aad25a8152478aaab56e1e9",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Alhambra Decree, issued by the Catholic Monarchs in 1492, ordered the expulsion of which group from Spain?",
+    "choices": [
+      "Jews",
+      "Genoese merchants",
+      "Basques",
+      "Gypsies"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The decree gave Spain's Jewish population months to convert to Christianity or leave the kingdoms.",
+    "difficulty": "medium",
+    "content_hash": "5b72400c07a7732a138aee337b5a9777120843001dc09359557e1ec86277002e",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which vast monastery, palace and mausoleum near Madrid was built for Philip II in the 16th century?",
+    "choices": [
+      "The Alcázar of Toledo",
+      "El Escorial",
+      "The Royal Palace of Aranjuez",
+      "La Granja"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "San Lorenzo de El Escorial, completed in 1584, served as Philip II's palace and dynastic burial place.",
+    "difficulty": "medium",
+    "content_hash": "653d04192712adea4a248fa7794d0ef7c8822aef8635fb0527a56951499ff1bd",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Diego Velázquez, who painted 'Las Meninas', served as court painter to which Spanish king?",
+    "choices": [
+      "Charles V",
+      "Philip II",
+      "Philip IV",
+      "Charles III"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Velázquez spent his career at the court of Philip IV, painting Las Meninas around 1656.",
+    "difficulty": "medium",
+    "content_hash": "bc7b82e56b1688ea0f91c1de1708af5296854f35937f2e7f3b8029e22b14181d",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Spanish city is the destination of the medieval pilgrimage route said to lead to the tomb of Saint James?",
+    "choices": [
+      "Burgos",
+      "Oviedo",
+      "Santiago de Compostela",
+      "Pamplona"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Santiago de Compostela's cathedral claims the relics of St James, drawing pilgrims since the 9th century.",
+    "difficulty": "medium",
+    "content_hash": "5a7be0d9276b5265d7b8dccd0dab0f04ed15c31a3f2283566dfed4b44070e75f",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The 1412 Compromise of Caspe settled a disputed succession to the throne of which Iberian realm?",
+    "choices": [
+      "The Crown of Aragon",
+      "The Kingdom of Castile",
+      "The Kingdom of Navarre",
+      "The Kingdom of Portugal"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Parliamentary delegates chose Ferdinand of Antequera, a Castilian Trastámara prince, as king of Aragon.",
+    "difficulty": "hard",
+    "content_hash": "b7acb9736c19be6d99afa581741d784fd21fb6e8e5dadc41a0885b1630c9db45",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which 1643 battle is traditionally seen as ending the reputation for invincibility of the Spanish tercios?",
+    "choices": [
+      "Nördlingen",
+      "Rocroi",
+      "Saint-Quentin",
+      "Fleurus"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "At Rocroi the French under the Duc d'Enghien broke the Spanish infantry, a symbolic blow to Spain's military prestige.",
+    "difficulty": "hard",
+    "content_hash": "d61b2bfbed5e637b839f747b3631dc9bc7461083ef2e6dcc3f65df215371db98",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The 1659 Peace of the Pyrenees ended a long war between Spain and which power?",
+    "choices": [
+      "England",
+      "The Dutch Republic",
+      "France",
+      "Sweden"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "The treaty ended the Franco-Spanish war, ceding Roussillon and Artois and arranging a royal marriage.",
+    "difficulty": "hard",
+    "content_hash": "0484401b9b7579a486f34ad474f81dfd74d2eacea75de0865207c0b7f069b66f",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Revolt of the Comuneros in Castile (1520–21) was directed against which monarch?",
+    "choices": [
+      "Ferdinand II",
+      "Charles I (Emperor Charles V)",
+      "Philip II",
+      "Philip III"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Castilian towns rebelled against the foreign entourage and taxes of the young Charles I, and were crushed at Villalar in 1521.",
+    "difficulty": "hard",
+    "content_hash": "b7654d5ec061ec512370efb6e0c76c3e6f97c3fcaf66577dbe29be71718551c4",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "In 929 which ruler of Córdoba proclaimed himself caliph, breaking with the caliphate in Baghdad?",
+    "choices": [
+      "Abd al-Rahman I",
+      "Almanzor",
+      "Abd al-Rahman III",
+      "Al-Hakam II"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Abd al-Rahman III took the caliphal title in 929, marking the height of Umayyad power in Iberia.",
+    "difficulty": "hard",
+    "content_hash": "869260f15b19df35521eb952e4c684f70bfce75810717e8b5fcfede34306a833",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which 1808 battle in Andalusia handed Napoleon's army its first major defeat in open field?",
+    "choices": [
+      "Bailén",
+      "Ocaña",
+      "Somosierra",
+      "Talavera"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "General Castaños forced the surrender of Dupont's French corps at Bailén in July 1808, shocking Europe.",
+    "difficulty": "hard",
+    "content_hash": "cef0fcd945417af9768f82c82707ff8c6d52500b98075aae3279127e06486a1e",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The 19th-century Carlist Wars in Spain arose from a dispute over the right of which monarch to inherit the throne?",
+    "choices": [
+      "Isabella II",
+      "Maria Christina",
+      "Alfonso XII",
+      "Amadeo I"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Supporters of Don Carlos rejected the young Isabella II's succession, insisting on male-only inheritance.",
+    "difficulty": "hard",
+    "content_hash": "98635ee2a69b54fca645c737f1022c2a400817c4e40530eafe3acd23a52f8321",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "In which year was Franco's Spain finally admitted to the United Nations?",
+    "choices": [
+      "1946",
+      "1950",
+      "1955",
+      "1962"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "After years of diplomatic isolation, Spain joined the UN in December 1955 amid Cold War realignments.",
+    "difficulty": "hard",
+    "content_hash": "a4653d4bd63fdb54a0f761011f96f979837f2de9eb0f0b065b796b0dde8f4a59",
+    "topic_pack_id": "history",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which French emperor was defeated at the Battle of Waterloo in 1815?",
+    "choices": [
+      "Louis XVI",
+      "Napoleon Bonaparte",
+      "Charlemagne",
+      "Napoleon III"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Napoleon Bonaparte was defeated at Waterloo in June 1815 by allied forces under Wellington and Blücher, ending his Hundred Days return to power.",
+    "difficulty": "easy",
+    "content_hash": "e1656ae36f5e8b8fda364513dc16027a1725a09a294bfc05f45f01606a2c1e40",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The storming of which Paris fortress-prison on 14 July 1789 marked the start of the French Revolution?",
+    "choices": [
+      "The Conciergerie",
+      "The Bastille",
+      "The Louvre",
+      "Château de Vincennes"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The Bastille was stormed on 14 July 1789, an event still commemorated as France's national day.",
+    "difficulty": "easy",
+    "content_hash": "8c0e9fc4d1db00ff54e39650b9294d849b8ce94f50a9b6ddd216e2429fe2d13f",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which French peasant girl led troops to relieve the siege of Orléans in 1429 and was burned at the stake in 1431?",
+    "choices": [
+      "Joan of Arc",
+      "Eleanor of Aquitaine",
+      "Marie Curie",
+      "Blanche of Castile"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Joan of Arc rallied French forces during the Hundred Years' War, lifting the siege of Orléans before being captured and executed at Rouen.",
+    "difficulty": "easy",
+    "content_hash": "0947efeab6eb6428c591ad176b7be2e020263cfa8df4a23cdc08da77fdc5ae92",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Louis XIV of France was popularly known by what nickname?",
+    "choices": [
+      "The Fair",
+      "The Sun King",
+      "The Lion",
+      "The Iron King"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Louis XIV styled himself the 'Sun King' (le Roi Soleil), reigning from 1643 to 1715 — the longest reign in European history.",
+    "difficulty": "easy",
+    "content_hash": "c410455a7aa2bafea6cb0738c16cdd7e9003de8cc89da1bfa8d60d29b28b59d6",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which vast palace outside Paris did Louis XIV make the seat of the French royal court?",
+    "choices": [
+      "Fontainebleau",
+      "Chambord",
+      "Versailles",
+      "Amboise"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Louis XIV moved the court to the Palace of Versailles in 1682, using its splendour to control the French nobility.",
+    "difficulty": "easy",
+    "content_hash": "7d7dd5d594a763240bab28a8c87067a3e41bace3081bd7891e68687956ae01e8",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Who was the queen of France executed by guillotine in 1793, wife of Louis XVI?",
+    "choices": [
+      "Marie Antoinette",
+      "Catherine de' Medici",
+      "Madame de Pompadour",
+      "Anne of Austria"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Marie Antoinette, an Austrian archduchess by birth, was guillotined in October 1793, months after her husband Louis XVI.",
+    "difficulty": "easy",
+    "content_hash": "7399582054bcf443fd4483e14bd719ef16d32cbae8f95e5a6b24c713933c5282",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which French general led the Free French forces in World War II and later became president of the Fifth Republic?",
+    "choices": [
+      "Philippe Pétain",
+      "Charles de Gaulle",
+      "Ferdinand Foch",
+      "Jean Moulin"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Charles de Gaulle broadcast his appeal to resist from London in June 1940 and served as president from 1959 to 1969.",
+    "difficulty": "easy",
+    "content_hash": "ec75e7635cb54fbd18a43500d03169fa1228ddc3e137e9c922eb155a71f0914e",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The D-Day landings of 6 June 1944 took place on the beaches of which French region?",
+    "choices": [
+      "Brittany",
+      "Provence",
+      "Normandy",
+      "Aquitaine"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Operation Overlord landed Allied troops on five Normandy beaches, opening the Western Front against Nazi Germany.",
+    "difficulty": "easy",
+    "content_hash": "cb92533f372a868008bb28d5a75860bccb53fc7caa3a62eb62276298b3215c88",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which 1919 treaty ending World War I was signed in the Hall of Mirrors at Versailles?",
+    "choices": [
+      "Treaty of Versailles",
+      "Treaty of Trianon",
+      "Treaty of Sèvres",
+      "Treaty of Frankfurt"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The Treaty of Versailles was signed on 28 June 1919 in Versailles' Hall of Mirrors, imposing harsh terms on Germany.",
+    "difficulty": "easy",
+    "content_hash": "6a04a75376ff41c3ac0a94455efa1c9fad4669e446f55d6a146bc65cdc8f860a",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which monument was built in Paris for the 1889 World's Fair marking the Revolution's centenary?",
+    "choices": [
+      "Arc de Triomphe",
+      "The Eiffel Tower",
+      "Sacré-Cœur",
+      "The Panthéon"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Gustave Eiffel's iron tower was completed in 1889 as the centrepiece of the Exposition Universelle.",
+    "difficulty": "easy",
+    "content_hash": "1639050354917a7b39688277713cc90f0f0babd946f78e43925bb5e852439f45",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Corsican-born artillery officer crowned himself Emperor of the French in 1804?",
+    "choices": [
+      "Napoleon Bonaparte",
+      "Lazare Carnot",
+      "Louis-Philippe",
+      "Jean-Baptiste Bernadotte"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Napoleon, born in Ajaccio, Corsica, in 1769, crowned himself emperor at Notre-Dame in December 1804.",
+    "difficulty": "easy",
+    "content_hash": "e5e0332fc7b73e76195b4db7856e73f585d951803af2ce4c66bf9b39ea998bfc",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "France's disastrous 1954 defeat at Dien Bien Phu led to its withdrawal from which colony?",
+    "choices": [
+      "Algeria",
+      "Madagascar",
+      "Indochina",
+      "Senegal"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "The fall of Dien Bien Phu ended French rule in Indochina, confirmed by the Geneva Accords of 1954.",
+    "difficulty": "medium",
+    "content_hash": "b7ec3e31e5a31dcda8d5686bd48e4d5e189e0fdd051b6bf28b05560629ccc766",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Frankish king was crowned Emperor of the Romans by Pope Leo III on Christmas Day 800?",
+    "choices": [
+      "Clovis I",
+      "Charles Martel",
+      "Charlemagne",
+      "Pepin the Short"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Charlemagne, king of the Franks, was crowned emperor in Rome in 800, reviving imperial rule in the West.",
+    "difficulty": "medium",
+    "content_hash": "de66879be40a8cf29c1dd3c8423ec2acbb65fc84a05ce6b5abe72eea188dd0fe",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "At which 732 battle did Charles Martel halt an Umayyad advance into Frankish territory?",
+    "choices": [
+      "Battle of Tours (Poitiers)",
+      "Battle of Soissons",
+      "Battle of Bouvines",
+      "Battle of Agincourt"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Charles Martel's victory near Tours/Poitiers in 732 checked Muslim expansion north of the Pyrenees.",
+    "difficulty": "medium",
+    "content_hash": "a45b724aba2b9822eac2616701c61e8e91026e4a3dc3afdc52cde1ec9b9a8359",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Jewish French army officer was wrongly convicted of treason in 1894, sparking a national scandal?",
+    "choices": [
+      "Georges Clemenceau",
+      "Alfred Dreyfus",
+      "Ferdinand Esterhazy",
+      "Émile Zola"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Captain Alfred Dreyfus was framed and sent to Devil's Island; he was fully exonerated in 1906 after years of controversy.",
+    "difficulty": "medium",
+    "content_hash": "d1379a8ab915f6c55efbfa6dae1b9d8b4e0b3947dad91bea12a123f6c13bc309",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Who wrote the open letter 'J'Accuse...!' in 1898 defending Alfred Dreyfus?",
+    "choices": [
+      "Victor Hugo",
+      "Émile Zola",
+      "Jean Jaurès",
+      "Anatole France"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Novelist Émile Zola published 'J'Accuse...!' in the newspaper L'Aurore, accusing the army of a cover-up.",
+    "difficulty": "medium",
+    "content_hash": "818b7a960210f7f4a11c4932014e339fa1e05cd2d39fa615287aa03b2aa03a53",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which massacre of French Protestants began in Paris in August 1572?",
+    "choices": [
+      "The September Massacres",
+      "St Bartholomew's Day Massacre",
+      "The Sicilian Vespers",
+      "The Day of the Barricades"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Thousands of Huguenots were killed in Paris and beyond starting on 24 August 1572 during the French Wars of Religion.",
+    "difficulty": "medium",
+    "content_hash": "49bdbe4434f4a508c7c0ada887a7eb9cc45a605cffc50bd146eb8458331fbebe",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which 1598 edict granted French Protestants substantial religious toleration?",
+    "choices": [
+      "Edict of Nantes",
+      "Edict of Fontainebleau",
+      "Edict of Villers-Cotterêts",
+      "Edict of Amboise"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Henry IV issued the Edict of Nantes in 1598, ending the Wars of Religion; Louis XIV revoked it in 1685.",
+    "difficulty": "medium",
+    "content_hash": "e6cfefe0ea2a24eaf43490918fbd558397a8c22c299eb1e70764ca35b7647b9a",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which cardinal served as chief minister to Louis XIII and strengthened royal power in France?",
+    "choices": [
+      "Cardinal Mazarin",
+      "Cardinal Richelieu",
+      "Cardinal de Retz",
+      "Cardinal Fleury"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Cardinal Richelieu was chief minister from 1624 to 1642, curbing the nobility and Huguenot power.",
+    "difficulty": "medium",
+    "content_hash": "f5e4276095c93ac83c585250fc386e94c1bc31ba6e8234c9acb447f3a5b48413",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which radical Jacobin leader dominated the Committee of Public Safety and fell in the coup of Thermidor 1794?",
+    "choices": [
+      "Georges Danton",
+      "Jean-Paul Marat",
+      "Maximilien Robespierre",
+      "Camille Desmoulins"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Robespierre presided over the Reign of Terror until his arrest and execution in July 1794 (9 Thermidor).",
+    "difficulty": "medium",
+    "content_hash": "74b2951350d53fe4e6bf6733e39dfd583912d9d5fb9508a7eae552cba0c60f64",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Hundred Years' War was fought mainly between France and which other kingdom?",
+    "choices": [
+      "Spain",
+      "England",
+      "Burgundy",
+      "The Holy Roman Empire"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "France and England fought intermittently from 1337 to 1453 over claims to the French crown and territory.",
+    "difficulty": "easy",
+    "content_hash": "b77c0247c3a5631b7d1dacc8cdff5d4edb41009239926d5eb69d8b8780460bcd",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which 1415 battle saw English longbowmen rout a much larger French army?",
+    "choices": [
+      "Crécy",
+      "Poitiers",
+      "Agincourt",
+      "Castillon"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Henry V's victory at Agincourt in 1415 devastated the French nobility during the Hundred Years' War.",
+    "difficulty": "medium",
+    "content_hash": "f64ef0ad40aed55708fbed8478ee5164474b6406d0593f4d5cddc82b64b124d1",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Paris Commune, a radical revolutionary government, seized control of the capital in which year?",
+    "choices": [
+      "1848",
+      "1871",
+      "1830",
+      "1889"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The Paris Commune ruled from March to May 1871 after France's defeat in the Franco-Prussian War, before being crushed.",
+    "difficulty": "medium",
+    "content_hash": "9cf286fb94753a10b8ff87769e4bea93147777424855c404633b66377f939524",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which French collaborationist regime governed unoccupied France from 1940 under Marshal Pétain?",
+    "choices": [
+      "The Vichy regime",
+      "The Third Republic",
+      "The Directory",
+      "The Second Empire"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "After the 1940 armistice, Philippe Pétain headed the French State based at Vichy, which collaborated with Nazi Germany.",
+    "difficulty": "easy",
+    "content_hash": "1488cd57011a31d0e59cfbebcace6a36a4b9ce54135537e6efc5f0431a763778",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Napoleon's 1812 invasion of which country ended in catastrophic retreat for the Grande Armée?",
+    "choices": [
+      "Austria",
+      "Prussia",
+      "Russia",
+      "The Ottoman Empire"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Napoleon reached Moscow but lost most of his army to cold, hunger and attacks during the retreat from Russia.",
+    "difficulty": "easy",
+    "content_hash": "d2beb9e5c394fd51bf03e14943d491d2f47d66d1b49425ac0702c90a437f0cf6",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "On which South Atlantic island did Napoleon die in exile in 1821?",
+    "choices": [
+      "Elba",
+      "Saint Helena",
+      "Corsica",
+      "Madeira"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "After Waterloo, Napoleon was exiled by the British to Saint Helena, where he died in May 1821.",
+    "difficulty": "easy",
+    "content_hash": "9a5984e2a8345e1dbda19683c3ef582aac8d9004bc01c7059b7c4feba62a66e4",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which French monarch was overthrown in the 1848 revolution that founded the Second Republic?",
+    "choices": [
+      "Charles X",
+      "Louis-Philippe",
+      "Napoleon III",
+      "Louis XVIII"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Louis-Philippe, the 'Citizen King', abdicated in February 1848 amid revolution in Paris.",
+    "difficulty": "medium",
+    "content_hash": "b27331e9e21e6dc14d4210a5917dc03218d8581b1f67bee58473b94fda088f0d",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which French leader was captured at the Battle of Sedan in 1870, ending the Second Empire?",
+    "choices": [
+      "Napoleon III",
+      "Adolphe Thiers",
+      "Patrice de MacMahon",
+      "Léon Gambetta"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Napoleon III surrendered at Sedan on 2 September 1870; the Third Republic was proclaimed days later.",
+    "difficulty": "medium",
+    "content_hash": "e4c427662a45cd8f47945a253af727f37ce6fc36305c21aa5481c3a5bdd5878a",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which battle of 1916 became the longest of World War I, fought around a fortified French city on the Meuse?",
+    "choices": [
+      "The Somme",
+      "Verdun",
+      "Ypres",
+      "Marne"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The Battle of Verdun lasted from February to December 1916 and became a symbol of French endurance.",
+    "difficulty": "medium",
+    "content_hash": "e0995f2aec546a640a1f0c997ee3eb65e092ded083741c22a387471ec0936c28",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which French colony gained independence in 1962 after a bitter eight-year war?",
+    "choices": [
+      "Morocco",
+      "Tunisia",
+      "Algeria",
+      "Mali"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "The Algerian War (1954–62) ended with the Évian Accords and Algerian independence, a crisis that also toppled the Fourth Republic.",
+    "difficulty": "medium",
+    "content_hash": "e2b5eb84ab5fd322e1cb3a5a39eb321a540fbfcbf5b0a6de9a765d7ee70c9cd9",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which 1789 document proclaimed that men are born free and equal in rights?",
+    "choices": [
+      "The Civil Constitution of the Clergy",
+      "Declaration of the Rights of Man and of the Citizen",
+      "The Tennis Court Oath",
+      "The Napoleonic Code"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Adopted in August 1789 by the National Constituent Assembly, it became a foundational text of the Revolution.",
+    "difficulty": "easy",
+    "content_hash": "235541e77e8dcd87ca565d60ed4818ec09113834e7eba1a6701f8e11a35c0bdc",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which French king was known as 'Saint Louis' and led the Seventh and Eighth Crusades?",
+    "choices": [
+      "Louis VII",
+      "Louis IX",
+      "Philip II Augustus",
+      "Charles V"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Louis IX (r. 1226–70) was canonised in 1297; he died at Tunis during the Eighth Crusade.",
+    "difficulty": "medium",
+    "content_hash": "c2d1c00596786fda9aecb1ca58faeaf6bb6c14a45fb89fff9a5f13bd51dda69e",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Egyptian-campaign discovery by French soldiers in 1799 unlocked the reading of hieroglyphs?",
+    "choices": [
+      "The Rosetta Stone",
+      "The Dendera Zodiac",
+      "The Narmer Palette",
+      "The Palermo Stone"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Napoleon's troops found the Rosetta Stone near Rashid; Jean-François Champollion later deciphered hieroglyphs using it.",
+    "difficulty": "medium",
+    "content_hash": "7c470f98fe0423378c42cd5614073c71df4f829079b8b9eb324db465b73b27a6",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Merovingian king united the Franks and converted to Christianity around 496?",
+    "choices": [
+      "Clovis I",
+      "Dagobert I",
+      "Childeric III",
+      "Clothar II"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Clovis I defeated rival Frankish and Gallo-Roman powers and was baptised a Catholic, likely at Reims.",
+    "difficulty": "medium",
+    "content_hash": "2ad6af6f148351e1e51ae08bd8dbe449fcc0d7828e584e085a4d71702c51afbc",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Gaulish chieftain surrendered to Julius Caesar after the siege of Alesia in 52 BC?",
+    "choices": [
+      "Ambiorix",
+      "Vercingetorix",
+      "Brennus",
+      "Boudica"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Vercingetorix led a united Gallic revolt but was besieged and defeated at Alesia, completing Rome's conquest of Gaul.",
+    "difficulty": "medium",
+    "content_hash": "91b1ec45bd6aefdcc65bcddf1006c8074c64307dccefed599f0e387e758894c0",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The 1214 Battle of Bouvines secured the reign of which French king against a coalition including England and the Empire?",
+    "choices": [
+      "Louis VIII",
+      "Philip II Augustus",
+      "Philip IV",
+      "Henry I"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Philip II Augustus's victory at Bouvines consolidated Capetian power and French territorial gains.",
+    "difficulty": "hard",
+    "content_hash": "d12f503381c6bf7ff9c98a4ab4e2112949c30bb8f8c22bf793e68a12a07ce0d1",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which 1520 diplomatic summit near Calais saw Francis I meet Henry VIII amid lavish display?",
+    "choices": [
+      "The Field of the Cloth of Gold",
+      "The Congress of Arras",
+      "The Diet of Worms",
+      "The Peace of Cateau-Cambrésis"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The Field of the Cloth of Gold was a spectacular but diplomatically fruitless meeting between the two young kings.",
+    "difficulty": "hard",
+    "content_hash": "1a9a028e6b6aa5e5ed34689f2b9565fbc215beff7f223b00b2da0ca0cddead87",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Fronde, a series of civil wars in France, occurred during the minority of which king?",
+    "choices": [
+      "Louis XIII",
+      "Louis XIV",
+      "Louis XV",
+      "Charles IX"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The Fronde (1648–53) pitted nobles and parlements against Cardinal Mazarin during Louis XIV's childhood, shaping his later absolutism.",
+    "difficulty": "hard",
+    "content_hash": "6f2e7624d603b38246e6ff8c6d9b2af242f3f77edfdffc5f424803cf9f1fd435",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which 843 treaty divided Charlemagne's empire among his three grandsons, creating West Francia?",
+    "choices": [
+      "Treaty of Verdun",
+      "Treaty of Meerssen",
+      "Treaty of Ribemont",
+      "Treaty of Saint-Clair-sur-Epte"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The Treaty of Verdun in 843 split the Carolingian Empire; West Francia became the nucleus of modern France.",
+    "difficulty": "hard",
+    "content_hash": "563eabee2322f8b469851c153abe76f582c1cec596f445b1d96ea38715413661",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "In 1685 Louis XIV revoked religious toleration for Huguenots through which edict?",
+    "choices": [
+      "Edict of Fontainebleau",
+      "Edict of Saint-Germain",
+      "Edict of Beaulieu",
+      "Edict of Alès"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The Edict of Fontainebleau revoked the Edict of Nantes, prompting hundreds of thousands of Huguenots to flee France.",
+    "difficulty": "hard",
+    "content_hash": "ec12ed13b810281b6b925cb23dc2c8b146680cd1a0ce91c417c939ad1ef548a4",
+    "topic_pack_id": "history",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Italian city was buried by the eruption of Mount Vesuvius in AD 79?",
+    "choices": [
+      "Pompeii",
+      "Ravenna",
+      "Siena",
+      "Genoa"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Pompeii, along with Herculaneum, was buried under volcanic ash when Vesuvius erupted in AD 79, preserving the city for centuries.",
+    "difficulty": "easy",
+    "content_hash": "9404eaf4ced371b416bb2f9e9d5ab953e588655193e80b156ba474d2a6b5c5f2",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Who was the first Roman emperor, ruling from 27 BC to AD 14?",
+    "choices": [
+      "Julius Caesar",
+      "Augustus",
+      "Nero",
+      "Tiberius"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Octavian took the title Augustus in 27 BC and is regarded as Rome's first emperor.",
+    "difficulty": "easy",
+    "content_hash": "06e204a50e37cfabef6fba7c094b8d789bba5b05dacaf8b11cbd659d8961243d",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "On which date in 44 BC was Julius Caesar assassinated in Rome?",
+    "choices": [
+      "The Ides of March",
+      "The Kalends of January",
+      "The Nones of June",
+      "The Ides of October"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Caesar was stabbed to death by senators on 15 March 44 BC, the Ides of March.",
+    "difficulty": "easy",
+    "content_hash": "9599426960bc897266df6651df9ff388938a3afc80366e37f65ef92e95262cec",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Carthaginian general famously crossed the Alps with elephants to invade Roman Italy?",
+    "choices": [
+      "Hasdrubal",
+      "Hamilcar",
+      "Hannibal",
+      "Scipio"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Hannibal Barca crossed the Alps in 218 BC during the Second Punic War, winning victories such as Cannae.",
+    "difficulty": "easy",
+    "content_hash": "e75a8a57ee1fb8e1b66d667480fb52b2a5523cb9b60fd06e27448f6210ba5983",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Italian explorer, sailing for Spain in 1492, reached the Americas?",
+    "choices": [
+      "Amerigo Vespucci",
+      "Giovanni Caboto",
+      "Christopher Columbus",
+      "Marco Polo"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Genoese-born Christopher Columbus crossed the Atlantic under Spanish sponsorship in 1492.",
+    "difficulty": "easy",
+    "content_hash": "24fac788e1e0db093429bed31891c3fecd280570d3ff5c532aa0166f08c5e332",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Venetian merchant wrote an account of his travels to the court of Kublai Khan?",
+    "choices": [
+      "Marco Polo",
+      "Niccolò Machiavelli",
+      "Andrea Doria",
+      "Enrico Dandolo"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Marco Polo's book describing his journeys to China introduced many Europeans to Asia.",
+    "difficulty": "easy",
+    "content_hash": "fe3ab591efdaac040db6ed904abe1ff0a1a84cbddc8c916dad8576dca126fbf0",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Italian dictator founded the Fascist Party and ruled Italy from 1922 to 1943?",
+    "choices": [
+      "Italo Balbo",
+      "Benito Mussolini",
+      "Gabriele D'Annunzio",
+      "Victor Emmanuel III"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Benito Mussolini took power after the 1922 March on Rome and led Fascist Italy until his ousting in 1943.",
+    "difficulty": "easy",
+    "content_hash": "de3c52ac90a8da14c0dfbfa2de94cc3bb1f4a9740cc191eb29ab6adc387df48b",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which amphitheatre in Rome, completed around AD 80, hosted gladiatorial games?",
+    "choices": [
+      "Circus Maximus",
+      "The Pantheon",
+      "The Colosseum",
+      "Baths of Caracalla"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "The Flavian Amphitheatre, known as the Colosseum, was inaugurated under Emperor Titus around AD 80.",
+    "difficulty": "easy",
+    "content_hash": "b1af9566220d7126ccf4038465cb31b9dd65e67fd0b948e98ad30c65f4867f81",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Italian astronomer was tried by the Inquisition in 1633 for supporting heliocentrism?",
+    "choices": [
+      "Galileo Galilei",
+      "Giordano Bruno",
+      "Nicolaus Copernicus",
+      "Tycho Brahe"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Galileo was condemned by the Roman Inquisition in 1633 and spent his last years under house arrest.",
+    "difficulty": "easy",
+    "content_hash": "db68ccba3f643202f5c8654853a44c41699c2e6d3a7a52b16799412530aae97b",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which family dominated Florence during the Renaissance and produced several popes?",
+    "choices": [
+      "The Sforza",
+      "The Borgia",
+      "The Medici",
+      "The Gonzaga"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "The Medici banking dynasty ruled Florence and gave the Church popes including Leo X and Clement VII.",
+    "difficulty": "easy",
+    "content_hash": "48453445a86ce94303b92ccdfbfa55887babca441752df56ea0856a716b6c7ea",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which slave leader led a major uprising against the Roman Republic from 73 to 71 BC?",
+    "choices": [
+      "Spartacus",
+      "Crixus",
+      "Vercingetorix",
+      "Arminius"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Spartacus, a Thracian gladiator, led the Third Servile War before being defeated by Crassus.",
+    "difficulty": "easy",
+    "content_hash": "9831b4db5b2d81b1f1581199c1f7b3b6f9c24e4bf4023a79b598e058478b70db",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "In which year was Italy unified as a kingdom under Victor Emmanuel II?",
+    "choices": [
+      "1815",
+      "1848",
+      "1861",
+      "1871"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "The Kingdom of Italy was proclaimed in March 1861, though Rome was only added in 1870.",
+    "difficulty": "medium",
+    "content_hash": "4a4933641d7d73a06cc55370a89165b7bc46d32fbc62910f4184bc98befd19d3",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which revolutionary led the Expedition of the Thousand that conquered Sicily and Naples in 1860?",
+    "choices": [
+      "Giuseppe Mazzini",
+      "Camillo Cavour",
+      "Giuseppe Garibaldi",
+      "Daniele Manin"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Garibaldi's red-shirted volunteers landed at Marsala in 1860 and toppled the Kingdom of the Two Sicilies.",
+    "difficulty": "medium",
+    "content_hash": "cfa9e2e26f81a435c7b646c9f3e282d5f2ac55c0b85554f2a71dab7028e16ff5",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Piedmontese statesman was the chief political architect of Italian unification?",
+    "choices": [
+      "Camillo Benso, Count of Cavour",
+      "Massimo d'Azeglio",
+      "Francesco Crispi",
+      "Urbano Rattazzi"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Cavour, prime minister of Piedmont-Sardinia, used diplomacy and alliance with France to drive unification.",
+    "difficulty": "medium",
+    "content_hash": "52db37fc8a1a4d3ae8f00f320baa394ae7a02d24d6614aa2348cedf0acd2484d",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Renaissance is generally considered to have begun in which Italian city?",
+    "choices": [
+      "Milan",
+      "Venice",
+      "Naples",
+      "Florence"
+    ],
+    "correct_choice_index": 3,
+    "explanation": "Florence, under Medici patronage, was the cradle of the Italian Renaissance in the 14th and 15th centuries.",
+    "difficulty": "medium",
+    "content_hash": "c589e75b89b679b860a106e674e630bfd3862184f49f8fe230672761ba1ad705",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Florentine wrote 'The Prince', a treatise on political power, in 1513?",
+    "choices": [
+      "Dante Alighieri",
+      "Niccolò Machiavelli",
+      "Francesco Guicciardini",
+      "Baldassare Castiglione"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Machiavelli wrote 'Il Principe' after losing office when the Medici returned to Florence.",
+    "difficulty": "medium",
+    "content_hash": "8c536e496ae5e28d3d88725f57423bf47c7cc80ed3ff58b3debcb3216bab99e2",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which 1571 naval battle saw a Holy League fleet, largely Venetian and Spanish, defeat the Ottomans?",
+    "choices": [
+      "Battle of Preveza",
+      "Battle of Lepanto",
+      "Battle of Actium",
+      "Battle of Zonchio"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "At Lepanto in 1571 the Holy League galleys crushed the Ottoman fleet in the Gulf of Patras.",
+    "difficulty": "medium",
+    "content_hash": "ae3ae07042537698f4f18b16b521f57cb73282a4a72fa79b5a07ceed7d67cbe1",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which treaty of 1929 established Vatican City as an independent state?",
+    "choices": [
+      "Concordat of Worms",
+      "Lateran Treaty",
+      "Treaty of Rome",
+      "Pact of Steel"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The Lateran Treaty, signed by Mussolini's government and the Holy See in 1929, created the Vatican City State.",
+    "difficulty": "medium",
+    "content_hash": "8fa2889116c8d8a30a923e011686d3e4b3d9bbed8edcd3a4d2e3b354368c2100",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Who was the last Western Roman emperor, deposed in AD 476?",
+    "choices": [
+      "Romulus Augustulus",
+      "Honorius",
+      "Valentinian III",
+      "Julius Nepos"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Odoacer deposed the boy-emperor Romulus Augustulus in 476, conventionally ending the Western Roman Empire.",
+    "difficulty": "medium",
+    "content_hash": "0a12abbd39cb52e62c3ab68636bf6b35b9637f38466d7737a569b960a73da708",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Italy became a republic in 1946 after a referendum abolished the monarchy. Which royal house lost the throne?",
+    "choices": [
+      "House of Savoy",
+      "House of Bourbon-Two Sicilies",
+      "House of Habsburg-Lorraine",
+      "House of Este"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The June 1946 referendum ended the reign of the House of Savoy, and Umberto II went into exile.",
+    "difficulty": "medium",
+    "content_hash": "ce6277f1e979ae8ab48d31c3de7c52ab30d02199fc945baa74e6efb6df8179dc",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Roman emperor issued the Edict of Milan in 313, granting toleration to Christians?",
+    "choices": [
+      "Diocletian",
+      "Constantine I",
+      "Theodosius I",
+      "Trajan"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Constantine, with Licinius, issued the Edict of Milan in 313 legalising Christianity across the empire.",
+    "difficulty": "medium",
+    "content_hash": "9023df1c0ca9f7b6835c1c699275e4c1291253461ce2a1553a60259dc80336a9",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Fourth Crusade of 1204 sacked Constantinople, largely at the instigation of which Italian maritime republic?",
+    "choices": [
+      "Genoa",
+      "Pisa",
+      "Venice",
+      "Amalfi"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Venice, under Doge Enrico Dandolo, diverted the Fourth Crusade and profited hugely from the sack of Constantinople.",
+    "difficulty": "medium",
+    "content_hash": "5b04b68710446975c265066d57f6e5587713fb63ec965a6d9c4badf1699bcd0e",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Italian city-state was known as 'La Serenissima' and ruled by a doge for over a millennium?",
+    "choices": [
+      "Venice",
+      "Genoa",
+      "Florence",
+      "Ravenna"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The Most Serene Republic of Venice endured from the 8th century until Napoleon abolished it in 1797.",
+    "difficulty": "medium",
+    "content_hash": "2c32569e528ec20532fa56ae63d084b76a2a6a822ed80fdb161c466af26569b4",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Italian physicist led the team that achieved the first nuclear chain reaction in 1942?",
+    "choices": [
+      "Guglielmo Marconi",
+      "Enrico Fermi",
+      "Emilio Segrè",
+      "Ettore Majorana"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Enrico Fermi, who had fled Fascist Italy, oversaw the Chicago Pile-1 reactor in December 1942.",
+    "difficulty": "medium",
+    "content_hash": "cd139ddb81a030f97c2ba38a676b402d6e3a5adddf63fc18d216104c77d7786e",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Italian inventor pioneered long-distance radio transmission, winning the Nobel Prize in 1909?",
+    "choices": [
+      "Alessandro Volta",
+      "Antonio Meucci",
+      "Guglielmo Marconi",
+      "Galileo Ferraris"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Guglielmo Marconi developed practical wireless telegraphy and shared the 1909 Nobel Prize in Physics.",
+    "difficulty": "medium",
+    "content_hash": "79c2f35dd8c4a6786683cbfee839aa845308347a681ac58c3f44aad7a3836dbf",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which poet completed 'The Divine Comedy' in the early 14th century while exiled from Florence?",
+    "choices": [
+      "Petrarch",
+      "Boccaccio",
+      "Dante Alighieri",
+      "Ariosto"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Dante wrote his epic in exile, finishing it shortly before his death in Ravenna in 1321.",
+    "difficulty": "medium",
+    "content_hash": "a10777584f881b96d4ff31691f30877bcef8f6cf29cdba13589084386add04c0",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Italian city served as capital of the Western Roman Empire from 402 and later of the Byzantine Exarchate?",
+    "choices": [
+      "Milan",
+      "Ravenna",
+      "Aquileia",
+      "Naples"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Ravenna became the imperial capital in 402 and later seat of Byzantine authority in Italy.",
+    "difficulty": "hard",
+    "content_hash": "6df37d9c4ada51f1bca35048506baf0670979dc724335e3ef5d8d9d4b776237a",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Germanic people ruled much of Italy after invading in 568, giving their name to a northern region?",
+    "choices": [
+      "Ostrogoths",
+      "Vandals",
+      "Lombards",
+      "Visigoths"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "The Lombards conquered northern Italy from 568; their name survives in Lombardy.",
+    "difficulty": "medium",
+    "content_hash": "494e48e2e0b2ac2cf8766f673ba43e5bae764d5e77791d1a409638d426af023e",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Mussolini's Italy invaded which African nation in 1935, drawing League of Nations sanctions?",
+    "choices": [
+      "Ethiopia",
+      "Libya",
+      "Somalia",
+      "Eritrea"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Italy invaded Ethiopia (Abyssinia) in October 1935, occupying it until 1941.",
+    "difficulty": "medium",
+    "content_hash": "39ad2adef889f7829c9e9c8f14f55783caaa1da3de2b279430dde1ea311e6ed5",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which battle of 1896 saw Ethiopian forces decisively defeat an invading Italian army?",
+    "choices": [
+      "Battle of Dogali",
+      "Battle of Adwa",
+      "Battle of Omdurman",
+      "Battle of Amba Alagi"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "At Adwa in March 1896 Emperor Menelik II's army routed the Italians, preserving Ethiopian independence.",
+    "difficulty": "hard",
+    "content_hash": "8a1f7b9eee4aaf154d730c6ff2531f7c50672fb6fdbbb20c038c305f30729618",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which 1917 battle was a catastrophic defeat for Italy against Austro-Hungarian and German forces?",
+    "choices": [
+      "Caporetto",
+      "Vittorio Veneto",
+      "Isonzo I",
+      "Asiago"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The Battle of Caporetto in October 1917 shattered the Italian line and forced a retreat to the Piave.",
+    "difficulty": "hard",
+    "content_hash": "f54a7cd64fa025be60b96913c9990609cd0105c8ea84112d34588feb26d4c7ec",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which secret 1915 treaty brought Italy into World War I on the side of the Entente?",
+    "choices": [
+      "Treaty of Rapallo",
+      "Pact of London",
+      "Treaty of Saint-Germain",
+      "Pact of Steel"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The secret Treaty (Pact) of London of April 1915 promised Italy territory in exchange for joining the Allies.",
+    "difficulty": "hard",
+    "content_hash": "8533dc884e0c002ee81ba979abc47552e7504e79816c284fab8aad13fd317476",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which former Italian prime minister was kidnapped and murdered by the Red Brigades in 1978?",
+    "choices": [
+      "Aldo Moro",
+      "Giulio Andreotti",
+      "Amintore Fanfani",
+      "Bettino Craxi"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Aldo Moro was abducted in Rome in March 1978 and found dead 55 days later.",
+    "difficulty": "medium",
+    "content_hash": "06b941d700014ac063f69237fd0ecba42eba9e26d435b4661eee13ce03034192",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which pope launched the First Crusade with a call to arms at Clermont in 1095?",
+    "choices": [
+      "Gregory VII",
+      "Urban II",
+      "Innocent III",
+      "Alexander II"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Urban II, an Italian-based pope of French origin, preached the First Crusade at the Council of Clermont.",
+    "difficulty": "medium",
+    "content_hash": "0804c18fbf50d00cd104545bec29f790c41c606d15b7e9068bdc0518d02a728b",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "In the Investiture Controversy, which emperor stood in the snow at Canossa in 1077 seeking papal absolution?",
+    "choices": [
+      "Frederick Barbarossa",
+      "Otto I",
+      "Henry IV",
+      "Charles V"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Henry IV waited as a penitent outside Canossa castle to have Pope Gregory VII lift his excommunication.",
+    "difficulty": "hard",
+    "content_hash": "c2c5e089fbbed707dcaa54dc28029fd79030443c645300ce282ba3d9249119b0",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Lombard League defeated Frederick Barbarossa at which 1176 battle?",
+    "choices": [
+      "Battle of Legnano",
+      "Battle of Cortenuova",
+      "Battle of Benevento",
+      "Battle of Montaperti"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "At Legnano in 1176 the Lombard League's communal militias defeated the emperor's forces.",
+    "difficulty": "hard",
+    "content_hash": "8d2d69d3cb5906d251f99f10baa3c24736117c42bc6b6ec5682485e44098e597",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which 1861-era term describes the movement to recover Italian-speaking lands still under Austrian rule?",
+    "choices": [
+      "Risorgimento",
+      "Irredentism",
+      "Trasformismo",
+      "Carbonarism"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "'Irredentism', from 'Italia irredenta' (unredeemed Italy), described the push to annex Trento and Trieste.",
+    "difficulty": "hard",
+    "content_hash": "84233895a8975d7f2a37a7a271a48fd510d1ff15a865d0a838762e498c408833",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Sicilian uprising in 1282 expelled French Angevin rule from the island?",
+    "choices": [
+      "The Sicilian Vespers",
+      "The Ciompi Revolt",
+      "The Pazzi Conspiracy",
+      "The Masaniello Revolt"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The Sicilian Vespers began in Palermo at Easter 1282 and led to Aragonese rule over Sicily.",
+    "difficulty": "hard",
+    "content_hash": "44f84aafa1fe9fe65f3e378a05bb787595d3a0a28a16790b4c33bc8b2a266394",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which 1527 event saw mutinous troops of Emperor Charles V devastate the papal capital?",
+    "choices": [
+      "The Sack of Rome",
+      "The Siege of Florence",
+      "The Battle of Pavia",
+      "The Fall of Milan"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "In May 1527 unpaid imperial troops sacked Rome, trapping Pope Clement VII in Castel Sant'Angelo.",
+    "difficulty": "medium",
+    "content_hash": "9583d1cdddf29b32e2f4f62c4febeb927ece5b4ee708953577c64e3d2a241bba",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Dominican friar briefly ruled Florence as a puritanical reformer before being executed in 1498?",
+    "choices": [
+      "Girolamo Savonarola",
+      "Fra Angelico",
+      "Tommaso Campanella",
+      "Bernardino of Siena"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Savonarola dominated Florence after the Medici's 1494 expulsion but was hanged and burned in 1498.",
+    "difficulty": "hard",
+    "content_hash": "4459843a80dab444d331469ef7d339d879715d9d89aeb9be938749cd37a747b2",
+    "topic_pack_id": "history",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Japanese city was struck by the first atomic bomb on 6 August 1945?",
+    "choices": [
+      "Nagasaki",
+      "Hiroshima",
+      "Kobe",
+      "Yokohama"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The United States dropped the atomic bomb 'Little Boy' on Hiroshima on 6 August 1945, destroying most of the city.",
+    "difficulty": "easy",
+    "content_hash": "52386b3f471ce3db65fc13fe86de1575db8bd325d6944b4830b8e85b0eaefe7e",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "What title was held by Japan's hereditary military rulers from 1192 until 1867?",
+    "choices": [
+      "Shogun",
+      "Daimyo",
+      "Mikado",
+      "Ronin"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The shogun was the supreme military commander who effectively ruled Japan while the emperor remained a ceremonial figure.",
+    "difficulty": "easy",
+    "content_hash": "55ed104c6f9562db5b2fd15564594fbb56a5d2d36d005decd3b1e6edd018517a",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "By what name was Tokyo known before it became Japan's capital in 1868?",
+    "choices": [
+      "Nara",
+      "Osaka",
+      "Edo",
+      "Sapporo"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "The city was called Edo and served as the seat of the Tokugawa shogunate before being renamed Tokyo, meaning 'eastern capital'.",
+    "difficulty": "easy",
+    "content_hash": "5d3951954707b48a739e7dd6d47ca722d107d2019d315da65aab224771b37726",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which American naval officer led the 'Black Ships' expedition that forced Japan to open to foreign trade in 1853–54?",
+    "choices": [
+      "Matthew Perry",
+      "David Farragut",
+      "Chester Nimitz",
+      "John Paul Jones"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Commodore Matthew Perry's squadron arrived in 1853, leading to the 1854 Treaty of Kanagawa that ended Japan's seclusion.",
+    "difficulty": "easy",
+    "content_hash": "45f2031a1a8f3a1676f7717e0708ef34d34d59f265c9a3285553ad8453aa486d",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "What name is given to Japan's traditional warrior class that served the daimyo lords?",
+    "choices": [
+      "Samurai",
+      "Sepoys",
+      "Janissaries",
+      "Hoplites"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The samurai were Japan's hereditary warrior aristocracy, dominant from the medieval era until the Meiji reforms abolished their privileges.",
+    "difficulty": "easy",
+    "content_hash": "beddf558259e45d3ed5c7a348c75cfce02829125a5d03e827e8b2f6df2021554",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Who was the Emperor of Japan throughout World War II?",
+    "choices": [
+      "Meiji",
+      "Akihito",
+      "Taisho",
+      "Hirohito"
+    ],
+    "correct_choice_index": 3,
+    "explanation": "Emperor Hirohito (the Showa emperor) reigned from 1926 to 1989 and announced Japan's surrender in August 1945.",
+    "difficulty": "easy",
+    "content_hash": "8b6c612075d5dc990eb6b5d8933e71cdc32a4a28245afb2ffd3e90f75d37505e",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Japan's surprise attack on 7 December 1941 targeted which American naval base?",
+    "choices": [
+      "Pearl Harbor",
+      "Guantanamo Bay",
+      "Subic Bay",
+      "Midway Atoll"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The attack on Pearl Harbor in Hawaii brought the United States into World War II.",
+    "difficulty": "easy",
+    "content_hash": "afba8b5c4cb6c69f1a335feb80bfea4c38ff94e0743253bd1a310ce9281811ec",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "In which year did the Meiji Restoration return political power to the Japanese emperor?",
+    "choices": [
+      "1868",
+      "1815",
+      "1901",
+      "1854"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "In 1868 the Tokugawa shogunate fell and imperial rule was restored, launching Japan's rapid modernization.",
+    "difficulty": "easy",
+    "content_hash": "859adf88e4819719036f75a80b93d0db588fd7cbf128e35aa49d3ed5ef8f824d",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which city was Japan's imperial capital for over a thousand years before the court moved to Tokyo?",
+    "choices": [
+      "Kamakura",
+      "Hiroshima",
+      "Kyoto",
+      "Nagoya"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Kyoto (Heian-kyo) served as the imperial capital from 794 until 1869.",
+    "difficulty": "easy",
+    "content_hash": "b6f2540e2428b7efaef9e96a789d0ed5b43d9229293ce52717607c2be9ba7ec8",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "What Japanese word meaning 'divine wind' described the typhoons that wrecked Mongol invasion fleets?",
+    "choices": [
+      "Kamikaze",
+      "Bushido",
+      "Shogun",
+      "Sakoku"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "'Kamikaze' means divine wind, referring to storms credited with saving Japan from Mongol invasion in 1274 and 1281.",
+    "difficulty": "easy",
+    "content_hash": "b9c7558744515b52f87e01d87932e7aa1124bd3e709f202e3f284d1576c0f3a8",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Japan's victory in the war of 1904–1905 was against which major power?",
+    "choices": [
+      "Russia",
+      "Germany",
+      "Britain",
+      "France"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The Russo-Japanese War ended with Japanese victory, the first major defeat of a European power by an Asian state in modern times.",
+    "difficulty": "easy",
+    "content_hash": "e765a38da82010578cb83ef51847f7cbcc76582ffa2f9b1e0b680f4182843be7",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which city was the target of the second atomic bombing, on 9 August 1945?",
+    "choices": [
+      "Sendai",
+      "Nagasaki",
+      "Fukuoka",
+      "Kagoshima"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Nagasaki was bombed on 9 August 1945, days before Japan announced its surrender.",
+    "difficulty": "easy",
+    "content_hash": "df804ba6d8f848a38629aef9f35043f73dc228687be0b96d80361d83931b33db",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Japan's formal surrender in World War II was signed aboard which US battleship in Tokyo Bay?",
+    "choices": [
+      "USS Arizona",
+      "USS Enterprise",
+      "USS Missouri",
+      "USS Iowa"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "The surrender documents were signed on the deck of the USS Missouri on 2 September 1945.",
+    "difficulty": "easy",
+    "content_hash": "9b3337ce59cef3b8178cec3290bc2b58c384c3f1de9da7ab0eb763c9fc51a320",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "What is the name of the samurai code emphasizing loyalty, honour and martial virtue?",
+    "choices": [
+      "Bushido",
+      "Shinto",
+      "Kabuki",
+      "Zaibatsu"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Bushido, the 'way of the warrior', was the ethical code associated with the samurai class.",
+    "difficulty": "easy",
+    "content_hash": "195870a275153e4e33e65e92b969b910a1d38e96efd4861623886da56d43a58a",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Japanese city hosted the 1964 Summer Olympics, the first held in Asia?",
+    "choices": [
+      "Osaka",
+      "Sapporo",
+      "Nagano",
+      "Tokyo"
+    ],
+    "correct_choice_index": 3,
+    "explanation": "Tokyo's 1964 Games symbolized Japan's postwar recovery and were the first Olympics held in Asia.",
+    "difficulty": "easy",
+    "content_hash": "b9e8b0a730ba6f7e4b4a6b800c50240da5608dcc2a12880d1998fcde20d39e09",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "What is the term for the ritual suicide by self-disembowelment performed by samurai?",
+    "choices": [
+      "Seppuku",
+      "Sumo",
+      "Shodo",
+      "Sakoku"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Seppuku (also called hara-kiri) was a ritual suicide used to preserve honour or avoid capture.",
+    "difficulty": "easy",
+    "content_hash": "37ed6a5d1bccf687f63440f069252531b4d7ef9c793a65c1cedaefc723bc803a",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Who won the 1600 Battle of Sekigahara and went on to found Japan's last shogunate?",
+    "choices": [
+      "Tokugawa Ieyasu",
+      "Oda Nobunaga",
+      "Toyotomi Hideyoshi",
+      "Takeda Shingen"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Tokugawa Ieyasu's victory at Sekigahara led to his appointment as shogun in 1603 and over 250 years of Tokugawa rule.",
+    "difficulty": "medium",
+    "content_hash": "893376e4bc5486c82cce92d0d8752a97bbbaff91a434ab89014516e9d0d7315d",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "What was 'sakoku', the Tokugawa policy in force from the 1630s to 1853?",
+    "choices": [
+      "A land redistribution scheme",
+      "National seclusion from foreign contact",
+      "Compulsory military service",
+      "A ban on rice exports"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Sakoku, or 'closed country', severely restricted foreign trade, travel and Christianity for over two centuries.",
+    "difficulty": "medium",
+    "content_hash": "d416dfc5bcd2ea4c2e2536b095f5012cd5188573c3aa6f0ec7cff5407b8b4362",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which artificial island in Nagasaki harbour was the only Dutch trading post permitted during Japan's seclusion?",
+    "choices": [
+      "Dejima",
+      "Okinawa",
+      "Sado",
+      "Awaji"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Dejima, a small fan-shaped island, was Japan's sole window on European trade and learning from 1641 to 1854.",
+    "difficulty": "medium",
+    "content_hash": "b072d47c76fe9595c30589e50c13c119df50b487686e491032be0be38bfcc9fa",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Who became Japan's first shogun in 1192, establishing his government at Kamakura?",
+    "choices": [
+      "Taira no Kiyomori",
+      "Minamoto no Yoritomo",
+      "Ashikaga Takauji",
+      "Hojo Tokimune"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Minamoto no Yoritomo was named shogun in 1192 after victory in the Genpei War, founding the Kamakura shogunate.",
+    "difficulty": "medium",
+    "content_hash": "f73031785a48bdddc0f20932af47c45fbcc959ca6284f4c56a0aaf741eff6c42",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Mongol ruler launched the failed invasions of Japan in 1274 and 1281?",
+    "choices": [
+      "Genghis Khan",
+      "Ogedei Khan",
+      "Kublai Khan",
+      "Timur"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Kublai Khan, founder of China's Yuan dynasty, sent two great fleets against Japan; both were destroyed largely by storms.",
+    "difficulty": "medium",
+    "content_hash": "0b9f11f38f3ec1c786cb408b5f5d762c8ee8dd47dea6ae0d94077a7bcaf58615",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Heian-era court lady wrote 'The Tale of Genji', often called the world's first novel?",
+    "choices": [
+      "Sei Shonagon",
+      "Murasaki Shikibu",
+      "Ono no Komachi",
+      "Hojo Masako"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Murasaki Shikibu, a lady-in-waiting at the imperial court, completed 'The Tale of Genji' in the early 11th century.",
+    "difficulty": "medium",
+    "content_hash": "60bbab039407806371e2f64955a9e622a0f5d1cd39a09a1af39185882aaa1fe5",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Japanese unifier launched two invasions of Korea in the 1590s?",
+    "choices": [
+      "Toyotomi Hideyoshi",
+      "Tokugawa Iemitsu",
+      "Date Masamune",
+      "Uesugi Kenshin"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Toyotomi Hideyoshi invaded Korea in 1592 and 1597; the campaigns collapsed after his death in 1598.",
+    "difficulty": "medium",
+    "content_hash": "6ede95c2ade8f2d0f40b6412accd3765ace4950f8e02e5bf54d9cc9f4cb1e944",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which former samurai leader headed the Satsuma Rebellion against the Meiji government in 1877?",
+    "choices": [
+      "Okubo Toshimichi",
+      "Katsura Taro",
+      "Saigo Takamori",
+      "Yamagata Aritomo"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Saigo Takamori, once a Meiji leader himself, led the last great samurai revolt and died at the Battle of Shiroyama.",
+    "difficulty": "medium",
+    "content_hash": "9e375e730be695d6c087b22d8a4f3ff37a798de87f3a037ac3d06a4817847fdf",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Who served as Japan's first prime minister when the office was created in 1885?",
+    "choices": [
+      "Ito Hirobumi",
+      "Okuma Shigenobu",
+      "Katsura Taro",
+      "Hara Takashi"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Ito Hirobumi, chief drafter of the Meiji Constitution, became Japan's first prime minister in 1885.",
+    "difficulty": "medium",
+    "content_hash": "f8b148364d29762c188cd7171021db402a4f676732fda6fec3449d0eca46dabe",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The 1895 Treaty of Shimonoseki, which ceded Taiwan to Japan, ended which conflict?",
+    "choices": [
+      "The Boshin War",
+      "The First Sino-Japanese War",
+      "The Boxer Rebellion",
+      "The Russo-Japanese War"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Japan's victory in the First Sino-Japanese War (1894–95) brought Taiwan and marked its emergence as an imperial power.",
+    "difficulty": "medium",
+    "content_hash": "54d40a56d2887e989784ff47cb23d7f855b2580b0c016652264e6a2c90bc5aba",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which US president mediated the 1905 Treaty of Portsmouth ending the Russo-Japanese War?",
+    "choices": [
+      "William McKinley",
+      "Woodrow Wilson",
+      "Theodore Roosevelt",
+      "William Taft"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Theodore Roosevelt brokered the peace and received the 1906 Nobel Peace Prize for his role.",
+    "difficulty": "medium",
+    "content_hash": "736da777632abef295b4dcbfaf50f8c116a617675c50d0a3f36e1be5eaf586e8",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "In which year did Japan formally annex Korea as a colony?",
+    "choices": [
+      "1895",
+      "1910",
+      "1919",
+      "1931"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The Japan–Korea Treaty of 1910 annexed Korea, which remained under Japanese rule until 1945.",
+    "difficulty": "medium",
+    "content_hash": "9cfc77c57770f936122452422d6160676d1add8a73ac368d1f6ef76d8ba9d136",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "After the 1931 Manchurian Incident, Japan created which puppet state in northeast China?",
+    "choices": [
+      "Manchukuo",
+      "Mengjiang",
+      "Jehol",
+      "Kwantung"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Japan installed the former Qing emperor Puyi as nominal ruler of Manchukuo in 1932.",
+    "difficulty": "medium",
+    "content_hash": "bd52e06565bf275fbe2fd043ec6b42471ec6377f40067b1e0fbc53ef9289a4b7",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which disaster devastated Tokyo and Yokohama on 1 September 1923, killing over 100,000 people?",
+    "choices": [
+      "The Great Kanto Earthquake",
+      "The Ansei Typhoon",
+      "The Meiji Sanriku tsunami",
+      "The Nobi Earthquake"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The Great Kanto Earthquake and the firestorms it triggered destroyed much of the Tokyo–Yokohama region.",
+    "difficulty": "medium",
+    "content_hash": "d77615226bccffa52fa4b0434eb169761f7e64f4b5bdbc45f982558c56703ccf",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Who was the last shogun of Japan, resigning his authority in 1867?",
+    "choices": [
+      "Tokugawa Yoshinobu",
+      "Tokugawa Iemochi",
+      "Tokugawa Tsunayoshi",
+      "Tokugawa Hidetada"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Tokugawa Yoshinobu surrendered power to Emperor Meiji in 1867, ending nearly seven centuries of shogunal rule.",
+    "difficulty": "medium",
+    "content_hash": "06acb25d5fa8cb8042ab8d1d378ea035045bb260124eebde3b795ac253d1099e",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "What does Article 9 of Japan's 1947 constitution famously do?",
+    "choices": [
+      "Establishes the emperor as head of state",
+      "Renounces war and the maintenance of war potential",
+      "Grants women the vote",
+      "Guarantees free university education"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Article 9 of the postwar constitution renounces war as a sovereign right and forbids maintaining forces for war.",
+    "difficulty": "medium",
+    "content_hash": "d57552ba392bf02702a8040926a19175c688ef759b7882ec9954a03559b63beb",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Queen Himiko, an early shamanic ruler of Yamatai, is known chiefly from records of which country?",
+    "choices": [
+      "Korea",
+      "China",
+      "India",
+      "Vietnam"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Himiko appears in third-century Chinese chronicles, notably the 'Records of Wei', which describe her rule over Yamatai.",
+    "difficulty": "hard",
+    "content_hash": "acd6b335d5e9208df0b7b095732b75e5226c819270164eefe855acad9edf18e3",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Onin War, which began in 1467 and shattered shogunal authority, ushered in which era of Japanese history?",
+    "choices": [
+      "The Nara period",
+      "The Sengoku (Warring States) period",
+      "The Genroku era",
+      "The Kenmu Restoration"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The Onin War devastated Kyoto and left the Ashikaga shogunate powerless, beginning a century of civil war.",
+    "difficulty": "hard",
+    "content_hash": "a599b45748371f9b9c9c2bde88e077d5ebda3bd21d1dd66c74003125cfea8644",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "At the Battle of Hakusukinoe in 663, Japanese forces supporting Baekje were crushed by an alliance of which two powers?",
+    "choices": [
+      "Tang China and Silla",
+      "Goguryeo and Wei",
+      "Song China and Goryeo",
+      "Sui China and Balhae"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The Tang–Silla alliance destroyed the Japanese fleet at Hakusukinoe (Baekgang), ending Japanese influence in Korea for centuries.",
+    "difficulty": "hard",
+    "content_hash": "7fa6f8e9d7cff389a861936c50392702bfde65bee16e7e3c023cefd11dd0bda4",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which emperor briefly restored direct imperial rule in the Kenmu Restoration of 1333–1336?",
+    "choices": [
+      "Go-Daigo",
+      "Kammu",
+      "Go-Toba",
+      "Shomu"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Emperor Go-Daigo overthrew the Kamakura shogunate but lost power to Ashikaga Takauji, sparking the Nanboku-cho split.",
+    "difficulty": "hard",
+    "content_hash": "e13571fff29891260bbb53a9b3b6366a06dc7a0fed9061dcf5002470796984b9",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Boshin War ended in 1869 with the fall of which short-lived breakaway state in Hokkaido?",
+    "choices": [
+      "The Republic of Ezo",
+      "The Kingdom of Ryukyu",
+      "The Domain of Aizu",
+      "The Republic of Sendai"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Tokugawa loyalists proclaimed the Republic of Ezo at Hakodate; it fell in June 1869, ending resistance to the Meiji government.",
+    "difficulty": "hard",
+    "content_hash": "e62acfcf238a1198afe27591da6d0b87c119bec0d35f8516f6ddcc0c652ef23e",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Shimabara Rebellion of 1637–38 was largely a revolt by peasants of which faith?",
+    "choices": [
+      "Zen Buddhism",
+      "Christianity",
+      "Nichiren Buddhism",
+      "Shinto revivalism"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Heavily taxed, largely Christian peasants near Nagasaki rose up; their defeat led to intensified persecution and stricter seclusion.",
+    "difficulty": "hard",
+    "content_hash": "e2e4ed01b676633ada5848fca95fa73c701c78f8d3208c21dd8f35c2b2212a53",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "What was the February 26 Incident of 1936 in Tokyo?",
+    "choices": [
+      "A naval mutiny in Yokosuka",
+      "An attempted coup by young army officers",
+      "A general strike by factory workers",
+      "A student uprising against conscription"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Rebellious young officers assassinated several officials in an attempted coup; its suppression still strengthened military influence over government.",
+    "difficulty": "hard",
+    "content_hash": "ba5faeefa20897dbec067e3472f0fd8552e0ce1cb180b14f7e3da760ea2877d5",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which retainer betrayed and killed Oda Nobunaga at Honno-ji temple in 1582?",
+    "choices": [
+      "Akechi Mitsuhide",
+      "Shibata Katsuie",
+      "Maeda Toshiie",
+      "Hosokawa Tadaoki"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Akechi Mitsuhide turned on Nobunaga at Honno-ji, but was defeated by Toyotomi Hideyoshi days later at Yamazaki.",
+    "difficulty": "hard",
+    "content_hash": "67e2666080095f675307cfa47ea9c1a2fbc3a8706d6db6369b72f31858e7493f",
+    "topic_pack_id": "history",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "In which year did the Continental Congress adopt the Declaration of Independence?",
+    "choices": [
+      "1774",
+      "1776",
+      "1781",
+      "1789"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The Declaration of Independence was adopted on July 4, 1776, in Philadelphia.",
+    "difficulty": "easy",
+    "content_hash": "42cd32d3a0a4f4e322d0b11fe968895d0d66d5e7a94d63c1120a6ee7c6f5952b",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Who served as the first President of the United States?",
+    "choices": [
+      "Thomas Jefferson",
+      "John Adams",
+      "George Washington",
+      "Benjamin Franklin"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "George Washington took office in 1789 and served two terms before retiring to Mount Vernon.",
+    "difficulty": "easy",
+    "content_hash": "93c126536b9895403c98fc7a5c766a7f4e71e1395d5f177e5e8866ad6729181b",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which ship carried the Pilgrims to North America in 1620?",
+    "choices": [
+      "Mayflower",
+      "Santa Maria",
+      "Discovery",
+      "Endeavour"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The Mayflower brought about 100 English settlers to Plymouth in present-day Massachusetts in 1620.",
+    "difficulty": "easy",
+    "content_hash": "873e445b44b24710f565857d0fd7a31fb81ab6d6f071a0e0b8246848b7ba1daf",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which country gave the Statue of Liberty to the United States as a gift?",
+    "choices": [
+      "Britain",
+      "Spain",
+      "France",
+      "The Netherlands"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "France presented the statue in 1886 as a symbol of friendship and shared republican ideals.",
+    "difficulty": "easy",
+    "content_hash": "cc42094dd898f3a8903ff89efe42c29a61628e5bb1a098307671c6e433a0161b",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Who was President of the United States during the Civil War?",
+    "choices": [
+      "Andrew Jackson",
+      "Abraham Lincoln",
+      "Ulysses S. Grant",
+      "James Buchanan"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Abraham Lincoln led the Union from 1861 until his assassination in April 1865.",
+    "difficulty": "easy",
+    "content_hash": "73d80163d41da22ca6c7c4cb434f6aaa1334f474e7aa34022a6388a0b019eea0",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which amendment to the U.S. Constitution abolished slavery?",
+    "choices": [
+      "10th Amendment",
+      "13th Amendment",
+      "15th Amendment",
+      "19th Amendment"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The 13th Amendment, ratified in December 1865, abolished slavery throughout the United States.",
+    "difficulty": "easy",
+    "content_hash": "45b6791bcb7de19fb1fb706eda6b1904aac9256aa40fe07b58184316e79bcf61",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Louisiana Purchase of 1803 acquired a vast territory from which country?",
+    "choices": [
+      "Spain",
+      "Britain",
+      "France",
+      "Mexico"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Napoleon's France sold the Louisiana Territory for about $15 million, roughly doubling the size of the U.S.",
+    "difficulty": "easy",
+    "content_hash": "8ea7b99b5f4f96ab3c70f58347327d7ebeafff87fef7a5dbe51b4426351e1c4b",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "In 1867 the United States purchased Alaska from which nation?",
+    "choices": [
+      "Canada",
+      "Russia",
+      "Denmark",
+      "Britain"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Secretary of State William Seward negotiated Alaska's purchase from Russia for $7.2 million.",
+    "difficulty": "easy",
+    "content_hash": "d728410cf4d623047b1f819beaa2779fe9635501791e8e6ba106a20a23f965ff",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The 1849 Gold Rush drew hundreds of thousands of prospectors to which territory?",
+    "choices": [
+      "California",
+      "Colorado",
+      "Alaska",
+      "Nevada"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Gold found at Sutter's Mill in 1848 sparked the California Gold Rush; migrants became known as 'forty-niners'.",
+    "difficulty": "easy",
+    "content_hash": "dfe140aafabac0d33c650983820bed85f524998cb6459846518c06b7e37737bc",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Who delivered the 'I Have a Dream' speech at the 1963 March on Washington?",
+    "choices": [
+      "Malcolm X",
+      "Thurgood Marshall",
+      "Martin Luther King Jr.",
+      "Medgar Evers"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Dr. Martin Luther King Jr. gave the speech from the steps of the Lincoln Memorial on August 28, 1963.",
+    "difficulty": "easy",
+    "content_hash": "f5798011cfe7cc97872ad206d730aa3aca54e9943bd02052c71af4e81cf90685",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which American astronaut became the first person to walk on the Moon in 1969?",
+    "choices": [
+      "Buzz Aldrin",
+      "John Glenn",
+      "Alan Shepard",
+      "Neil Armstrong"
+    ],
+    "correct_choice_index": 3,
+    "explanation": "Neil Armstrong stepped onto the lunar surface on July 20, 1969, during the Apollo 11 mission.",
+    "difficulty": "easy",
+    "content_hash": "a103d38b6cc2e3a530856b199676edc7e036bd3e76eb73f693593d05e8eb28cf",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which U.S. president was assassinated in Dallas, Texas, in November 1963?",
+    "choices": [
+      "John F. Kennedy",
+      "Lyndon B. Johnson",
+      "Robert F. Kennedy",
+      "Dwight D. Eisenhower"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "President John F. Kennedy was shot while riding in a motorcade through Dallas on November 22, 1963.",
+    "difficulty": "easy",
+    "content_hash": "34e54a1204fada04b8690cfe271cff790f6614d04d176d350acee892c1f0dd9e",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Confederate general surrendered to Ulysses S. Grant at Appomattox Court House in 1865?",
+    "choices": [
+      "Stonewall Jackson",
+      "Jefferson Davis",
+      "Robert E. Lee",
+      "James Longstreet"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Robert E. Lee surrendered the Army of Northern Virginia on April 9, 1865, effectively ending the Civil War.",
+    "difficulty": "easy",
+    "content_hash": "fc6303d6875e35a3a89862fe126ae700299abf6cf8acda3374523ef84f3e0f33",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which president launched the New Deal programs during the Great Depression?",
+    "choices": [
+      "Herbert Hoover",
+      "Franklin D. Roosevelt",
+      "Harry Truman",
+      "Calvin Coolidge"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Franklin D. Roosevelt, elected in 1932, introduced the New Deal to combat the Depression's economic collapse.",
+    "difficulty": "easy",
+    "content_hash": "197257406b019307e13c481240e49186418e9ae5455dd39154e7bb1f36c6e47b",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "In which city was the Declaration of Independence debated and signed?",
+    "choices": [
+      "Boston",
+      "New York",
+      "Williamsburg",
+      "Philadelphia"
+    ],
+    "correct_choice_index": 3,
+    "explanation": "The Second Continental Congress met in Philadelphia's Pennsylvania State House, now Independence Hall.",
+    "difficulty": "easy",
+    "content_hash": "eaa2ced3227da5bd4f6d1e61e09f4a5aea346769975d04f91bb675c399f6f29d",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which founding American document opens with the words 'We the People'?",
+    "choices": [
+      "The Constitution",
+      "The Declaration of Independence",
+      "The Articles of Confederation",
+      "The Bill of Rights"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The U.S. Constitution, drafted in 1787, begins with the preamble 'We the People of the United States...'",
+    "difficulty": "easy",
+    "content_hash": "a758b4f3097707cd9095062d58f765c63d1b273a802348fbacded853faa4183f",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The 1803 Supreme Court case Marbury v. Madison established which principle?",
+    "choices": [
+      "Federal supremacy over trade",
+      "Judicial review of laws",
+      "Presidential immunity",
+      "States' right to secede"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Chief Justice John Marshall's ruling asserted the Court's power to strike down laws that violate the Constitution.",
+    "difficulty": "medium",
+    "content_hash": "286fee48befa7ae390b369b0759b599982c8ef1b0d9fb2e3d0c3c53c977d1e74",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which president commissioned the Lewis and Clark expedition to explore the West?",
+    "choices": [
+      "George Washington",
+      "John Adams",
+      "Thomas Jefferson",
+      "James Monroe"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Thomas Jefferson dispatched the Corps of Discovery in 1804 to map the newly purchased Louisiana Territory.",
+    "difficulty": "medium",
+    "content_hash": "968472ba99c7ea3e1edf49260af8c582271412854cc873726b019b514f2db4dd",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "What did the 19th Amendment, ratified in 1920, accomplish?",
+    "choices": [
+      "Ended Prohibition",
+      "Granted women the right to vote",
+      "Introduced the income tax",
+      "Limited presidents to two terms"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The 19th Amendment barred denying the vote on account of sex, capping decades of suffragist campaigning.",
+    "difficulty": "medium",
+    "content_hash": "49d2f1f9c30a9767a67e9b090052b829f865831f2067fcc06c2ea068d70df9c1",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "In which state was the pivotal 1863 Battle of Gettysburg fought?",
+    "choices": [
+      "Virginia",
+      "Maryland",
+      "Pennsylvania",
+      "Ohio"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "The three-day battle in southern Pennsylvania turned back Lee's invasion of the North.",
+    "difficulty": "medium",
+    "content_hash": "1a887b81242647ae58fd5073e2a75fff6ed67035207606af4f34a8a7764f8222",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Federalist Papers were written by Alexander Hamilton, John Jay, and which other founder?",
+    "choices": [
+      "James Madison",
+      "Thomas Paine",
+      "Samuel Adams",
+      "Patrick Henry"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "James Madison joined Hamilton and Jay in writing 85 essays urging ratification of the Constitution.",
+    "difficulty": "medium",
+    "content_hash": "c13c70505882c44ada3f61f60d71bc4e487642d43a1d5c7570da23ff0294eef6",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The forced 1838 removal known as the Trail of Tears primarily affected which nation?",
+    "choices": [
+      "Navajo",
+      "Cherokee",
+      "Comanche",
+      "Iroquois"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Thousands of Cherokee died marching west to Indian Territory after removal policies under Andrew Jackson.",
+    "difficulty": "medium",
+    "content_hash": "f7854f8f9c4e4fd0ae212f08ec8784b8e3d6012915f0ef206492a9e8ae219505",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which 1898 war brought Puerto Rico, Guam, and the Philippines under U.S. control?",
+    "choices": [
+      "The Mexican-American War",
+      "The Spanish-American War",
+      "The Boxer intervention",
+      "The War of 1812"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Spain ceded the territories in the Treaty of Paris that ended the Spanish-American War.",
+    "difficulty": "medium",
+    "content_hash": "34daff7cf8255da8da5e8f516c1b4979041f9ff797b056efd7341183a120ffd5",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "What did the Monroe Doctrine of 1823 declare?",
+    "choices": [
+      "Slavery was banned in new territories",
+      "European powers should not colonize further in the Americas",
+      "The U.S. would remain neutral in all wars",
+      "Tariffs would be abolished"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "President Monroe warned Europe against new colonization or intervention in the Western Hemisphere.",
+    "difficulty": "medium",
+    "content_hash": "abd6aea88e1587b60af4753542e7c4903d8a2ee2f2dbfc429d641f6791f7c572",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which U.S. president resigned from office, in 1974?",
+    "choices": [
+      "Lyndon B. Johnson",
+      "Gerald Ford",
+      "Richard Nixon",
+      "Jimmy Carter"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Richard Nixon resigned on August 9, 1974, amid the Watergate scandal and looming impeachment.",
+    "difficulty": "medium",
+    "content_hash": "f4768aebd57b3bc5359da474113bb1bbb91012b824d3f41a02b1528a86d7f001",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "At which 1876 battle were George Custer and his troops defeated by Lakota and Cheyenne warriors?",
+    "choices": [
+      "Wounded Knee",
+      "Little Bighorn",
+      "Sand Creek",
+      "Fallen Timbers"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The Battle of the Little Bighorn in Montana Territory destroyed Custer's detachment of the 7th Cavalry.",
+    "difficulty": "medium",
+    "content_hash": "36efdc9174b13c65c2347a80e970279903803bd6bcb9a72e830b479f3c40a6a9",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which constitutional amendment established Prohibition of alcohol in the United States?",
+    "choices": [
+      "16th Amendment",
+      "17th Amendment",
+      "18th Amendment",
+      "21st Amendment"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "The 18th Amendment banned the manufacture and sale of alcohol; the 21st repealed it in 1933.",
+    "difficulty": "medium",
+    "content_hash": "3c76ef33fe31e6d6a6487ace9fc949ea7065dff47a4e6c0670b0db7afb35eca1",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The 1848 convention at Seneca Falls, New York, was the first major American gathering devoted to what cause?",
+    "choices": [
+      "Women's rights",
+      "Abolition of slavery",
+      "Temperance",
+      "Labor unions"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Elizabeth Cady Stanton and Lucretia Mott organized the first women's rights convention there in July 1848.",
+    "difficulty": "medium",
+    "content_hash": "6dc8bb5df575773f494142f771ca8c4794e5466ffc1be9d209d553ae4967df49",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which president championed the U.S. takeover of the Panama Canal project in 1903-04?",
+    "choices": [
+      "William McKinley",
+      "Theodore Roosevelt",
+      "William Howard Taft",
+      "Woodrow Wilson"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Theodore Roosevelt backed Panama's independence from Colombia and pushed the canal's construction.",
+    "difficulty": "medium",
+    "content_hash": "7147855b5b3bb856f29f27b31220396e099857b11b3efd032fe50371de49e78c",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The 1954 Supreme Court decision Brown v. Board of Education struck down what practice?",
+    "choices": [
+      "Poll taxes",
+      "Segregated public schools",
+      "Literacy tests for voting",
+      "Restrictive housing covenants"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The Court unanimously ruled that racially separate public schools were inherently unequal.",
+    "difficulty": "medium",
+    "content_hash": "a49b9688069dd39b466a3a9e2b49a82ad80792d30561066a0fd92c2fb51c326d",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Rosa Parks's 1955 refusal to give up her bus seat sparked a boycott in which city?",
+    "choices": [
+      "Birmingham",
+      "Selma",
+      "Montgomery",
+      "Atlanta"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "The Montgomery Bus Boycott in Alabama lasted over a year and propelled Martin Luther King Jr. to prominence.",
+    "difficulty": "medium",
+    "content_hash": "f1d801b02beb9538438b24519360436d38e9afe96b5a5fa3279113533925d3f9",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Where did the Wright brothers make their first powered airplane flight in 1903?",
+    "choices": [
+      "Kitty Hawk, North Carolina",
+      "Dayton, Ohio",
+      "Cape May, New Jersey",
+      "Roanoke, Virginia"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Orville and Wilbur Wright flew at Kill Devil Hills near Kitty Hawk on December 17, 1903.",
+    "difficulty": "medium",
+    "content_hash": "c404a1ff9d2cba8fe3be936a45ed0df5d5aae090b483f4358c1139270370aed3",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which British general surrendered at Yorktown in 1781, effectively ending the Revolutionary War's fighting?",
+    "choices": [
+      "William Howe",
+      "Charles Cornwallis",
+      "John Burgoyne",
+      "Henry Clinton"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Lord Cornwallis surrendered his army to Washington and French forces under Rochambeau in October 1781.",
+    "difficulty": "medium",
+    "content_hash": "1f2ea70d397fce10a085e6cc98cc59f0d59bcf81058b1a8254c7bac7f75fa21e",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The XYZ Affair of 1797-98, which inflamed American opinion, involved bribery demands by officials of which country?",
+    "choices": [
+      "Spain",
+      "Britain",
+      "France",
+      "Prussia"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "French agents demanded bribes from U.S. envoys, triggering the undeclared naval Quasi-War with France.",
+    "difficulty": "hard",
+    "content_hash": "aea84b9ac0319b81edf11de72ff047351014587ee55449c391297297ff34dd5b",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which U.S. president served the shortest term, dying just a month after his 1841 inauguration?",
+    "choices": [
+      "William Henry Harrison",
+      "Zachary Taylor",
+      "James A. Garfield",
+      "John Tyler"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "William Henry Harrison died of illness on April 4, 1841, after only 31 days in office.",
+    "difficulty": "hard",
+    "content_hash": "550854c8fe78a6bc04f73e72af975634ea9b47a40fefe3e8c3a174203824ec6c",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which treaty, signed in 1814, ended the War of 1812?",
+    "choices": [
+      "Treaty of Ghent",
+      "Treaty of Paris",
+      "Convention of 1818",
+      "Rush-Bagot Agreement"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The Treaty of Ghent restored pre-war boundaries between the United States and Britain.",
+    "difficulty": "hard",
+    "content_hash": "6f4f08d62d42103ebcc08d49df67f7e8827aea96ba1d9fd8d3c449646807be32",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Compromise of 1877 resolved a disputed election and led to what outcome?",
+    "choices": [
+      "The annexation of Texas",
+      "The end of Reconstruction in the South",
+      "The creation of the Federal Reserve",
+      "The repeal of the Missouri Compromise"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Rutherford B. Hayes gained the presidency and federal troops were withdrawn from the South, ending Reconstruction.",
+    "difficulty": "hard",
+    "content_hash": "935f9bef88416f9b868fdfc3f8201f94af1cd883d5aecd7ff7707a3ba800e784",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The 1853 Gadsden Purchase acquired land for a southern railroad route from which country?",
+    "choices": [
+      "Spain",
+      "Mexico",
+      "Britain",
+      "Russia"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The U.S. paid Mexico $10 million for territory in what is now southern Arizona and New Mexico.",
+    "difficulty": "hard",
+    "content_hash": "d338e45debec667ae55b45414edfa8c6402a02362249129d95ae3aa04027c89d",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Bacon's Rebellion of 1676, an uprising of frontier settlers against the colonial governor, took place in which colony?",
+    "choices": [
+      "Virginia",
+      "Massachusetts",
+      "Carolina",
+      "New York"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Nathaniel Bacon led settlers against Governor William Berkeley in Virginia, briefly burning Jamestown.",
+    "difficulty": "hard",
+    "content_hash": "8db17996c4a7d75495ea9ca23f5b011c3e2b487839daa403c3bcfabbd8ce2caa",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "What single word was found carved at the abandoned Roanoke colony site in 1590?",
+    "choices": [
+      "CROATOAN",
+      "VIRGINIA",
+      "RALEIGH",
+      "SASSAFRAS"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "John White found 'CROATOAN' carved on a post, the only clue to the fate of the 'Lost Colony'.",
+    "difficulty": "hard",
+    "content_hash": "da7607186710f5b64bce33a9531c22aa6a3ce36844bb20852c7062784a358abd",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Hartford Convention of 1814-15 was a meeting of disaffected Federalists from which region?",
+    "choices": [
+      "The Deep South",
+      "New England",
+      "The Ohio Valley",
+      "The Mid-Atlantic"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "New England Federalists met in secret to protest the War of 1812, a move that helped destroy their party.",
+    "difficulty": "hard",
+    "content_hash": "dbf742b1b4c4e0f8b7cb039dc1ec795d4d47f9840d77b8d64ffd7b2665169186",
+    "topic_pack_id": "history",
+    "country": "US",
+    "sub_topic_id": null
+  }
+]

@@ -1,0 +1,2866 @@
+[
+  {
+    "question_text": "Which gas do plants absorb from the air to carry out photosynthesis?",
+    "choices": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Plants take in carbon dioxide and, using sunlight and water, produce sugars and release oxygen.",
+    "difficulty": "easy",
+    "content_hash": "e0374896c1ddd4e72893f39f4f3aef92f2062c50fbc6f07dc59d31ab8c87da9c",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "What is the chemical symbol for gold?",
+    "choices": [
+      "Go",
+      "Gd",
+      "Au",
+      "Ag"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Gold's symbol Au comes from its Latin name, aurum. Ag is silver.",
+    "difficulty": "easy",
+    "content_hash": "7bea422cb104a46b67c90a07ebef455400a7151c5cbcd7f83fbbafb8efb419dc",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "Which planet in our solar system orbits closest to the Sun?",
+    "choices": [
+      "Venus",
+      "Mercury",
+      "Mars",
+      "Earth"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Mercury orbits at an average distance of about 58 million km from the Sun.",
+    "difficulty": "easy",
+    "content_hash": "b1dd398872b6ea7859fe554ad1ac1bb0e36abeffa4b1593b9b0a23eee342dda0",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "Which subatomic particle carries a negative electric charge?",
+    "choices": [
+      "Proton",
+      "Neutron",
+      "Electron",
+      "Positron"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Electrons carry a negative charge, protons are positive, and neutrons are neutral.",
+    "difficulty": "easy",
+    "content_hash": "ffb0da98fa8a527f3114e946b895d730e6f329b7ca8d50c9cd400b41d11975f6",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "How many bones are in the typical adult human body?",
+    "choices": [
+      "186",
+      "206",
+      "256",
+      "306"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Adults have 206 bones; babies are born with about 270, many of which fuse as they grow.",
+    "difficulty": "easy",
+    "content_hash": "a98759dcce7eb64d0235dc83b4a61478f6c9d40d96722f4e067092ed190a1e04",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "What is the largest organ of the human body?",
+    "choices": [
+      "The liver",
+      "The brain",
+      "The skin",
+      "The lungs"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "The skin is the body's largest organ, covering roughly two square metres in an adult.",
+    "difficulty": "easy",
+    "content_hash": "040447be63c071c5cace32eba39c0ef2956e38753e336d2cabf61aa50d8db249",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "Which part of a typical animal cell stores most of its DNA?",
+    "choices": [
+      "Nucleus",
+      "Ribosome",
+      "Cell membrane",
+      "Cytoplasm"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The nucleus houses the chromosomes; a small amount of DNA also sits in mitochondria.",
+    "difficulty": "easy",
+    "content_hash": "1861ed868215b42cf9ec40d04a5bb6bd7bd93d95f157182f9addae937d91aa87",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "Who developed the theory of general relativity?",
+    "choices": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Niels Bohr",
+      "Galileo Galilei"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Einstein published general relativity in 1915, describing gravity as the curvature of spacetime.",
+    "difficulty": "easy",
+    "content_hash": "b40eb226dfe320b14f0da601e13ad9212b6eb72faf9e3a0a5b54d858c92ab2d7",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "At sea level, water boils at what temperature?",
+    "choices": [
+      "90 °C",
+      "100 °C",
+      "110 °C",
+      "120 °C"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "At standard atmospheric pressure water boils at 100 °C (212 °F); the point drops at higher altitudes.",
+    "difficulty": "easy",
+    "content_hash": "ae18b525283e422a9adf2946e81050a2359756fa53ba3748b0ee3dcc142960b9",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "Which naturally occurring mineral is the hardest known?",
+    "choices": [
+      "Quartz",
+      "Diamond",
+      "Topaz",
+      "Corundum"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Diamond scores 10, the top of the Mohs hardness scale.",
+    "difficulty": "easy",
+    "content_hash": "341949488c92bc1daba9f0fe2a9daf2d833d49d2f93717657c73e6e748bac248",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "Which blood cells carry oxygen around the body?",
+    "choices": [
+      "White blood cells",
+      "Platelets",
+      "Red blood cells",
+      "Plasma cells"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Red blood cells contain haemoglobin, an iron-rich protein that binds oxygen.",
+    "difficulty": "easy",
+    "content_hash": "f40850c1522088753f89389635bd508cfe077065fedcea958177c98766eabbbf",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "What galaxy is our solar system located in?",
+    "choices": [
+      "Andromeda",
+      "The Milky Way",
+      "The Whirlpool Galaxy",
+      "The Triangulum Galaxy"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The Sun sits in one of the spiral arms of the Milky Way, about 26,000 light-years from its centre.",
+    "difficulty": "easy",
+    "content_hash": "5e69b15ed54b8445c614d2fcc2938f48152585925332f47a067ca2a47db44f11",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "What is the most abundant gas in Earth's atmosphere?",
+    "choices": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Argon"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Nitrogen makes up about 78% of the atmosphere by volume, with oxygen at roughly 21%.",
+    "difficulty": "medium",
+    "content_hash": "ee5a86b87e879edb74ff5ac7b0c7445a35e1b4ff078f1cf16c2d483963ef455b",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "An element's identity is determined by its number of what?",
+    "choices": [
+      "Neutrons",
+      "Protons",
+      "Electrons",
+      "Isotopes"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The proton count is the atomic number, which defines the element; neutron count varies between isotopes.",
+    "difficulty": "medium",
+    "content_hash": "24091749c573b77e0f5c83f5e76474341a3d356d32488e70d7e3937a790f12e0",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "On the pH scale, a neutral solution such as pure water has a pH of about what?",
+    "choices": [
+      "0",
+      "5",
+      "7",
+      "10"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "pH 7 is neutral; below 7 is acidic and above 7 is basic (alkaline).",
+    "difficulty": "medium",
+    "content_hash": "9bc3f53fbad2106d24d2887dcc21271fd432877e705c0b1405defb99cb9cf684",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "Which type of rock forms when molten magma or lava cools and solidifies?",
+    "choices": [
+      "Sedimentary",
+      "Metamorphic",
+      "Igneous",
+      "Clastic"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Igneous rocks such as basalt and granite crystallise from cooling magma or lava.",
+    "difficulty": "medium",
+    "content_hash": "f7c91708f189c5010a3c8e1a6ac80ee44219638f0a19ee08712ff90bc4a609ae",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "The speed of light in a vacuum is closest to which value?",
+    "choices": [
+      "300,000 km per second",
+      "30,000 km per second",
+      "3 million km per second",
+      "1,000 km per second"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Light travels at 299,792,458 metres per second, about 300,000 km/s.",
+    "difficulty": "medium",
+    "content_hash": "fc54a294efd6b57cceb2c03b14d3897fd9301b59b266cd52c22c42d8eb550d2e",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "Which chemist published the periodic table in 1869, leaving gaps for undiscovered elements?",
+    "choices": [
+      "Antoine Lavoisier",
+      "Dmitri Mendeleev",
+      "John Dalton",
+      "Robert Boyle"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Mendeleev arranged elements by atomic weight and predicted properties of elements not yet found.",
+    "difficulty": "medium",
+    "content_hash": "46b4007886f6288319390a1783125b509af42aec12aacce18f7bf78443a41730",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "In DNA, the base adenine normally pairs with which other base?",
+    "choices": [
+      "Guanine",
+      "Cytosine",
+      "Thymine",
+      "Uracil"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "A pairs with T and G pairs with C in double-stranded DNA. Uracil replaces thymine in RNA.",
+    "difficulty": "medium",
+    "content_hash": "173b9e5da142c2b3732c21fb194cdefbc67f2910fafc4af3fe70bca519b423f8",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "What is the SI unit of electrical resistance?",
+    "choices": [
+      "Volt",
+      "Ampere",
+      "Watt",
+      "Ohm"
+    ],
+    "correct_choice_index": 3,
+    "explanation": "Resistance is measured in ohms (Ω), named after Georg Ohm.",
+    "difficulty": "medium",
+    "content_hash": "d1b540ef220a978e5ec1a0b6d938520ef8c1ae3346299b3ac78014800be24e08",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "Which planet is home to the storm known as the Great Red Spot?",
+    "choices": [
+      "Mars",
+      "Jupiter",
+      "Saturn",
+      "Neptune"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The Great Red Spot is a giant anticyclone in Jupiter's atmosphere, observed for centuries.",
+    "difficulty": "medium",
+    "content_hash": "510135379cb90535b3819fcc12abfb82a56b7afb10ede19ed5805a5d40f93b9f",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "Newton's third law of motion states that for every action there is what?",
+    "choices": [
+      "A proportional acceleration",
+      "An equal and opposite reaction",
+      "A conserved momentum",
+      "A resisting friction"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Forces come in pairs: when one body pushes another, it experiences an equal force in the opposite direction.",
+    "difficulty": "medium",
+    "content_hash": "8ba95e085548daa70082a12e52ca106c6a2c7674013c3180e532a2d2bceea7d0",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "Which layer of Earth's interior is a liquid shell of mostly iron and nickel?",
+    "choices": [
+      "The crust",
+      "The mantle",
+      "The outer core",
+      "The inner core"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "The molten outer core's motion generates Earth's magnetic field; the inner core is solid.",
+    "difficulty": "medium",
+    "content_hash": "415c7a3d8123cf9070d3d6aa11f5280dbdc12d91faa667dd5a9320ed2483dc43",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "Which moon, the largest of Saturn, has a thick nitrogen atmosphere and lakes of liquid methane?",
+    "choices": [
+      "Titan",
+      "Europa",
+      "Triton",
+      "Io"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Titan is the only moon known to have a dense atmosphere and stable surface liquids.",
+    "difficulty": "medium",
+    "content_hash": "abe20b9debf4b47e7b4e25c43c094279b7b65d2393830178c902058d8dc4d72e",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "What is the region around a black hole from which nothing, not even light, can escape called?",
+    "choices": [
+      "The accretion disc",
+      "The singularity",
+      "The event horizon",
+      "The photon ring"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "The event horizon is the boundary where escape would require exceeding the speed of light.",
+    "difficulty": "medium",
+    "content_hash": "60dcd44a39f53965cac27e2ed3ed3ce886f07ba570bbe9595b1a577a8adc2f9d",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "What is the term for the process by which a liquid turns into vapour at temperatures below its boiling point?",
+    "choices": [
+      "Condensation",
+      "Evaporation",
+      "Sublimation",
+      "Precipitation"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Evaporation happens when faster-moving molecules escape from a liquid's surface.",
+    "difficulty": "medium",
+    "content_hash": "9e63898c87f78676c0e6bf81fe61d0b89b2e4095d8be40601e4cebf6cb8c2bb6",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "Which element is the most abundant in Earth's crust by mass?",
+    "choices": [
+      "Iron",
+      "Silicon",
+      "Aluminium",
+      "Oxygen"
+    ],
+    "correct_choice_index": 3,
+    "explanation": "Oxygen makes up roughly 46% of the crust by mass, mostly locked in silicate minerals.",
+    "difficulty": "hard",
+    "content_hash": "c90703a0c549a7bc0098b5f9d103426a8b29888c57f9e2010004f47a50a3db82",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "What is the SI unit of magnetic flux density?",
+    "choices": [
+      "Tesla",
+      "Weber",
+      "Henry",
+      "Gauss"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The tesla is the SI unit of magnetic flux density; the gauss is the smaller CGS unit.",
+    "difficulty": "hard",
+    "content_hash": "b3d3eab13d56761a6e37696d48b8f2e68e271880838571e097fc6a5b597269d3",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "Which metal has the highest melting point of all pure metals?",
+    "choices": [
+      "Platinum",
+      "Tungsten",
+      "Titanium",
+      "Osmium"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Tungsten melts at about 3,422 °C, which is why it was used for light-bulb filaments.",
+    "difficulty": "hard",
+    "content_hash": "e29fe5916808a1d091ab6c06b3caf5c2389a37a4a80cf2c9aa5caa6892a3c592",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "Which physicist discovered the neutron in 1932?",
+    "choices": [
+      "Ernest Rutherford",
+      "James Chadwick",
+      "Enrico Fermi",
+      "J.J. Thomson"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "James Chadwick identified the neutral particle in the nucleus and won the 1935 Nobel Prize in Physics.",
+    "difficulty": "hard",
+    "content_hash": "98d09ae6a442d7658e26c3a5a98e9ea17fdb9c8dd7739f657cf63bb03456a151",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "Which enzyme unwinds the DNA double helix during replication?",
+    "choices": [
+      "Ligase",
+      "Polymerase",
+      "Helicase",
+      "Primase"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Helicase breaks the hydrogen bonds between base pairs to separate the two strands.",
+    "difficulty": "hard",
+    "content_hash": "53835b14db39edc9a991726251a02b716f31824cab9523786104044f2e6a7ca3",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "Heisenberg's uncertainty principle says you cannot simultaneously know exact values of which pair?",
+    "choices": [
+      "Mass and energy",
+      "Position and momentum",
+      "Charge and spin",
+      "Temperature and entropy"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The more precisely a particle's position is known, the less precisely its momentum can be known.",
+    "difficulty": "hard",
+    "content_hash": "793e6e0be311e9b8cc5c270d4b97fbfe90b69eb3322cd0bb6ec2a03895c4afad",
+    "topic_pack_id": "science"
+  },
+  {
+    "question_text": "Santiago Ramón y Cajal, Spain's most celebrated scientist, won the 1906 Nobel Prize for pioneering research on which body system?",
+    "choices": [
+      "The nervous system",
+      "The digestive system",
+      "The immune system",
+      "The circulatory system"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Cajal's drawings of neurons established the 'neuron doctrine' — that the brain is made of separate nerve cells rather than a continuous network.",
+    "difficulty": "easy",
+    "content_hash": "6ac09c28909fe4d63026d8a12afff3381a4e694fea81799fb9c0e448046a8205",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Teide, Spain's highest mountain and an active volcano, rises on which Canary island?",
+    "choices": [
+      "Tenerife",
+      "Gran Canaria",
+      "Lanzarote",
+      "Fuerteventura"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Mount Teide on Tenerife reaches 3,715 m, making it the highest peak in all of Spain.",
+    "difficulty": "easy",
+    "content_hash": "edf63a8b9ac11180232612d5c593c68db757dd9c16a46f70f4d36d623b479a5e",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Iberian lynx, saved from near-extinction in southern Spain, belongs to which animal family?",
+    "choices": [
+      "Cats (Felidae)",
+      "Dogs (Canidae)",
+      "Weasels (Mustelidae)",
+      "Bears (Ursidae)"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Lynx pardinus is a wild cat that was once the world's most endangered feline; Spanish breeding programmes have brought it back from a few hundred animals.",
+    "difficulty": "easy",
+    "content_hash": "a9041b1437079059a2b70d5fdd4b76324a20d77a7ffd10c98702ac6cd29d32a2",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Pedro Duque, who flew aboard the Space Shuttle in 1998, was the first Spaniard to do what?",
+    "choices": [
+      "Travel into space",
+      "Walk on the Moon",
+      "Dive to the deepest ocean trench",
+      "Reach the South Pole"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Engineer Pedro Duque flew on STS-95 in 1998, becoming Spain's first astronaut, and later visited the International Space Station.",
+    "difficulty": "easy",
+    "content_hash": "aa35c05374b05257f9f21f4cc35992b4ee5408125f86007e10fc5eb590ef1e13",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Spain's volcanic Canary Islands lie in which body of water?",
+    "choices": [
+      "The Atlantic Ocean",
+      "The Mediterranean Sea",
+      "The Indian Ocean",
+      "The Bay of Bengal"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The Canaries are an Atlantic archipelago off northwest Africa, built up by volcanic activity over a hotspot.",
+    "difficulty": "easy",
+    "content_hash": "59a0dca0351397f9f747d5e6b7521b33d8a98cb5af3d73605b32a220e5a70188",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Strait of Gibraltar, at Spain's southern tip, connects the Mediterranean Sea with what?",
+    "choices": [
+      "The Atlantic Ocean",
+      "The Black Sea",
+      "The Red Sea",
+      "The Indian Ocean"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The narrow strait, about 14 km wide at its narrowest, is the Mediterranean's only natural link to the Atlantic Ocean.",
+    "difficulty": "easy",
+    "content_hash": "31b5ffd3970e48ccbce7098f2bc9431364a5b258b48f2d467597fff6257f3093",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Ice Age paintings on the ceiling of Spain's Altamira cave mainly depict which animal?",
+    "choices": [
+      "Bison",
+      "Mammoths",
+      "Whales",
+      "Bears"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Discovered in Cantabria in 1879, Altamira's polychrome ceiling is famous for its herd of bison painted roughly 15,000 years ago.",
+    "difficulty": "easy",
+    "content_hash": "a6998b055b24c6616aa07aa9ffb8f010123aa1ddf2582cb74b3f72591f098437",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The 1918 'Spanish flu' pandemic, which got its name from Spain's uncensored wartime press, was caused by what kind of pathogen?",
+    "choices": [
+      "A virus",
+      "A bacterium",
+      "A fungus",
+      "A protozoan parasite"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "It was an influenza A (H1N1) virus; neutral Spain reported the outbreak freely, so the disease was unfairly linked to the country.",
+    "difficulty": "easy",
+    "content_hash": "0ae5115f9385e68f89411b31f5f70c167567f1550ea3b5175f537453784af5f0",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Ebro, Spain's most voluminous river, forms a large delta as it flows into which sea?",
+    "choices": [
+      "The Mediterranean Sea",
+      "The Cantabrian Sea",
+      "The Adriatic Sea",
+      "The Baltic Sea"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The Ebro Delta in Tarragona is one of the western Mediterranean's biggest wetlands and an important bird habitat.",
+    "difficulty": "easy",
+    "content_hash": "21eb1b05b1d9b22181976707b6605de49d53edf40cadc37260f7fd18a6492425",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "A dramatic 2021 volcanic eruption at Cumbre Vieja covered farmland in lava on which Spanish island?",
+    "choices": [
+      "La Palma",
+      "Mallorca",
+      "Ibiza",
+      "Menorca"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The Cumbre Vieja eruption on La Palma lasted nearly three months in 2021, destroying thousands of buildings.",
+    "difficulty": "easy",
+    "content_hash": "ec1e5bff2392d4db7a108ea1caeecb1e309d9af074299a72205297938680a5bc",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "At Timanfaya National Park on Lanzarote, a restaurant famously grills food using what heat source?",
+    "choices": [
+      "Geothermal heat from the volcanic ground",
+      "Solar mirrors",
+      "Burning sea coal",
+      "Hot desert sand"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Ground temperatures a few metres down exceed 400 °C, letting El Diablo restaurant cook directly over a volcanic vent.",
+    "difficulty": "easy",
+    "content_hash": "2573aaf8e3d3c732a13fe4e826f4df56b15d6469b2b53461d6055ec34acfc25b",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Juan Sebastián Elcano's return to Spain in 1522 completed the first voyage around the world, giving practical proof of what?",
+    "choices": [
+      "That the Earth can be circled by sea",
+      "That the Sun orbits the Earth",
+      "That the oceans have tides",
+      "That magnetic north moves"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Elcano brought the ship Victoria home after Magellan's death, demonstrating the globe could be circumnavigated and helping to measure its size.",
+    "difficulty": "easy",
+    "content_hash": "823cd738985cf42318d89a1a334393588d3260724252d71ba8ba1f4f39b2c2ec",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Asturian-born Severo Ochoa shared the 1959 Nobel Prize in Medicine for work on the biological synthesis of which molecule?",
+    "choices": [
+      "RNA",
+      "Cholesterol",
+      "Insulin",
+      "Haemoglobin"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Ochoa discovered polynucleotide phosphorylase, an enzyme that let scientists make RNA in the test tube — key to cracking the genetic code.",
+    "difficulty": "medium",
+    "content_hash": "023facb12edfcffa12347a5877f6525d395844508f96198f25df73329fb02c55",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Aragonese physician Miguel Servet (Michael Servetus) is credited with first describing which process in Europe in 1553?",
+    "choices": [
+      "Pulmonary circulation of the blood",
+      "Blood clotting",
+      "Digestion in the stomach",
+      "Nerve conduction"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Servet described how blood passes from the right heart through the lungs, a century before it was widely accepted.",
+    "difficulty": "medium",
+    "content_hash": "1b2275f137893b0ce9c4161a87af1919f59323e753b761ebd0f157965a5b2b85",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Spanish engineer Juan de la Cierva invented which rotary-wing aircraft in the 1920s, a forerunner of the helicopter?",
+    "choices": [
+      "The autogyro",
+      "The jet engine",
+      "The seaplane",
+      "The hot-air balloon"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "De la Cierva's autogiro used a freely spinning rotor for lift, and his articulated rotor hub later proved essential to helicopters.",
+    "difficulty": "medium",
+    "content_hash": "a14cc7e78cdfd7cf2fccf3fcb42f1395b936f6d067a5104dd42acc9c5cbefc9c",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Catalan inventor Narcís Monturiol launched the Ictíneo in Barcelona in 1859. What was it?",
+    "choices": [
+      "A submarine",
+      "A steam locomotive",
+      "An early airship",
+      "A telegraph machine"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The Ictíneo was a pioneering submarine; Monturiol's second version even used a chemical reaction to supply oxygen and power underwater.",
+    "difficulty": "medium",
+    "content_hash": "9704484a45b0d0eedf098ecf41c10bdc3c204094795913c7f435dbc607f342c5",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Gran Telescopio Canarias, one of the world's largest optical telescopes, sits atop Roque de los Muchachos on which island?",
+    "choices": [
+      "La Palma",
+      "Tenerife",
+      "Mallorca",
+      "El Hierro"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Its 10.4-metre segmented mirror observes from 2,400 m up on La Palma, prized for clear, dark skies.",
+    "difficulty": "medium",
+    "content_hash": "fa4e767ee0fae682d6b459027940b36a57d13b867062d4756091a229154e33bd",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The blood-red, highly acidic Río Tinto in Huelva is studied by astrobiologists as an Earth analogue for which planet?",
+    "choices": [
+      "Mars",
+      "Venus",
+      "Neptune",
+      "Mercury"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Iron-oxidising microbes give the river its colour and pH near 2, conditions resembling ancient iron-rich, acidic waters on Mars.",
+    "difficulty": "medium",
+    "content_hash": "ff60e218d672f6ecdb9b0ff008decb361f044f18dd21a388807f32d96071d852",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Atapuerca sites, which yielded the fossil species Homo antecessor, are located in which Spanish province?",
+    "choices": [
+      "Burgos",
+      "Valencia",
+      "Girona",
+      "Cádiz"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The Sierra de Atapuerca caves near Burgos contain some of Europe's richest early-human fossil deposits, including the Sima de los Huesos.",
+    "difficulty": "medium",
+    "content_hash": "15aaea24a2635b3a23a07eb6ee491e1356b11f64577f1892c8e4a331437091ca",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Almadén in Ciudad Real hosted the world's largest historic mine of which element, extracted from cinnabar ore?",
+    "choices": [
+      "Mercury",
+      "Silver",
+      "Lead",
+      "Uranium"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Almadén produced roughly a third of all mercury ever used by humans before closing; its mines are a UNESCO World Heritage site.",
+    "difficulty": "medium",
+    "content_hash": "3e8311e9206ffeda419f5b4ad6e1b23f4cbe0f0393e93acd8b4372c44f9a331d",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Tabernas region of Almería is usually described as what, in a European context?",
+    "choices": [
+      "Continental Europe's only true desert",
+      "Europe's largest glacier field",
+      "Europe's deepest cave system",
+      "Europe's largest salt lake"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Sheltered by mountains from rain-bearing winds, Tabernas receives under 250 mm of rain a year and hosts a solar research platform.",
+    "difficulty": "medium",
+    "content_hash": "39299549eba0aac39de72df9a61a99b9974f40232548b79f34af9c572d459617",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Doñana National Park, one of Europe's most important wetlands, lies at the mouth of which river?",
+    "choices": [
+      "The Guadalquivir",
+      "The Tagus",
+      "The Duero",
+      "The Segura"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Doñana's marshes at the Guadalquivir estuary are a crucial stopover for migratory birds and a refuge for the Iberian lynx.",
+    "difficulty": "medium",
+    "content_hash": "028bb57d4330ad8c5f9241c96a0459252e92a896d7f26dcefe2a8ef0b0620843",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Mulhacén, the highest peak of mainland Spain at 3,479 m, belongs to which mountain range?",
+    "choices": [
+      "Sierra Nevada",
+      "The Pyrenees",
+      "Picos de Europa",
+      "Sierra de Guadarrama"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Mulhacén sits in Andalusia's Sierra Nevada, which also hosts an astronomical observatory and Europe's southernmost ski resort.",
+    "difficulty": "medium",
+    "content_hash": "4ca95ab16f464d640b8580505d52cde1e378e1959cd8f4a5e88a0fe11674fd1e",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Robledo de Chavela near Madrid hosts one of only three ground stations worldwide belonging to which NASA network?",
+    "choices": [
+      "The Deep Space Network",
+      "The Global Positioning System",
+      "The Landsat network",
+      "The Hubble control network"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The Madrid Deep Space Communications Complex works with Goldstone (USA) and Canberra (Australia) to keep contact with interplanetary probes.",
+    "difficulty": "medium",
+    "content_hash": "80c349a3848ff37e182f5722306eaf46aec9e6917cc4be4ab2fb65b74fb7a30f",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "In 1783, the Spanish brothers Juan José and Fausto Elhuyar first isolated which metal, working in the Basque town of Bergara?",
+    "choices": [
+      "Tungsten",
+      "Titanium",
+      "Nickel",
+      "Zinc"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "They obtained tungsten (wolfram) from wolframite ore — one of very few chemical elements first isolated in Spain.",
+    "difficulty": "hard",
+    "content_hash": "bb1cf4a9bb994e632d594e1c8ec9bde2810ae162c132e8a1ab2bd37828450bd9",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Spanish naval officer and scientist Antonio de Ulloa is credited with introducing which metal to European science in the 18th century?",
+    "choices": [
+      "Platinum",
+      "Aluminium",
+      "Chromium",
+      "Cobalt"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Ulloa described 'platina' found with gold in South American rivers during a geodesic expedition, bringing platinum to European attention.",
+    "difficulty": "hard",
+    "content_hash": "fc83b93c2bc9ba746eb8164df8285239e1ef6fcf4b2c562b774d360d370c98c9",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Microbiologist Francisco Mojica of the University of Alicante coined which now-famous acronym while studying salt-marsh microbes?",
+    "choices": [
+      "CRISPR",
+      "PCR",
+      "mRNA",
+      "ELISA"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Mojica named the repeated DNA sequences CRISPR and proposed they were a microbial immune system — the basis of today's gene-editing tools.",
+    "difficulty": "hard",
+    "content_hash": "4d719315f1bc30d2ab11378e91593587e3bc01b747da1c95afe7a04c63b4b7aa",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Pío del Río Hortega, a disciple of Ramón y Cajal, is credited with discovering which cells of the nervous system?",
+    "choices": [
+      "Microglia",
+      "Red blood cells",
+      "Pancreatic beta cells",
+      "Rod cells of the retina"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Río Hortega identified microglia (the brain's immune cells) and oligodendrocytes using his own silver-staining methods.",
+    "difficulty": "hard",
+    "content_hash": "30de84c67c99af09f16bd4090e5268aec6641597a66010a8a8e83c2a54608961",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "In 2003, Spanish scientists briefly cloned the bucardo, or Pyrenean ibex. Why was this a world first?",
+    "choices": [
+      "It was the first cloning of an extinct animal",
+      "It was the first clone made without eggs",
+      "It was the first cloned bird",
+      "It was the first clone to reproduce"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Cells frozen from the last bucardo produced a kid named Celia, the first extinct animal ever cloned, though it survived only minutes.",
+    "difficulty": "hard",
+    "content_hash": "257adebe25676ccb8ecc40581912da573cbc9c5f9b00df16d7ed3d34a745741e",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Margarita Salas patented an enzyme from the phi29 virus that is widely used in labs to do what?",
+    "choices": [
+      "Amplify tiny samples of DNA",
+      "Cut DNA at fixed sequences",
+      "Sequence proteins",
+      "Dissolve cell membranes"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Phi29 DNA polymerase copies minute amounts of DNA with high fidelity, making it invaluable in forensics, archaeology and genomics.",
+    "difficulty": "hard",
+    "content_hash": "25ad9a6a842f34b2103b76c4e3fe5ab55aff5f04bcc8ae374e26f6ca9d3615a5",
+    "topic_pack_id": "science",
+    "country": "ES",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which French scientist gave his name to the process of heating liquids like milk to kill harmful microbes?",
+    "choices": [
+      "Louis Pasteur",
+      "Claude Bernard",
+      "Antoine Lavoisier",
+      "Paul Broca"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Louis Pasteur developed gentle heating to destroy spoilage microbes in wine and milk, a technique now called pasteurization.",
+    "difficulty": "easy",
+    "content_hash": "0f5aff4c225d775680b4da9b12d30e0312e95f2562786f25da3bb76145c6ed62",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Marie Curie, who did her research in Paris, was the first person to win Nobel Prizes in two different sciences. Which two?",
+    "choices": [
+      "Physics and Chemistry",
+      "Physics and Medicine",
+      "Chemistry and Medicine",
+      "Chemistry and Literature"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "She shared the 1903 Nobel Prize in Physics for radioactivity and won the 1911 Nobel Prize in Chemistry for isolating radium and polonium.",
+    "difficulty": "easy",
+    "content_hash": "499d698b4347ae4a9b8a24229f14e2e427ea5ea3b790f6cc1fa9c4da505e1a80",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "In 1783 the French Montgolfier brothers launched the first manned flight using what invention?",
+    "choices": [
+      "A hot-air balloon",
+      "A glider",
+      "A steam-powered airship",
+      "A parachute"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Joseph-Michel and Jacques-Étienne Montgolfier's hot-air balloon carried the first human passengers aloft over Paris in 1783.",
+    "difficulty": "easy",
+    "content_hash": "7379ff5238f96e9db1e9b90d2f1261343328cb804fc89e03b1e2e4db5e60a606",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Mont Blanc, on France's border with Italy, is the highest peak of which mountain range?",
+    "choices": [
+      "The Alps",
+      "The Pyrenees",
+      "The Carpathians",
+      "The Apennines"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "At about 4,808 m, Mont Blanc is the highest summit in the Alps and in Western Europe.",
+    "difficulty": "easy",
+    "content_hash": "187d1bb981eb648f7738892db82c0aba0d28d816d6f5d24ed1396c6c928706b4",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "When French scientists defined the metre in the 1790s, it was set as a fraction of what?",
+    "choices": [
+      "The distance from the North Pole to the equator",
+      "The circumference of the Sun",
+      "The length of a pendulum on Mars",
+      "The width of the English Channel"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The metre was defined as one ten-millionth of the distance from the North Pole to the equator along the meridian through Paris.",
+    "difficulty": "easy",
+    "content_hash": "32e341d1f4a94876300af58957ad46d56b4a9ed03f2fd7e0332f41b9393bc454",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "In 1885 Louis Pasteur successfully used a vaccine on a boy bitten by a rabid dog, protecting him from which disease?",
+    "choices": [
+      "Rabies",
+      "Cholera",
+      "Tetanus",
+      "Smallpox"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Pasteur's rabies vaccine, first given to young Joseph Meister, was one of the earliest vaccines produced in a laboratory.",
+    "difficulty": "easy",
+    "content_hash": "9fa37577b00a710dd56295bd3b2ddeb80c8ed5fd4fd95d80a6cbd2bd1e609571",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "French naval officer Jacques Cousteau co-invented the Aqua-Lung, an early version of what equipment?",
+    "choices": [
+      "Scuba diving gear",
+      "A submarine periscope",
+      "Sonar",
+      "A deep-sea drilling rig"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Cousteau and engineer Émile Gagnan developed the demand-regulator Aqua-Lung in 1943, making modern scuba diving possible.",
+    "difficulty": "easy",
+    "content_hash": "7a89617207cf9181a0ea2f564b132972ca21e0a0440a5505e29a4816c8847edc",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Europe's main spaceport, the Guiana Space Centre at Kourou, is French territory on which continent?",
+    "choices": [
+      "South America",
+      "Africa",
+      "Asia",
+      "Antarctica"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "French Guiana sits on South America's northeast coast; its near-equatorial location gives rockets an extra boost from Earth's spin.",
+    "difficulty": "easy",
+    "content_hash": "0ef98280dc2e69fcaef3b14ff3d6d573961eb9e08d98f769574b5ffa00d7e66e",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "France's Lascaux cave in the Dordogne is world-famous for what?",
+    "choices": [
+      "Prehistoric paintings of animals",
+      "The oldest known dinosaur eggs",
+      "A meteorite impact crater",
+      "Natural radioactive springs"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Discovered in 1940, Lascaux contains roughly 17,000-year-old Palaeolithic paintings of horses, aurochs and deer.",
+    "difficulty": "easy",
+    "content_hash": "01e3b82ccfaff89f34cfb76c2c0548d2312da9365a9414ede4e7cfcff22d5ad7",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "France produces about 70% of its electricity from which source, the highest share of any large country?",
+    "choices": [
+      "Nuclear power",
+      "Coal",
+      "Offshore wind",
+      "Natural gas"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "France's fleet of pressurised-water reactors supplies roughly two-thirds to three-quarters of national electricity.",
+    "difficulty": "easy",
+    "content_hash": "063adbb1e0db838542c7256b61cf582310d8b2795d3ac19c36a6c98e4bdd96ad",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The SI unit of pressure is named after which French mathematician and physicist?",
+    "choices": [
+      "Blaise Pascal",
+      "René Descartes",
+      "Pierre-Simon Laplace",
+      "Henri Poincaré"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The pascal (Pa) honours Blaise Pascal, who studied fluid pressure and formulated Pascal's law.",
+    "difficulty": "easy",
+    "content_hash": "66ffd20bbf52013e9e44f83ef395a307501a42d8f753172554a1f6e263b0a7eb",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which French chemist named oxygen, helped disprove the phlogiston theory and stated the law of conservation of mass?",
+    "choices": [
+      "Antoine Lavoisier",
+      "Joseph Gay-Lussac",
+      "Claude Berthollet",
+      "Henri Moissan"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Lavoisier, often called the father of modern chemistry, was executed during the French Revolution in 1794.",
+    "difficulty": "medium",
+    "content_hash": "37fcdf4d3e5feee004d11e2c8c9871f52ea89d4ba94e65e17b0b587f5b553634",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "In 1896 French physicist Henri Becquerel discovered radioactivity while studying salts of which element?",
+    "choices": [
+      "Uranium",
+      "Radium",
+      "Thorium",
+      "Polonium"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Becquerel found that uranium salts fogged photographic plates in the dark, revealing spontaneous radiation; the SI unit of activity bears his name.",
+    "difficulty": "medium",
+    "content_hash": "7e86ea7ce04f19bc3df0ee451fd5c4d84cb83d1e3ab377e27579316dd9dab8ab",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The SI unit of electric current is named after which French physicist, a founder of electrodynamics?",
+    "choices": [
+      "André-Marie Ampère",
+      "Charles-Augustin de Coulomb",
+      "Léon Foucault",
+      "Augustin-Jean Fresnel"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The ampere honours André-Marie Ampère, who described the magnetic forces between current-carrying wires in the 1820s.",
+    "difficulty": "medium",
+    "content_hash": "667780ae2a6c1bf6a69c2b1481ce670100f6384663c2992340a34b70a6fcb5b5",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "French astronomer Urbain Le Verrier used mathematics to predict the existence and position of which planet?",
+    "choices": [
+      "Neptune",
+      "Pluto",
+      "Uranus",
+      "Mercury"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "From irregularities in Uranus's orbit, Le Verrier calculated where Neptune should be, and it was found there in 1846.",
+    "difficulty": "medium",
+    "content_hash": "64a7a84adf5fb6b27f550c816bc6974ae15c740ec11a602bd1ae0ccc46fd92b9",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "French astronomer Charles Messier compiled his famous catalogue of nebulae and star clusters mainly for what reason?",
+    "choices": [
+      "To avoid mistaking them for comets",
+      "To map the Milky Way's shape",
+      "To test a new reflecting telescope",
+      "To predict eclipses"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Messier was a comet hunter and listed fuzzy but fixed objects (M1, M31, etc.) so they would not fool him again.",
+    "difficulty": "medium",
+    "content_hash": "fa036a04adcd53cb944a2d9f6566dbdb6b0895c07f03b335de2866f13f6c0365",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Léon Foucault's famous 1851 pendulum experiment in Paris provided direct evidence of what?",
+    "choices": [
+      "The rotation of the Earth",
+      "The curvature of space",
+      "The existence of the ether",
+      "The constancy of gravity"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The pendulum's swing plane appeared to rotate slowly, which is explained by the Earth turning beneath it.",
+    "difficulty": "medium",
+    "content_hash": "8c0afc2a063f111b61ff1790f372d4bfda06c1cac35e8b0f76a317d0ef559d8d",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "French engineer Sadi Carnot is regarded as a founder of which branch of physics?",
+    "choices": [
+      "Thermodynamics",
+      "Optics",
+      "Seismology",
+      "Electromagnetism"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "His 1824 work on the ideal Carnot cycle set the maximum possible efficiency of heat engines.",
+    "difficulty": "medium",
+    "content_hash": "6845eecd4cdb672ec6d190380ce6d70d71b33c701a15dae393693f8f756c824e",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Gaspard-Gustave de Coriolis lent his name to an effect that explains what on Earth?",
+    "choices": [
+      "The curved paths of winds and ocean currents",
+      "The bending of light in the atmosphere",
+      "The tides caused by the Moon",
+      "The magnetic dip near the poles"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The Coriolis effect is the apparent deflection of moving air and water caused by Earth's rotation, shaping cyclones and currents.",
+    "difficulty": "medium",
+    "content_hash": "221769e67f9c23b84178ffa97df930fb11a8b8b7cfecf37be9c0daf5bb893b93",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "French physician Alexandre Yersin identified the bacterium behind which disease, now named Yersinia pestis in his honour?",
+    "choices": [
+      "Bubonic plague",
+      "Typhoid fever",
+      "Leprosy",
+      "Tuberculosis"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Yersin, trained at the Pasteur Institute, isolated the plague bacillus in Hong Kong in 1894.",
+    "difficulty": "medium",
+    "content_hash": "23b6d91a0fa7af8d07d39ec52082beef95a40d890dbd8d2a8b6fa8426857bcbc",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Broca's area, named after French physician Paul Broca, is a brain region mainly involved in what?",
+    "choices": [
+      "Producing speech",
+      "Balance and posture",
+      "Colour vision",
+      "Regulating hunger"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Broca linked damage in this left frontal lobe region to loss of fluent speech production, an early proof of brain localisation.",
+    "difficulty": "medium",
+    "content_hash": "538298c3f65727dc0c06e368e01e0da622283419ab3774c65957e34de758475a",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "French physicist Louis de Broglie won a Nobel Prize for proposing what revolutionary idea?",
+    "choices": [
+      "Particles such as electrons behave like waves",
+      "Light travels at a constant speed",
+      "Atoms contain a dense nucleus",
+      "Energy comes in discrete quanta"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "De Broglie's 1924 thesis assigned a wavelength to matter, a cornerstone of quantum mechanics confirmed by electron diffraction.",
+    "difficulty": "medium",
+    "content_hash": "04bf10f8e8e0b4048a993de25687a844235508610bbb8f415e890ae79bf98b61",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Chaîne des Puys in France's Auvergne region, a UNESCO World Heritage site, is a chain of what?",
+    "choices": [
+      "Dormant volcanoes",
+      "Limestone caves",
+      "Glacial lakes",
+      "Sand dunes"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "About 80 dormant volcanic cones, domes and craters, including the Puy de Dôme, line this rift-related volcanic chain.",
+    "difficulty": "medium",
+    "content_hash": "49eef8ce31dc77a16a7fa88f996a1d4220d8ba3b353384a0e2e790d33ae12501",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "French microbiologist Emmanuelle Charpentier shared the 2020 Nobel Prize in Chemistry for developing what?",
+    "choices": [
+      "CRISPR-Cas9 genome editing",
+      "The polymerase chain reaction",
+      "Monoclonal antibodies",
+      "mRNA vaccines"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Charpentier and Jennifer Doudna turned the bacterial CRISPR-Cas9 system into precise 'genetic scissors'.",
+    "difficulty": "medium",
+    "content_hash": "4ac855b6ca09733f04d64fa9f26d13774786d77a259023e75465d8bce308f0d4",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Charles's law, relating a gas's volume to its temperature at constant pressure, is named after a French scientist who also did what?",
+    "choices": [
+      "Flew the first hydrogen balloon",
+      "Built the first electric motor",
+      "Discovered infrared radiation",
+      "Invented the barometer"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Jacques Charles launched a manned hydrogen balloon in 1783, months after the Montgolfiers' hot-air flight.",
+    "difficulty": "medium",
+    "content_hash": "f81a8c3a6b3e76b57e052aa899e9a096ca82687099d95dde03998c8bcb9de9ea",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Marguerite Perey, working at the Curie Institute in Paris, discovered which element in 1939 and named it after her country?",
+    "choices": [
+      "Francium",
+      "Gallium",
+      "Lutetium",
+      "Polonium"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Francium, element 87, was the last element to be first discovered in nature rather than synthesised.",
+    "difficulty": "hard",
+    "content_hash": "6bd13fd3b31d4a8cc9f5d0d217ee7275e5e4f01902a8783ce1606828eb5668f3",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "French chemist Henri Moissan won the 1906 Nobel Prize largely for isolating which highly reactive element?",
+    "choices": [
+      "Fluorine",
+      "Chlorine",
+      "Silicon",
+      "Boron"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Moissan isolated elemental fluorine in 1886 by electrolysis at low temperature, after many chemists had failed or been poisoned trying.",
+    "difficulty": "hard",
+    "content_hash": "c6a7452cf223b8dc65e335000c4959643c9c7ade1cb9e9ef979bb989ef66a99e",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Victor Grignard's Nobel-winning reagents, vital in organic synthesis, are compounds of carbon with which metal?",
+    "choices": [
+      "Magnesium",
+      "Lithium",
+      "Zinc",
+      "Aluminium"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Grignard reagents are organomagnesium halides (RMgX) that readily form new carbon-carbon bonds.",
+    "difficulty": "hard",
+    "content_hash": "db042d47423d8b9df9f7f6a8085e1ca3255bc8f853ebfcacab891da8bd47cdce",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Irène Joliot-Curie and Frédéric Joliot won the 1935 Nobel Prize in Chemistry for the discovery of what?",
+    "choices": [
+      "Artificial radioactivity",
+      "Nuclear fission",
+      "The neutron",
+      "Heavy water"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "By bombarding aluminium with alpha particles they created radioactive phosphorus, showing that radioisotopes could be made artificially.",
+    "difficulty": "hard",
+    "content_hash": "9844d77d23dff274d11257226252de733ee30c1c626d67c3cc3609cf4b4e0522",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The huge ITER project being built at Cadarache in southern France aims to demonstrate what technology?",
+    "choices": [
+      "Nuclear fusion power",
+      "Carbon capture and storage",
+      "A particle collider larger than the LHC",
+      "Deep geothermal drilling"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "ITER is an international tokamak designed to show that magnetically confined fusion can produce far more power than it consumes.",
+    "difficulty": "hard",
+    "content_hash": "140edb7c9820582fc6743ee7b7fa861b0dd562426adb8ca41a02a95c75afc56e",
+    "topic_pack_id": "science",
+    "country": "FR",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Italian scientist used a telescope in 1610 to discover the four largest moons of Jupiter?",
+    "choices": [
+      "Galileo Galilei",
+      "Giovanni Cassini",
+      "Amedeo Avogadro",
+      "Guglielmo Marconi"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Galileo spotted Io, Europa, Ganymede and Callisto in 1610; they are still known as the Galilean moons.",
+    "difficulty": "easy",
+    "content_hash": "47d15088b58a11323249e1a12d5061d201efa9b29a9d3fc8c64f941645eca729",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Italian volcano buried the Roman city of Pompeii in AD 79?",
+    "choices": [
+      "Mount Etna",
+      "Mount Vesuvius",
+      "Stromboli",
+      "Vulcano"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Vesuvius, near Naples, erupted in AD 79 and buried Pompeii and Herculaneum under ash and pumice.",
+    "difficulty": "easy",
+    "content_hash": "14c653f0a9f609cb1b8cb720330b48569ac20d5c21f096c8e966f53bdb6abf58",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Alessandro Volta built the first true battery. Which electrical unit is named after him?",
+    "choices": [
+      "The ampere",
+      "The ohm",
+      "The volt",
+      "The watt"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Volta's 1800 \"voltaic pile\" was the first electric battery, and the SI unit of electric potential, the volt, honours him.",
+    "difficulty": "easy",
+    "content_hash": "ccaeb0ad947cada53603b4b123fea93ee06e148c776ba9035a9f16175ef72de4",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Mount Etna, Europe's most active volcano, rises on which Italian island?",
+    "choices": [
+      "Sardinia",
+      "Sicily",
+      "Elba",
+      "Capri"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Etna dominates eastern Sicily and is a UNESCO World Heritage site because of its near-constant activity.",
+    "difficulty": "easy",
+    "content_hash": "10b5e986b00d5aa718719f7b576633a7021baa8d19f8643bde742591e347dcb7",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Italian inventor Guglielmo Marconi won a Nobel Prize for pioneering what technology?",
+    "choices": [
+      "Wireless radio telegraphy",
+      "The telephone exchange",
+      "Television broadcasting",
+      "The electric motor"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Marconi developed long-distance wireless telegraphy and shared the 1909 Nobel Prize in Physics.",
+    "difficulty": "easy",
+    "content_hash": "0ceca76415ebb43eaea86b57b5dd4668bfe64e55d56273b444421b6c5683b13a",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which Italian polymath drew the Vitruvian Man and filled notebooks with anatomical studies and flying-machine designs?",
+    "choices": [
+      "Michelangelo",
+      "Leonardo da Vinci",
+      "Raphael",
+      "Galileo Galilei"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Leonardo da Vinci combined art and science, dissecting bodies and sketching machines centuries ahead of their time.",
+    "difficulty": "easy",
+    "content_hash": "9973509706827df2ea9e68c303587658af1cdfeb9c317dfe83c673240df75df6",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Italian physicist Enrico Fermi led the team that first achieved a self-sustaining chain reaction of what kind?",
+    "choices": [
+      "Chemical combustion",
+      "Nuclear fusion",
+      "Nuclear fission",
+      "Photosynthesis"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "In 1942 Fermi's Chicago Pile-1 produced the first controlled, self-sustaining nuclear fission chain reaction.",
+    "difficulty": "easy",
+    "content_hash": "0db6410df58fdb51a372cd513d4241382709f7c5b3a711b13bccd341e853caae",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "What is the longest river in Italy, flowing across the northern plain into the Adriatic?",
+    "choices": [
+      "The Tiber",
+      "The Arno",
+      "The Adige",
+      "The Po"
+    ],
+    "correct_choice_index": 3,
+    "explanation": "The Po runs about 650 km from the Alps to the Adriatic and drains Italy's most fertile agricultural plain.",
+    "difficulty": "easy",
+    "content_hash": "eba9750295f9630f226f061a98b9af44c443701446ae0ae484ac3c1e7b44404c",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Fibonacci sequence is named after a medieval mathematician from which Italian city?",
+    "choices": [
+      "Pisa",
+      "Venice",
+      "Palermo",
+      "Padua"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Leonardo of Pisa, known as Fibonacci, introduced the sequence in his 1202 book Liber Abaci.",
+    "difficulty": "easy",
+    "content_hash": "a1da6ce8a69846cc574582911883a91d4f5f073073cd23d4235a0720e53b9b18",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Galileo's telescopic discoveries, such as the phases of Venus, supported which model of the cosmos?",
+    "choices": [
+      "The Ptolemaic Earth-centred model",
+      "The Copernican Sun-centred model",
+      "The steady-state universe",
+      "The flat-Earth model"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Venus showing a full set of phases made sense only if it orbited the Sun, supporting Copernican heliocentrism.",
+    "difficulty": "easy",
+    "content_hash": "559b9e2f41d12a2ab5b97004f3cb3c2c45020591a1bb875ad33068df74423b59",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Italy's Dolomites, a UNESCO World Heritage site famous for pale limestone peaks, form part of which mountain system?",
+    "choices": [
+      "The Apennines",
+      "The Pyrenees",
+      "The Alps",
+      "The Carpathians"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "The Dolomites are a north-eastern section of the Alps, built from ancient coral-reef limestone and dolomite rock.",
+    "difficulty": "easy",
+    "content_hash": "3d2eb07044446995dc0cfd25bd66ed7202e2a8a8111dee71f38d1cd9890aaae9",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Evangelista Torricelli, a student of Galileo, invented which instrument in 1643?",
+    "choices": [
+      "The microscope",
+      "The barometer",
+      "The thermometer",
+      "The pendulum clock"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Torricelli's mercury tube measured atmospheric pressure, creating the first barometer and the first sustained vacuum.",
+    "difficulty": "easy",
+    "content_hash": "3cc8d876f698e02578c340db66b8afd6a3745c83afb14c01fc2ccd01adcae511",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Avogadro's law, named after the Turin-born chemist, states that equal volumes of gases at the same temperature and pressure contain equal numbers of what?",
+    "choices": [
+      "Atoms of oxygen",
+      "Molecules",
+      "Electrons",
+      "Ions"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Amedeo Avogadro proposed in 1811 that equal gas volumes hold equal molecule counts, a cornerstone of the mole concept.",
+    "difficulty": "medium",
+    "content_hash": "0212f7100cf6511744d39687640c19d40080fc2fbc4b246dba226f345462ae2a",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Luigi Galvani's experiments making frog legs twitch with electricity gave science which term for electrical stimulation of tissue?",
+    "choices": [
+      "Galvanism",
+      "Voltaism",
+      "Electrolysis",
+      "Iontophoresis"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Galvani's 1780s work on \"animal electricity\" led to the term galvanism and inspired Volta's battery.",
+    "difficulty": "medium",
+    "content_hash": "a29f6b5fa8d6f36e94e25c3532d9b43e86b1a6404b3ac9601a718dfe5a372add",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Camillo Golgi, winner of the 1906 Nobel Prize, gave his name to which cell structure?",
+    "choices": [
+      "The mitochondrion",
+      "The Golgi apparatus",
+      "The ribosome",
+      "The lysosome"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Golgi's silver staining revealed the stacked membrane organelle that sorts and packages proteins, now called the Golgi apparatus.",
+    "difficulty": "medium",
+    "content_hash": "c8976cc3879e475297a7cd4ef6a1e6af42cf0d2a03b142faf40b1bdd25535766",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Rita Levi-Montalcini shared the 1986 Nobel Prize in Medicine for discovering which substance?",
+    "choices": [
+      "Insulin",
+      "Nerve growth factor",
+      "Penicillin",
+      "Dopamine"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Working partly in a makeshift home laboratory during the war, Levi-Montalcini identified nerve growth factor (NGF).",
+    "difficulty": "medium",
+    "content_hash": "8aeaff00d0533d9200545556ba9f336be86e1e54ae4b6c5bc9a6af3768df121d",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "In 1801 Giuseppe Piazzi, observing from Palermo, discovered what?",
+    "choices": [
+      "The planet Neptune",
+      "Ceres, the first known asteroid",
+      "Halley's Comet",
+      "The Crab Nebula"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Piazzi spotted Ceres, the largest object in the asteroid belt and now classified as a dwarf planet.",
+    "difficulty": "medium",
+    "content_hash": "8b8785433342b7db12e37a7eaeb84dfea02145eb0cce48df85bbfb60e4b45c6a",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The largest gap in Saturn's ring system is named after which Italian-born astronomer?",
+    "choices": [
+      "Giovanni Cassini",
+      "Angelo Secchi",
+      "Giovanni Schiaparelli",
+      "Galileo Galilei"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Gian Domenico Cassini found the gap in 1675, along with four Saturnian moons; the Cassini Division bears his name.",
+    "difficulty": "medium",
+    "content_hash": "cc6dc1db4032d14065c24b6fad89b4acda9beae18f5bf9c0d1d244d812bffea4",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Astronomer Giovanni Schiaparelli's use of the Italian word \"canali\" caused a long-running myth about which planet?",
+    "choices": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "\"Canali\" means channels, but its translation as \"canals\" fuelled decades of speculation about Martian engineers.",
+    "difficulty": "medium",
+    "content_hash": "f3766941bff91bd938da297274bb99bcf7b6208d8325822217f1675e4e2c72cf",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Gran Sasso National Laboratory, buried under an Italian mountain, is best known for studying what?",
+    "choices": [
+      "Neutrinos and other rare particle events",
+      "Deep-sea currents",
+      "Volcanic magma chambers",
+      "Antarctic ice cores"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "About 1,400 m of rock shields Gran Sasso from cosmic rays, making it ideal for neutrino and dark-matter experiments.",
+    "difficulty": "medium",
+    "content_hash": "4e38b6795948930f945c291328ebc5bc0f71968747c44304d9b9cc8918f2f560",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Giulio Natta won Italy's only Nobel Prize in Chemistry (1963) for work on which class of materials?",
+    "choices": [
+      "Polymers such as polypropylene",
+      "Semiconductors",
+      "Antibiotics",
+      "Rare-earth alloys"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Natta shared the prize with Karl Ziegler for catalysts that produce stereoregular polymers, including polypropylene.",
+    "difficulty": "medium",
+    "content_hash": "5edbdfd141351120bae41d7c7331930276b2af8439c7a7a884b3c6f7254b0a60",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Lazzaro Spallanzani's 18th-century experiments with blinded and deafened bats first suggested that bats navigate using what?",
+    "choices": [
+      "Magnetic fields",
+      "Sound rather than sight",
+      "Smell",
+      "Air pressure changes"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Spallanzani found blinded bats flew normally but deafened ones could not, foreshadowing the discovery of echolocation.",
+    "difficulty": "medium",
+    "content_hash": "83a5e7b14ecbe14d0f8ae24971ea06be8b1a85b271dd54a1cff0480711eb09dc",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Francesco Redi's 1668 experiment covering meat in gauze-sealed flasks argued against which idea?",
+    "choices": [
+      "Spontaneous generation",
+      "Natural selection",
+      "The germ theory of disease",
+      "Blood circulation"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Maggots appeared only where flies could reach the meat, undermining the belief that life arose spontaneously from decay.",
+    "difficulty": "medium",
+    "content_hash": "a7b9c6081507832a9446ffe50c6e848154a12c1ed1ac836c52955b7a23602785",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Marcello Malpighi, a founder of microscopic anatomy, has his name attached to tiny filtering structures in which organ?",
+    "choices": [
+      "The liver",
+      "The lung",
+      "The kidney",
+      "The pancreas"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "The kidney's Malpighian corpuscles (renal glomerulus plus capsule) honour Malpighi's pioneering microscope studies.",
+    "difficulty": "medium",
+    "content_hash": "e3472eeb82813f8488b7e536648f10703fb10599c1882f11ca2af230e1e15a95",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Emilio Segrè, working in Palermo in 1937, co-discovered which element - the first to be produced artificially?",
+    "choices": [
+      "Technetium",
+      "Francium",
+      "Astatine",
+      "Promethium"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Segrè and Carlo Perrier identified technetium in a molybdenum sample irradiated in a cyclotron.",
+    "difficulty": "hard",
+    "content_hash": "e5f89b92dcae93e01489f1efaa033ed4ccb80caeecb7b16902cfee87baefc6d2",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Carlo Rubbia shared the 1984 Nobel Prize in Physics for the discovery of which particles at CERN?",
+    "choices": [
+      "The top quark",
+      "The Higgs boson",
+      "The W and Z bosons",
+      "The muon neutrino"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Rubbia and Simon van der Meer's proton-antiproton collider work revealed the W and Z bosons that carry the weak force.",
+    "difficulty": "hard",
+    "content_hash": "9e2d1e1e46f319ce6bacf9a0782f67ffeab985c5f9642f642e343f8e1b978838",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "In 1847 Turin chemist Ascanio Sobrero first synthesised which dangerously unstable explosive?",
+    "choices": [
+      "TNT",
+      "Nitroglycerin",
+      "Gunpowder",
+      "Picric acid"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Sobrero made nitroglycerin and was so alarmed by it that he warned against its use; Alfred Nobel later tamed it as dynamite.",
+    "difficulty": "hard",
+    "content_hash": "58d691c2a5897cf2d206c66c3b9cc3609a6460052f8ece8c292b2e70b6dfcd00",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Cannizzaro reaction, named after the Sicilian chemist, converts an aldehyde lacking alpha-hydrogens into what pair of products?",
+    "choices": [
+      "An alcohol and a carboxylic acid",
+      "Two ketones",
+      "An alkene and water",
+      "An amine and carbon dioxide"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Stanislao Cannizzaro's base-induced disproportionation gives one molecule reduced to an alcohol and another oxidised to an acid.",
+    "difficulty": "hard",
+    "content_hash": "44395765f249308b2e361294d1a17d9da7110e6f9600e2fee9fca004ca7d99bc",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "A \"Majorana fermion\", named after the Sicilian physicist Ettore Majorana, is a particle with what unusual property?",
+    "choices": [
+      "It has no mass",
+      "It is its own antiparticle",
+      "It travels faster than light",
+      "It carries fractional charge"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Majorana showed in 1937 that a neutral fermion could be identical to its own antiparticle; neutrinos may be of this type.",
+    "difficulty": "hard",
+    "content_hash": "569471f9685ec91e824d7f1943e944c05588770f171d8c6dd257d1becf6ceaba",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Italian-American Riccardo Giacconi won the 2002 Nobel Prize in Physics as a founder of which field?",
+    "choices": [
+      "Radio astronomy",
+      "X-ray astronomy",
+      "Gravitational-wave detection",
+      "Infrared spectroscopy"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Giacconi built the first X-ray telescopes and satellites such as Uhuru and Einstein, opening the X-ray sky to astronomers.",
+    "difficulty": "hard",
+    "content_hash": "f5819671df65e91570b712e8728f45eaee9668417986e0300ed2aa1ff2d2c844",
+    "topic_pack_id": "science",
+    "country": "IT",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Mount Fuji, Japan's highest peak at 3,776 m, is what kind of mountain?",
+    "choices": [
+      "An active volcano",
+      "A folded limestone ridge",
+      "An eroded granite dome",
+      "A glacial horn"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Mount Fuji is an active stratovolcano built from layers of lava and ash; it last erupted in 1707–08.",
+    "difficulty": "easy",
+    "content_hash": "47e97bc972d08a16b2d443e05b9c59f22316b8a102760f9518372a1e7ec96130",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The scientific term 'tsunami' comes from Japanese words literally meaning what?",
+    "choices": [
+      "Harbour wave",
+      "Angry sea",
+      "Wall of water",
+      "Earth wave"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "'Tsu' means harbour and 'nami' means wave — the word entered global science because such waves devastate Japanese ports.",
+    "difficulty": "easy",
+    "content_hash": "555168fe0dde024917593f975ca04403d8167a9a9d5e15637b4c426548b30d63",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Japan's frequent earthquakes and volcanoes are due to its position along which tectonic feature?",
+    "choices": [
+      "The Pacific Ring of Fire",
+      "The Mid-Atlantic Ridge",
+      "The East African Rift",
+      "The Great Dividing Range"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Japan sits on the Ring of Fire, where subducting oceanic plates generate most of the world's earthquakes and volcanoes.",
+    "difficulty": "easy",
+    "content_hash": "2df7e6c5d79b2b132b5396281d647717bded816d327a62f2bc8c1e4e52801432",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which is the largest of Japan's four main islands?",
+    "choices": [
+      "Honshu",
+      "Hokkaido",
+      "Kyushu",
+      "Shikoku"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Honshu covers about 228,000 km² and contains Tokyo, Mount Fuji and most of Japan's population.",
+    "difficulty": "easy",
+    "content_hash": "9ef82c41889ab1b803b966d905bef1284f7fff2ca18f498c128dee27f5e1c2f4",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Shinya Yamanaka won the 2012 Nobel Prize in Medicine for showing that mature cells can be reprogrammed into what?",
+    "choices": [
+      "Pluripotent stem cells",
+      "Cancer cells",
+      "Red blood cells",
+      "Bacterial spores"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Yamanaka created induced pluripotent stem (iPS) cells by adding just four genes to ordinary adult cells.",
+    "difficulty": "easy",
+    "content_hash": "2489cd03751c5903d2816e305db31e75fc06d838d8dfa84078b02b2f762b6710",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The 2014 Nobel Prize in Physics went to three Japanese-born researchers for inventing what?",
+    "choices": [
+      "Efficient blue light-emitting diodes",
+      "The liquid crystal display",
+      "The digital camera sensor",
+      "The optical fibre"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Isamu Akasaki, Hiroshi Amano and Shuji Nakamura made blue LEDs, which enabled bright, energy-saving white LED lighting.",
+    "difficulty": "easy",
+    "content_hash": "b82dc1f5f9cd0bd16dff59e11285ed5ab40a60dd36b5bae734ed4b693bd217b2",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Akira Yoshino shared the 2019 Nobel Prize in Chemistry for developing which everyday technology?",
+    "choices": [
+      "The lithium-ion battery",
+      "The microwave oven",
+      "The solar cell",
+      "The transistor radio"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Yoshino built the first commercially viable lithium-ion battery in 1985, now powering phones and electric cars.",
+    "difficulty": "easy",
+    "content_hash": "b5fec0fb3a6877af5ed3658a177c577bd6a4146a272bf72b18be043d0db33954",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Japan's national space agency, which launches rockets from Tanegashima, is known by which acronym?",
+    "choices": [
+      "JAXA",
+      "JASA",
+      "NASDA-X",
+      "JSRO"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The Japan Aerospace Exploration Agency (JAXA) was formed in 2003 by merging three earlier space organisations.",
+    "difficulty": "easy",
+    "content_hash": "984f4c2b69bad470f0b878f79f58e05a1e2be671a37784be8ac58695d9c53d74",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The 2011 Tōhoku earthquake and tsunami caused meltdowns at which nuclear power plant?",
+    "choices": [
+      "Fukushima Daiichi",
+      "Chernobyl",
+      "Three Mile Island",
+      "Sellafield"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The tsunami knocked out cooling systems at Fukushima Daiichi, causing the worst nuclear accident since Chernobyl.",
+    "difficulty": "easy",
+    "content_hash": "be3291918f8108908bbe39fe527b3c9d99254574477cb52597083b5fe40d63e4",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Japanese macaques, the world's northernmost non-human primates, are famous for doing what in winter?",
+    "choices": [
+      "Bathing in volcanic hot springs",
+      "Hibernating in caves",
+      "Building snow shelters",
+      "Migrating to Korea"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Nicknamed snow monkeys, they soak in geothermal onsen pools in places like Jigokudani to keep warm.",
+    "difficulty": "easy",
+    "content_hash": "607bd9d9a66d4e52ffb146c0f1c0422f1a64b058298546ed9d2d4175065194b9",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Element 113, first synthesized by a team at Japan's RIKEN institute, was named in 2016 after the country. What is it called?",
+    "choices": [
+      "Nihonium",
+      "Japonium",
+      "Tokyonium",
+      "Rikenium"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Nihonium (Nh) takes its name from 'Nihon', a Japanese name for Japan — the first element named in Asia.",
+    "difficulty": "easy",
+    "content_hash": "4fcf50cb7dadca3f523959b15e5b4ceec60d6c485426362f3343da5849eceea8",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Lake Biwa, near Kyoto, is Japan's largest what?",
+    "choices": [
+      "Freshwater lake",
+      "Salt flat",
+      "Crater lake",
+      "Reservoir behind a dam"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Lake Biwa covers about 670 km² and is also one of the world's oldest lakes, at roughly 4 million years.",
+    "difficulty": "easy",
+    "content_hash": "30629937e4b0ab8304b562c2fe3f31ceb838cefbaa6732efe3b00549c35ab58e",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Hideki Yukawa became Japan's first Nobel laureate in 1949 for predicting the existence of which particles?",
+    "choices": [
+      "Mesons",
+      "Neutrinos",
+      "Positrons",
+      "Gluons"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Yukawa proposed mesons in 1935 as carriers of the strong force binding protons and neutrons; the pion was found in 1947.",
+    "difficulty": "medium",
+    "content_hash": "1c4320150dfe370c47bced84e327b7e0e4b0a63289bd84479f7bfd65f79a285e",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Super-Kamiokande detector, a huge water tank deep inside a Japanese mine, is built to study which particles?",
+    "choices": [
+      "Neutrinos",
+      "Muons from lightning",
+      "Free quarks",
+      "Antiprotons"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Its 50,000 tonnes of ultrapure water catch faint flashes of Cherenkov light from rare neutrino interactions.",
+    "difficulty": "medium",
+    "content_hash": "bc2c9b4c0b9f37c665eb0638433937fd870783201a7dac31563787ef7c8a8dda",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Japan's Hayabusa2 spacecraft returned samples to Earth in 2020 from which asteroid?",
+    "choices": [
+      "Ryugu",
+      "Vesta",
+      "Bennu",
+      "Eros"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Hayabusa2 collected surface and subsurface material from the carbon-rich asteroid Ryugu and dropped it in the Australian desert.",
+    "difficulty": "medium",
+    "content_hash": "5b1713234714d883afac555c8f58f34e5405530f30e25163f88971be047d1bb8",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Osamu Shimomura shared a 2008 Nobel Prize for discovering green fluorescent protein in which animal?",
+    "choices": [
+      "A jellyfish",
+      "A firefly",
+      "A deep-sea squid",
+      "A coral polyp"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Shimomura isolated GFP from the jellyfish Aequorea victoria; it is now a standard glowing marker in biology.",
+    "difficulty": "medium",
+    "content_hash": "790abd12e76e6520359ce885e2b6842d9513d606b4a56868ee28854ffb0218aa",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Yoshinori Ohsumi won the 2016 Nobel Prize in Medicine for revealing the mechanisms of autophagy, which is what?",
+    "choices": [
+      "A cell degrading and recycling its own components",
+      "Programmed cell suicide",
+      "DNA copying errors",
+      "Cell-to-cell electrical signalling"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Autophagy ('self-eating') lets cells break down damaged parts for reuse; Ohsumi mapped the process using yeast.",
+    "difficulty": "medium",
+    "content_hash": "dd0c5e31cd59996da3e3e33859855d20d5f0bf3752860bc562130502a7ef454c",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Bacteriologist Shibasaburō Kitasato won fame in 1889 for first growing in pure culture the microbe causing which disease?",
+    "choices": [
+      "Tetanus",
+      "Tuberculosis",
+      "Malaria",
+      "Polio"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Kitasato cultured the tetanus bacillus and, with Emil von Behring, developed antitoxin serum therapy.",
+    "difficulty": "medium",
+    "content_hash": "222823a04ec7c5477aad9aedf8ac64ca79d5f934aed4d028ad65573231f15c8d",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Minamata disease, identified in Japan in the 1950s, was caused by industrial pollution with which element?",
+    "choices": [
+      "Mercury",
+      "Lead",
+      "Cadmium",
+      "Arsenic"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Methylmercury dumped into Minamata Bay accumulated in fish, causing severe neurological damage in people who ate them.",
+    "difficulty": "medium",
+    "content_hash": "e029c9b1cd8c9917df08c88c2afc4279df3cdcec570c45273aa28f54441c5c5b",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Japan's Subaru Telescope, an 8.2-metre optical instrument, is located on which mountain?",
+    "choices": [
+      "Mauna Kea, Hawaii",
+      "Mount Fuji, Japan",
+      "Cerro Paranal, Chile",
+      "Mount Teide, Tenerife"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Operated by Japan's National Astronomical Observatory, Subaru sits at 4,200 m on Mauna Kea and is named after the Pleiades.",
+    "difficulty": "medium",
+    "content_hash": "d8a480d1c3b74aa7976018e5f68f93f839e266a8503d97a07052c4b329dd6499",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Chemist Kikunae Ikeda identified the 'umami' taste in 1908 and traced it to which substance in kombu seaweed broth?",
+    "choices": [
+      "Glutamate",
+      "Fructose",
+      "Citric acid",
+      "Casein"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Ikeda isolated glutamate as the source of savoury umami, later marketed as monosodium glutamate (MSG).",
+    "difficulty": "medium",
+    "content_hash": "ecb8acf2454ba404d81943b2a6494de8dab3a7c4738c009fa7a3c0f115ff719b",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "What was the approximate magnitude of the 2011 Tōhoku earthquake, the strongest ever recorded in Japan?",
+    "choices": [
+      "9.0",
+      "7.2",
+      "8.0",
+      "10.4"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The megathrust quake registered about magnitude 9.0–9.1 and shifted Japan's coastline several metres eastward.",
+    "difficulty": "medium",
+    "content_hash": "8ca60990a514097e3eb3dc6cfbf2428521fd40425537f3ea51b47df2b0106cb0",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Syukuro Manabe shared the 2021 Nobel Prize in Physics for pioneering work on what?",
+    "choices": [
+      "Computer models of Earth's climate",
+      "Superconducting magnets",
+      "Quantum computing",
+      "Plate tectonics theory"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "In the 1960s Manabe built early physical climate models showing how rising CO₂ warms the atmosphere.",
+    "difficulty": "medium",
+    "content_hash": "38f1c735d6d246c33bf2bbefeaa22ae47e26125735a2405a5cf60e7f45b162fb",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Satoshi Ōmura shared the 2015 Nobel Prize in Medicine for discovering a soil-microbe compound that led to a therapy against what?",
+    "choices": [
+      "Parasitic worm infections",
+      "Tuberculosis",
+      "Influenza",
+      "Type 1 diabetes"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Ōmura's avermectin, refined into ivermectin, transformed treatment of river blindness and lymphatic filariasis.",
+    "difficulty": "medium",
+    "content_hash": "a275eb8251f98a5a9dec114a9703cc98f7b3712714487d7993a9d7a5df48c043",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "In 1904 Hantaro Nagaoka proposed an early atomic model often described as which shape?",
+    "choices": [
+      "A Saturn-like ring of electrons around a massive centre",
+      "A cube with electrons at the corners",
+      "A cloud of electrons with no nucleus",
+      "A spiral of nested shells"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Nagaoka's 'Saturnian' atom put electrons in a ring around a large positive core, anticipating Rutherford's nuclear atom.",
+    "difficulty": "hard",
+    "content_hash": "9d261bee1b13c91e21c5cd71b49c4c44d9576a9559fd9725b138ddd76e8714c4",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Makoto Kobayashi and Toshihide Maskawa shared the 2008 Nobel Prize for work implying nature has at least how many quark generations?",
+    "choices": [
+      "Three",
+      "Two",
+      "Four",
+      "Six"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Their 1973 theory of CP violation required a third generation of quarks, later confirmed by the discovery of bottom and top.",
+    "difficulty": "hard",
+    "content_hash": "0d8e784f783b9169103a5302b69cf07cc144692c8a35f454b0223b52c97840d2",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Koichi Tanaka's 2002 Nobel Prize in Chemistry recognised a 'soft desorption' method for analysing proteins using which technique?",
+    "choices": [
+      "Mass spectrometry",
+      "X-ray crystallography",
+      "Gas chromatography",
+      "Electron microscopy"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Tanaka, an engineer at Shimadzu, showed how a laser can ionise large biomolecules intact for mass-spectrometric analysis.",
+    "difficulty": "hard",
+    "content_hash": "378925a69aa3293e1be93809a01c8e0ef1e22fc7ac4adcf69778f660925bc8af",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Nobel-winning Suzuki coupling, devised by Akira Suzuki, forms carbon–carbon bonds using a palladium catalyst and which reagents?",
+    "choices": [
+      "Organoboron compounds",
+      "Organolithium compounds",
+      "Grignard reagents",
+      "Organozinc halides"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Suzuki coupling joins an organoboron compound with an organohalide, a mild reaction now central to drug manufacture.",
+    "difficulty": "hard",
+    "content_hash": "e0e80e9a3c5c4a567866b4048d2643646c49541612a1fe3994dee1215a7038ff",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Kenichi Fukui, the first Asian winner of the Nobel Prize in Chemistry (1981), is known for theory about what?",
+    "choices": [
+      "Frontier orbitals (HOMO and LUMO) in reactions",
+      "The shape of the benzene ring",
+      "Radioactive decay chains",
+      "Enzyme lock-and-key binding"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Fukui's frontier molecular orbital theory showed that the highest occupied and lowest unoccupied orbitals govern reactivity.",
+    "difficulty": "hard",
+    "content_hash": "7067ea79a97df303433c07d2e40653a14b61a90b4a10f31e893fc341658e3453",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "In 1910 Umetaro Suzuki extracted 'oryzanin' from rice bran — a substance now known as which vitamin?",
+    "choices": [
+      "Vitamin B1 (thiamine)",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Suzuki's oryzanin was thiamine, whose absence in polished rice causes beriberi; his 1910 paper predated Funk's naming of vitamins.",
+    "difficulty": "hard",
+    "content_hash": "71ab19e2bfd6210e70dba8b2468c2b7e129ed0f7a886f0c502db0fe07564d4c0",
+    "topic_pack_id": "science",
+    "country": "JP",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which American astronaut became the first person to walk on the Moon in July 1969?",
+    "choices": [
+      "Buzz Aldrin",
+      "Neil Armstrong",
+      "John Glenn",
+      "Alan Shepard"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Neil Armstrong stepped onto the lunar surface on July 20, 1969, during Apollo 11, followed minutes later by Buzz Aldrin.",
+    "difficulty": "easy",
+    "content_hash": "e82daea70695451ee67be8bf9b3a7f1e313ed7b2ecd533a4ed0ec2dfb258f5cc",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Benjamin Franklin's famous kite-and-key experiment was meant to show that lightning is a form of what?",
+    "choices": [
+      "Magnetism",
+      "Electricity",
+      "Burning gas",
+      "Sound energy"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Franklin's 1752 experiment supported his idea that lightning is an electrical discharge, leading to the lightning rod.",
+    "difficulty": "easy",
+    "content_hash": "d96d801d0f5d34b8f6e78915afaf1a33e068487b8ab1b2349ac92e6c05c81237",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Thomas Edison's New Jersey lab is best known for developing a practical version of which everyday device?",
+    "choices": [
+      "The telephone",
+      "The incandescent light bulb",
+      "The radio",
+      "The refrigerator"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "At Menlo Park, Edison's team perfected a long-lasting carbon-filament incandescent lamp around 1879.",
+    "difficulty": "easy",
+    "content_hash": "6d5e9983f791a7ce5b0c12a9fe688a52bdc212a73573c191155b7a86fc1ce8fc",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which river carved the Grand Canyon in Arizona?",
+    "choices": [
+      "Rio Grande",
+      "Snake River",
+      "Colorado River",
+      "Missouri River"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "The Colorado River has cut down through layers of rock for millions of years to form the Grand Canyon.",
+    "difficulty": "easy",
+    "content_hash": "7e6e33a77e6bb8bb34e3f2d248e2017d1c80d4c9ea374ed7618fe72dcae98acd",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Old Faithful, one of the world's most predictable geysers, erupts in which U.S. national park?",
+    "choices": [
+      "Yosemite",
+      "Yellowstone",
+      "Zion",
+      "Everglades"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Old Faithful sits in Yellowstone National Park, which is fueled by heat from a massive underlying volcanic system.",
+    "difficulty": "easy",
+    "content_hash": "4f658321039887e49e1fc28e6afcd6afa070384d69d633907f6a350fb0125556",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Wright brothers made the first sustained powered airplane flight in 1903 at which U.S. location?",
+    "choices": [
+      "Kitty Hawk, North Carolina",
+      "Dayton, Ohio",
+      "Cape Canaveral, Florida",
+      "Roswell, New Mexico"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Orville and Wilbur Wright flew the Wright Flyer near Kitty Hawk on the windy Outer Banks on December 17, 1903.",
+    "difficulty": "easy",
+    "content_hash": "1e656af8880baec605d86e789abcb68d445a38d5cb8a90659859f6acfa9e231b",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "What is the highest mountain peak in the United States?",
+    "choices": [
+      "Mount Whitney",
+      "Mount Rainier",
+      "Denali",
+      "Pikes Peak"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Denali in Alaska rises about 6,190 metres (20,310 feet), the highest point in North America.",
+    "difficulty": "easy",
+    "content_hash": "f5f0a359f00cd1169f5b4e7f00ca39d2a0e3f8cf377c85c52356a7c7491c6d0e",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "American researcher Jonas Salk developed the first widely used vaccine against which disease in the 1950s?",
+    "choices": [
+      "Measles",
+      "Polio",
+      "Smallpox",
+      "Tuberculosis"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Salk's inactivated poliovirus vaccine was declared safe and effective in 1955, dramatically reducing polio cases.",
+    "difficulty": "easy",
+    "content_hash": "463eebaf7953f51d718ec4ac1bb56f33af26d77e1beb77ae35fc26f875063f9a",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which U.S. volcano erupted catastrophically on May 18, 1980, blowing out its north face?",
+    "choices": [
+      "Mount Hood",
+      "Mount Shasta",
+      "Mount St. Helens",
+      "Mount Rainier"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "Mount St. Helens in Washington State erupted after a huge landslide, killing 57 people and flattening forests.",
+    "difficulty": "easy",
+    "content_hash": "17a5fedb0f7f3cc7fd591ea0b38acaa7209cc9b3a6349ccf6123ca1bf2d61f98",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "NASA's Hubble Space Telescope, launched in 1990, observes the universe from where?",
+    "choices": [
+      "A mountaintop in Hawaii",
+      "Orbit around Earth",
+      "The surface of the Moon",
+      "Orbit around Mars"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Hubble was deployed from the Space Shuttle Discovery into low Earth orbit, above the blurring effects of the atmosphere.",
+    "difficulty": "easy",
+    "content_hash": "7b0ef978ffd95ff2aa2a9db4888abddab41edfe0c2e2695d74e17f90efed26c0",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Which of the Great Lakes is the largest by surface area?",
+    "choices": [
+      "Lake Michigan",
+      "Lake Huron",
+      "Lake Erie",
+      "Lake Superior"
+    ],
+    "correct_choice_index": 3,
+    "explanation": "Lake Superior covers about 82,000 square kilometres, making it the largest freshwater lake in the world by area.",
+    "difficulty": "easy",
+    "content_hash": "180a9c3710007e6fb896def0f7247490fc091d32f17326f5c4db2341e6773362",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "In the U.S. space agency NASA, what does the first 'A' stand for?",
+    "choices": [
+      "Aeronautics",
+      "Astronautics",
+      "Atmospheric",
+      "Applied"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "NASA stands for the National Aeronautics and Space Administration, founded in 1958.",
+    "difficulty": "easy",
+    "content_hash": "74dc5000695419ace183c086eba0ce786c8e6f138ae254419119d354201f8a38",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Trinity test, the first detonation of a nuclear weapon, took place in 1945 in which U.S. state?",
+    "choices": [
+      "Nevada",
+      "New Mexico",
+      "Utah",
+      "Tennessee"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "The Manhattan Project's plutonium implosion device was tested at the Trinity site in the New Mexico desert on July 16, 1945.",
+    "difficulty": "medium",
+    "content_hash": "f849911510c9edc4301425ff300e8de54bb6252e254db77d1d65e609297a34be",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Barbara McClintock won a Nobel Prize for discovering 'jumping genes' while studying which plant?",
+    "choices": [
+      "Wheat",
+      "Maize (corn)",
+      "Pea plants",
+      "Tobacco"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Working with maize chromosomes at Cold Spring Harbor, McClintock discovered transposable elements, earning the 1983 Nobel Prize.",
+    "difficulty": "medium",
+    "content_hash": "820a55b31b2db6ee34b5507d74e28cac9c4de27edba71cc83adcdec96c0c4372",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Edwin Hubble's observations at Mount Wilson established what about the universe?",
+    "choices": [
+      "It is expanding",
+      "It is static and eternal",
+      "It is smaller than believed",
+      "It is filled with ether"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Hubble showed distant galaxies recede faster the farther away they are, evidence that the universe is expanding.",
+    "difficulty": "medium",
+    "content_hash": "94786392a087f65752edb1f5d9f833e66f236783f30e83676a6a685ce21e8561",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "NASA's Voyager 1, launched in 1977, achieved what milestone in 2012?",
+    "choices": [
+      "Landing on Titan",
+      "Entering interstellar space",
+      "Orbiting Pluto",
+      "Returning comet samples"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Voyager 1 crossed the heliopause in 2012, becoming the first human-made object to enter interstellar space.",
+    "difficulty": "medium",
+    "content_hash": "606460022594e47790aa2b5467efb4c1986c1f3e2b4d2a3aa7c1acaa09526971",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "California's San Andreas Fault is an example of which type of plate boundary?",
+    "choices": [
+      "Convergent (subduction)",
+      "Divergent (spreading)",
+      "Transform (sliding)",
+      "Hotspot"
+    ],
+    "correct_choice_index": 2,
+    "explanation": "The Pacific and North American plates grind past each other horizontally along the San Andreas transform fault.",
+    "difficulty": "medium",
+    "content_hash": "8696ae6d057878b77ff1bc4ec833eb1cfe63e6e1e60f92b660194cd7167046e8",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The U.S. LIGO detectors made their first direct detection of gravitational waves in 2015 from what event?",
+    "choices": [
+      "Two black holes merging",
+      "A supernova in the Milky Way",
+      "A pulsar glitch",
+      "A comet impact on Jupiter"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "LIGO's Hanford and Livingston detectors recorded ripples in spacetime from a merger of two black holes about 1.3 billion light-years away.",
+    "difficulty": "medium",
+    "content_hash": "c1cfff60232591f3e01a49fcf0ef24e9dcac70eb75e55bd60633ae355605d228",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Rachel Carson's 1962 book 'Silent Spring' warned about the environmental effects of which pesticide?",
+    "choices": [
+      "Glyphosate",
+      "DDT",
+      "Arsenic trioxide",
+      "Paris green"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Carson documented how DDT accumulated in food chains and harmed birds, helping spark the modern environmental movement.",
+    "difficulty": "medium",
+    "content_hash": "495c33cef9654854489d3640c42bcdedafc223aef8e1f64763ccd255283a216e",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "American chemist Linus Pauling is the only person to win two unshared Nobel Prizes. In which two categories?",
+    "choices": [
+      "Chemistry and Physics",
+      "Chemistry and Peace",
+      "Physics and Medicine",
+      "Chemistry and Medicine"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Pauling won the 1954 Chemistry prize for the nature of the chemical bond and the 1962 Peace Prize for opposing nuclear testing.",
+    "difficulty": "medium",
+    "content_hash": "63e1084a6f77e97aa2cb2f853bc1996cbe27a396d861e3bcdbdde2df8a4edfe1",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The 1952 Miller–Urey experiment at the University of Chicago showed that simulated early-Earth conditions could produce what?",
+    "choices": [
+      "Living bacteria",
+      "Amino acids",
+      "DNA molecules",
+      "Free oxygen"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Sparking a mix of methane, ammonia, hydrogen and water vapour produced amino acids, the building blocks of proteins.",
+    "difficulty": "medium",
+    "content_hash": "a1a48cbc4ff16a0786e351daec5338e11086c98913f06be60ce8c0a67785cbf8",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Clyde Tombaugh discovered Pluto in 1930 while working at which U.S. observatory?",
+    "choices": [
+      "Lowell Observatory, Arizona",
+      "Mount Palomar, California",
+      "Yerkes Observatory, Wisconsin",
+      "Lick Observatory, California"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Tombaugh spotted Pluto on photographic plates at Lowell Observatory in Flagstaff, Arizona.",
+    "difficulty": "medium",
+    "content_hash": "0eeca0d0d5371bb9d819e73d0f6520e51c60535646c178214944403cad4c2b9a",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "The Arecibo Observatory, a giant radio dish that collapsed in 2020, was located in which U.S. territory?",
+    "choices": [
+      "Guam",
+      "Puerto Rico",
+      "U.S. Virgin Islands",
+      "American Samoa"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Arecibo's 305-metre dish sat in a natural sinkhole in Puerto Rico and was a landmark radio and radar astronomy facility.",
+    "difficulty": "medium",
+    "content_hash": "7b41a7bb3705e8301ca0745f91c2570de017a0bd76cd25ccbc90d00fba71c03a",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Badwater Basin, the lowest point in North America at about 86 m below sea level, lies in which U.S. national park?",
+    "choices": [
+      "Joshua Tree",
+      "Death Valley",
+      "Big Bend",
+      "Great Basin"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Badwater Basin in California's Death Valley is a salt flat 282 feet (86 m) below sea level.",
+    "difficulty": "medium",
+    "content_hash": "29de2b972f5706a19743b339f49203ae2bcde58b4b2a6613edd495e320c69754",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Physicist Richard Feynman shared the 1965 Nobel Prize for his work on which theory?",
+    "choices": [
+      "General relativity",
+      "Quantum electrodynamics",
+      "Plate tectonics",
+      "Superconductivity"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Feynman shared the prize with Schwinger and Tomonaga for quantum electrodynamics, the quantum theory of light and matter.",
+    "difficulty": "medium",
+    "content_hash": "2a318ca0a032e9236c77d8fa1ce94f6aaebe1719a2889019750430e57e4ad7f9",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "American physicist Robert Goddard launched the world's first liquid-fueled rocket in 1926. Where did it fly?",
+    "choices": [
+      "A farm in Auburn, Massachusetts",
+      "Cape Canaveral, Florida",
+      "White Sands, New Mexico",
+      "Wallops Island, Virginia"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "Goddard's small gasoline-and-liquid-oxygen rocket rose about 12 metres from his aunt's farm in Auburn, Massachusetts.",
+    "difficulty": "hard",
+    "content_hash": "3289f58f63271b068c282a3bb2b1cc2206f2cdf793d3da3803c0753996491c6b",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Glenn Seaborg's Berkeley team is credited with co-discovering plutonium and many other transuranium elements. Which element is named for him?",
+    "choices": [
+      "Lawrencium",
+      "Seaborgium",
+      "Berkelium",
+      "Californium"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Element 106 was named seaborgium in 1997, while Seaborg was still alive — a rare honour.",
+    "difficulty": "hard",
+    "content_hash": "80ade2dc98d2a452e14b18549441cd135a7bc7d64977378ed7d150b7c926b60f",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Harvard astronomer Henrietta Swan Leavitt discovered the period–luminosity relation for which kind of star?",
+    "choices": [
+      "White dwarfs",
+      "Cepheid variables",
+      "Red giants",
+      "Pulsars"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Leavitt showed Cepheid variables' pulsation periods reveal their true brightness, giving astronomers a cosmic distance yardstick.",
+    "difficulty": "hard",
+    "content_hash": "a5afe7daca820e12a6747781ca071b77258ae2040d23329c930e24b885fc2169",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "American chemist Willard Libby won the 1960 Nobel Prize for developing which dating method?",
+    "choices": [
+      "Potassium-argon dating",
+      "Radiocarbon dating",
+      "Dendrochronology",
+      "Uranium-lead dating"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Libby developed carbon-14 dating at the University of Chicago, revolutionizing archaeology and geology.",
+    "difficulty": "hard",
+    "content_hash": "aebbfe2955c840f9a2c0c43c6d0c7ffaea1b5e80e6ab42b2b4e490d618990acd",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Albert Michelson, the first American to win a Nobel Prize in the sciences, is famous for an 1887 experiment that found no evidence of what?",
+    "choices": [
+      "The luminiferous ether",
+      "Cosmic rays",
+      "Radio waves",
+      "Atomic nuclei"
+    ],
+    "correct_choice_index": 0,
+    "explanation": "The Michelson–Morley experiment detected no ether drift, a key clue that led toward special relativity.",
+    "difficulty": "hard",
+    "content_hash": "ccd70f77382d7b4d67766056500ca94587593fc6543cc72a26616987b4ae5e22",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  },
+  {
+    "question_text": "Yale scientist Josiah Willard Gibbs gave his name to which thermodynamic quantity used to predict spontaneous reactions?",
+    "choices": [
+      "Enthalpy",
+      "Gibbs free energy",
+      "Entropy of mixing",
+      "Heat capacity"
+    ],
+    "correct_choice_index": 1,
+    "explanation": "Gibbs free energy (G = H − TS) determines whether a reaction can proceed spontaneously at constant temperature and pressure.",
+    "difficulty": "hard",
+    "content_hash": "b9534cb1b1452a18adb550ffeb31e6dd0b2fed0952191ec676e8d25186dd4f1e",
+    "topic_pack_id": "science",
+    "country": "US",
+    "sub_topic_id": null
+  }
+]

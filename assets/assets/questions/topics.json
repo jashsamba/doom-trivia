@@ -1,0 +1,20 @@
+[
+  {
+    "id": "history",
+    "display_name": "History",
+    "emoji": "🏛️",
+    "question_count": 321
+  },
+  {
+    "id": "science",
+    "display_name": "Science",
+    "emoji": "🔬",
+    "question_count": 183
+  },
+  {
+    "id": "flags",
+    "display_name": "Flags",
+    "emoji": "🚩",
+    "question_count": 133
+  }
+]
