@@ -60794,7 +60794,7 @@ return A.p($async$y_,r)},
 aFf(){var s,r,q,p,o=this,n=new A.c5(Date.now(),0,!1).nf($.I6.a),m=o.gcr().Q,l=o.gcr().e
 A:{if("choose"===l){s=12e3
 break A}if("question"===l){s=2e4
-break A}if("reveal"===l){s=3000
+break A}if("reveal"===l){s=8000
 break A}s=1
 break A}r=m==null||o.gcr().d!=="playing"?0:B.d.bg(B.f.cT(m.eu(n).a,1000)/s,0,1)
 q=o.gcr().z
