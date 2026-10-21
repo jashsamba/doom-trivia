@@ -54845,13 +54845,12 @@ k=k==null?n:new A.lg(k,n,n)
 return new A.uy(B.Q8,new A.als(),"Doom Trivia",s,k,B.adA,B.a7C,!1,B.S5,n)},
 $S:363}
 A.als.prototype={
-$2(a,b){var s,r=A.fH(a,B.awN,t.wr)
-r.toString
-$.buM=r
-s=A.aY(a,null,t.l).w
-r=s.aLP(s.ax||$.QQ().a)
+$2(a,b){var s=A.fH(a,B.awN,t.wr)
+s.toString
+$.buM=s
+s=A.aY(a,null,t.l).w.aLP($.QQ().a)
 b.toString
-return A.kh(new A.Gq(b,null),r)},
+return A.kh(new A.Gq(b,null),s)},
 $S:287}
 A.awE.prototype={
 Ah(a,b,c){return b}}
